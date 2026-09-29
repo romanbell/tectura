@@ -1,0 +1,852 @@
+[
+  {
+    "id": "annabelle-selldorf",
+    "name": "Annabelle Selldorf",
+    "born": 1960,
+    "died": null,
+    "country": "Germany / United States",
+    "link": "https://www.selldorf.com",
+    "linkLabel": "Selldorf",
+    "firm": "Selldorf Architects",
+    "styles": ["Minimalism", "Contextualism"],
+    "wikipedia": "Annabelle Selldorf",
+    "bio": "Born in Cologne to a family in the furniture business — her father co-founded the design firm Vica, which she still runs on the side — Selldorf moved to New York to study at Pratt and opened her own office in 1988. She became the art world's house architect almost by stealth: galleries for David Zwirner and Hauser & Wirth, the Neue Galerie for Ronald Lauder, spaces so reticent that critics struggled to say what she had done, which was the point. The same discretion got her the two most nervously watched renovation jobs in recent memory, the Frick Collection and the National Gallery's Sainsbury Wing, both reopened in 2025 after years of preemptive outrage that largely evaporated on opening day. She has also designed a recycling plant on the Brooklyn waterfront with the same care as her museums, and seems mildly amused that people find this surprising.",
+    "projects": [
+      {
+        "title": "Frick Collection Renovation",
+        "year": "2025",
+        "location": "New York, US",
+        "blurb": "The Gilded Age mansion-museum expanded and rewired, with the family's upstairs rooms opened to the public for the first time.",
+        "wikipedia": "Frick Collection"
+      },
+      {
+        "title": "Neue Galerie New York",
+        "year": "2001",
+        "location": "New York, US",
+        "blurb": "A Carrère & Hastings mansion on Fifth Avenue turned into a jewel-box museum of German and Austrian art, Klimt's gold Adele included.",
+        "wikipedia": "Neue Galerie New York"
+      },
+      {
+        "title": "Sainsbury Wing Renovation",
+        "year": "2025",
+        "location": "London, UK",
+        "blurb": "A recalibration of Venturi and Scott Brown's postmodern wing for the National Gallery — touching it at all drew fire; the result mostly quieted it.",
+        "wikipedia": "Sainsbury Wing"
+      },
+      {
+        "title": "David Zwirner 20th Street",
+        "year": "2013",
+        "location": "New York, US",
+        "blurb": "A purpose-built Chelsea gallery in exposed concrete and teak, the template for the mega-gallery as understated civic building.",
+        "wikipedia": null
+      },
+      {
+        "title": "Museum of Contemporary Art San Diego",
+        "year": "2022",
+        "location": "La Jolla, US",
+        "blurb": "An expansion that quadrupled gallery space while deferring to Irving Gill's 1916 original and the Pacific behind it.",
+        "wikipedia": "Museum of Contemporary Art San Diego"
+      },
+      {
+        "title": "Rubell Museum",
+        "year": "2019",
+        "location": "Miami, US",
+        "blurb": "Six industrial sheds in Allapattah stitched into a private collection museum of forty galleries.",
+        "wikipedia": "Rubell Museum"
+      },
+      {
+        "title": "Sunset Park Material Recovery Facility",
+        "year": "2013",
+        "location": "Brooklyn, US",
+        "blurb": "New York's curbside recycling plant as dignified waterfront architecture, complete with an education center for school groups.",
+        "wikipedia": null
+      },
+      {
+        "title": "200 Eleventh Avenue",
+        "year": "2010",
+        "location": "New York, US",
+        "blurb": "A condominium clad in gunmetal steel whose car elevator delivers residents' vehicles to 'sky garages' beside their living rooms.",
+        "wikipedia": "200 Eleventh Avenue"
+      },
+      {
+        "title": "Luma Arles Ateliers",
+        "year": "2016",
+        "location": "Arles, FR",
+        "blurb": "The former railway workshops of the Parc des Ateliers converted into vast exhibition halls, playing straight man to Gehry's tower.",
+        "wikipedia": "Luma Arles"
+      },
+      {
+        "title": "Le Stanze del Vetro",
+        "year": "2012",
+        "location": "Venice, IT",
+        "blurb": "A gallery for glass art on the island of San Giorgio Maggiore, carved quietly out of a former convent school.",
+        "wikipedia": null
+      }
+    ]
+  },
+  {
+    "id": "vincent-van-duysen",
+    "name": "Vincent Van Duysen",
+    "born": 1962,
+    "died": null,
+    "country": "Belgium",
+    "link": "https://vincentvanduysen.com",
+    "linkLabel": "VVDA",
+    "firm": "Vincent Van Duysen Architects",
+    "styles": ["Minimalism"],
+    "wikipedia": "Vincent Van Duysen",
+    "bio": "Van Duysen was born in Lokeren, trained at Sint-Lucas in Ghent, and spent his formative years in Milan with Aldo Cibic in the orbit of Memphis — an apprenticeship in exuberance he then spent a career politely refusing. Back in Antwerp he opened his office in 1990 and built a Flemish counter-position: lime plaster, bleached oak, linen, stone floors worn smooth, rooms organized around light and silence rather than incident. The work is mostly domestic and mostly private, which has not stopped it from being enormously influential; half the world's 'quiet luxury' interiors are diluted Van Duysen. Since 2016 he has been creative director of Molteni&C, and his client list runs from Belgian collectors to Kanye West and Julianne Moore. He calls what he does not minimalism but 'the essential' — architecture you feel on your skin before you notice it with your eyes.",
+    "projects": [
+      {
+        "title": "August",
+        "year": "2019",
+        "location": "Antwerp, BE",
+        "blurb": "A nineteenth-century Augustinian convent turned into a hotel across five buildings, its chapel now a bar with the restraint of a sacristy.",
+        "wikipedia": null
+      },
+      {
+        "title": "Graanmarkt 13",
+        "year": "2010",
+        "location": "Antwerp, BE",
+        "blurb": "A townhouse holding a store, restaurant and apartment — the whole Van Duysen ethos compressed into one address.",
+        "wikipedia": null
+      },
+      {
+        "title": "VVD Residence",
+        "year": "2016",
+        "location": "Antwerp, BE",
+        "blurb": "His own townhouse and manifesto: raw plaster, dark oak and his dachshunds, photographed more than most museums.",
+        "wikipedia": null
+      },
+      {
+        "title": "Casa M",
+        "year": "2021",
+        "location": "Melides, PT",
+        "blurb": "His farmhouse compound on the Alentejo coast, thick-walled and monastic among the umbrella pines.",
+        "wikipedia": null
+      },
+      {
+        "title": "DC II Residence",
+        "year": "2011",
+        "location": "Tielrode, BE",
+        "blurb": "A house of whitewashed volumes under a sculptural roofscape, the rural Flemish barn distilled.",
+        "wikipedia": null
+      },
+      {
+        "title": "TR Residence",
+        "year": "2016",
+        "location": "Knokke, BE",
+        "blurb": "A coastal house in brick and thatch that argues tradition and abstraction were never enemies.",
+        "wikipedia": null
+      },
+      {
+        "title": "Concordia Offices",
+        "year": "1998",
+        "location": "Waregem, BE",
+        "blurb": "Headquarters for a textile firm and the early proof that his domestic calm scaled to the workplace.",
+        "wikipedia": null
+      },
+      {
+        "title": "Copyright Bookshop",
+        "year": "2004",
+        "location": "Antwerp, BE",
+        "blurb": "An art bookshop in the fashion museum quarter, shelved like a private library.",
+        "wikipedia": null
+      },
+      {
+        "title": "C Penthouse",
+        "year": "2013",
+        "location": "Antwerp, BE",
+        "blurb": "A rooftop apartment above the old city, reduced to plaster, oak and the cathedral view.",
+        "wikipedia": null
+      },
+      {
+        "title": "Molteni&C Flagship Stores",
+        "year": "2015–",
+        "location": "Milan, IT",
+        "blurb": "A global retail identity for the furniture house he art-directs, rolled out from Milan to New York and Tokyo.",
+        "wikipedia": null
+      }
+    ]
+  },
+  {
+    "id": "wang-shu",
+    "name": "Wang Shu",
+    "born": 1963,
+    "died": null,
+    "country": "China",
+    "link": null,
+    "linkLabel": null,
+    "firm": "Amateur Architecture Studio (with Lu Wenyu)",
+    "styles": ["Critical Regionalism", "New Materiality"],
+    "wikipedia": "Wang Shu",
+    "bio": "Born in Ürümqi and educated in Nanjing and at Tongji, Wang spent most of the 1990s deliberately not building — working alongside craftsmen on renovations in Hangzhou while China demolished its past at speed. In 1997 he and his wife Lu Wenyu founded Amateur Architecture Studio, the name a jab at the professionalized, soulless building industry he holds responsible. Their method is salvage: millions of tiles and bricks reclaimed from flattened villages are relaid in wapan masonry, so that new walls arrive already carrying time. The Ningbo History Museum made the argument at civic scale; the Xiangshan campus made it a pedagogy, and Wang now runs the architecture school there. The 2012 Pritzker made him the first Chinese citizen to win — awarded to him alone, though the work is inseparably Lu's too, a slight the couple has handled with more grace than the jury deserved.",
+    "projects": [
+      {
+        "title": "Ningbo History Museum",
+        "year": "2008",
+        "location": "Ningbo, CN",
+        "blurb": "A tilting mountain of a museum faced in millions of salvaged tiles and bricks from demolished villages — memory as cladding.",
+        "wikipedia": "Ningbo Museum"
+      },
+      {
+        "title": "Xiangshan Campus, China Academy of Art",
+        "year": "2004–2007",
+        "location": "Hangzhou, CN",
+        "blurb": "An entire art-school campus built like a scroll painting, with reclaimed-tile roofs and paths that refuse straight lines.",
+        "wikipedia": "China Academy of Art"
+      },
+      {
+        "title": "Library of Wenzheng College",
+        "year": "2000",
+        "location": "Suzhou, CN",
+        "blurb": "A lakeside library half-sunk into its site out of deference to garden tradition; the studio's first significant building.",
+        "wikipedia": null
+      },
+      {
+        "title": "Vertical Courtyard Apartments",
+        "year": "2007",
+        "location": "Hangzhou, CN",
+        "blurb": "High-rise housing that stacks two-story courtyard dwellings, smuggling the traditional house into the tower.",
+        "wikipedia": null
+      },
+      {
+        "title": "Five Scattered Houses",
+        "year": "2006",
+        "location": "Ningbo, CN",
+        "blurb": "Five small pavilions testing five construction experiments along a Ningbo waterfront park.",
+        "wikipedia": null
+      },
+      {
+        "title": "Ningbo Contemporary Art Museum",
+        "year": "2005",
+        "location": "Ningbo, CN",
+        "blurb": "A former harbor terminal rebuilt as an art museum on a brick plinth, ship-like above the old ferry landing.",
+        "wikipedia": null
+      },
+      {
+        "title": "Wa Shan Guesthouse",
+        "year": "2013",
+        "location": "Hangzhou, CN",
+        "blurb": "A campus guesthouse under one vast rambling tile roof, part building, part artificial mountain range.",
+        "wikipedia": null
+      },
+      {
+        "title": "Fuyang Cultural Complex",
+        "year": "2016",
+        "location": "Fuyang, CN",
+        "blurb": "A museum and archive whose rolling roofline paraphrases Huang Gongwang's scroll of these same mountains.",
+        "wikipedia": null
+      },
+      {
+        "title": "Wencun Village Houses",
+        "year": "2016",
+        "location": "Fuyang, CN",
+        "blurb": "New farmhouses for an existing village, built with local craftsmen as a live rebuke to China's copy-paste rural renewal.",
+        "wikipedia": null
+      },
+      {
+        "title": "Tengtou Pavilion, Expo 2010",
+        "year": "2010",
+        "location": "Shanghai, CN",
+        "blurb": "A village's pavilion at the Shanghai Expo, walled in recycled brick amid the fair's technophilia.",
+        "wikipedia": null
+      }
+    ]
+  },
+  {
+    "id": "jeanne-gang",
+    "name": "Jeanne Gang",
+    "born": 1964,
+    "died": null,
+    "country": "United States",
+    "link": "https://studiogang.com",
+    "linkLabel": "Studio Gang",
+    "firm": "Studio Gang",
+    "styles": ["Ecological Design", "Structural Expressionism"],
+    "wikipedia": "Jeanne Gang",
+    "bio": "Gang grew up in Belvidere, Illinois, the daughter of a civil engineer who took the family on road trips to look at bridges — a childhood she has spent a career repaying. After Harvard's GSD and a stint at OMA in Rotterdam she founded Studio Gang in Chicago in 1997, and in 2010 completed Aqua, an 82-story tower whose rippling concrete balconies made it the tallest building in the world designed by a woman; her own St. Regis Chicago later took the record. The practice runs on research as much as form: bird-safe glass, mass timber, prairie ecology, a habit of interviewing communities before drawing. A MacArthur fellowship arrived in 2011, and the Gilder Center's cave-like canyon at the American Museum of Natural History showed the approach could carry a whole institution. She still teaches, still publishes, and still talks about buildings the way her father talked about bridges — as things that must work for everyone underneath them.",
+    "projects": [
+      {
+        "title": "Aqua Tower",
+        "year": "2010",
+        "location": "Chicago, US",
+        "blurb": "An 82-story tower whose undulating balconies turn a standard slab into hillside topography; the tallest woman-designed building of its day.",
+        "wikipedia": "Aqua (skyscraper)"
+      },
+      {
+        "title": "St. Regis Chicago",
+        "year": "2020",
+        "location": "Chicago, US",
+        "blurb": "Three stepping, crystalline stalks on the river that took Aqua's own record as the world's tallest building designed by a woman.",
+        "wikipedia": "St. Regis Chicago"
+      },
+      {
+        "title": "Gilder Center, American Museum of Natural History",
+        "year": "2023",
+        "location": "New York, US",
+        "blurb": "A canyon of shotcrete caves connecting the museum's back-of-house sprawl, geology impersonated by structure.",
+        "wikipedia": "Richard Gilder Center for Science, Education, and Innovation"
+      },
+      {
+        "title": "Mira",
+        "year": "2020",
+        "location": "San Francisco, US",
+        "blurb": "A 39-story tower of spiraling bay windows — the San Francisco bay window taken for a twist.",
+        "wikipedia": "Mira (San Francisco)"
+      },
+      {
+        "title": "Writers Theatre",
+        "year": "2016",
+        "location": "Glencoe, US",
+        "blurb": "A regional theater wrapped in a timber gallery-walk, intimate enough to hear the actors breathe.",
+        "wikipedia": "Writers Theatre"
+      },
+      {
+        "title": "Bengt Sjostrom Starlight Theatre",
+        "year": "2003",
+        "location": "Rockford, US",
+        "blurb": "An outdoor theater whose faceted steel roof blooms open to the sky in good weather; the early proof of structural imagination.",
+        "wikipedia": "Bengt Sjostrom Starlight Theatre"
+      },
+      {
+        "title": "WMS Boathouse at Clark Park",
+        "year": "2013",
+        "location": "Chicago, US",
+        "blurb": "A rowing boathouse whose sawtooth roof diagrams the rhythm of an oar stroke, part of reclaiming the Chicago River.",
+        "wikipedia": null
+      },
+      {
+        "title": "Nature Boardwalk Pavilion",
+        "year": "2010",
+        "location": "Chicago, US",
+        "blurb": "A laminated-wood and fiberglass canopy at Lincoln Park Zoo, a tortoise shell for an urban wetland classroom.",
+        "wikipedia": null
+      },
+      {
+        "title": "Arkansas Museum of Fine Arts",
+        "year": "2023",
+        "location": "Little Rock, US",
+        "blurb": "A pleated concrete spine threaded through a 1937 museum and its accretions, tying decades of additions into one building.",
+        "wikipedia": "Arkansas Museum of Fine Arts"
+      },
+      {
+        "title": "Campus North Residential Commons",
+        "year": "2016",
+        "location": "Chicago, US",
+        "blurb": "University of Chicago dormitories organized into three-story 'house' communities behind a folded precast facade.",
+        "wikipedia": null
+      }
+    ]
+  },
+  {
+    "id": "bijoy-jain",
+    "name": "Bijoy Jain",
+    "born": 1965,
+    "died": null,
+    "country": "India",
+    "link": null,
+    "linkLabel": null,
+    "firm": "Studio Mumbai",
+    "styles": ["Vernacular Modernism", "Craft"],
+    "wikipedia": "Bijoy Jain",
+    "bio": "Jain was born in Mumbai, swam competitively in his youth, and trained at Washington University in St. Louis before working for Richard Meier in Los Angeles and London — an education in white precision he returned to India in 1995 to unlearn. Studio Mumbai is less an office than a workshop: carpenters, masons and architects sharing one yard, developing buildings through full-scale mock-ups, material studies and drawing done by hand, with the master craftsman as co-author rather than subcontractor. The houses along the Maharashtra coast — Palmyra, Tara, Copper House II — are built of teak, basalt, lime and well water with a patience that made the studio a cult far beyond India. Venice gave the practice a special mention in 2010 for an installation that simply reconstructed its own workshop. Jain now works at the scale of furniture and exhibitions as readily as houses, arguing that architecture's real material is neither stone nor wood but time.",
+    "projects": [
+      {
+        "title": "Palmyra House",
+        "year": "2007",
+        "location": "Nandgaon, IN",
+        "blurb": "A pair of louvered timber boxes in a coconut grove, cooled by sea breeze and shaded by palmyra-wood screens.",
+        "wikipedia": null
+      },
+      {
+        "title": "Copper House II",
+        "year": "2012",
+        "location": "Chondi, IN",
+        "blurb": "A monsoon house wrapped in oxidizing copper around a courtyard open to the rain.",
+        "wikipedia": null
+      },
+      {
+        "title": "Tara House",
+        "year": "2005",
+        "location": "Kashid, IN",
+        "blurb": "A courtyard house above a subterranean stone cistern fed by the aquifer — a private well as the building's heart.",
+        "wikipedia": null
+      },
+      {
+        "title": "Ganga Maki Textile Studio",
+        "year": "2017",
+        "location": "Dehradun, IN",
+        "blurb": "A weaving campus in the Himalayan foothills built of brick, lime and glass bangles, where the looms set the plan.",
+        "wikipedia": null
+      },
+      {
+        "title": "MPavilion",
+        "year": "2016",
+        "location": "Melbourne, AU",
+        "blurb": "A bamboo hall lashed together by hand for Melbourne's annual pavilion commission, its 'tazia' spire built by Indian craftsmen on site.",
+        "wikipedia": "MPavilion"
+      },
+      {
+        "title": "Leti 360 Resort",
+        "year": "2007",
+        "location": "Leti, IN",
+        "blurb": "Four stone-and-glass guest pavilions at 8,000 feet in Kumaon, built by hand where no road reaches.",
+        "wikipedia": null
+      },
+      {
+        "title": "Saat Rasta",
+        "year": "2016",
+        "location": "Mumbai, IN",
+        "blurb": "A row of goods-yard warehouses converted into dwellings around a shared lane, urban housing by subtraction.",
+        "wikipedia": null
+      },
+      {
+        "title": "Utsav House",
+        "year": "2008",
+        "location": "Satirje, IN",
+        "blurb": "A house of low pavilions and verandas negotiated around existing trees and a mango orchard.",
+        "wikipedia": null
+      },
+      {
+        "title": "Ahmedabad House",
+        "year": "2014",
+        "location": "Ahmedabad, IN",
+        "blurb": "A brick residence structured by deep verandas and water channels against the Gujarat heat.",
+        "wikipedia": null
+      },
+      {
+        "title": "Belavali House",
+        "year": "2008",
+        "location": "Belavali, IN",
+        "blurb": "A pigmented-concrete house dissolving into its garden terraces below the Western Ghats.",
+        "wikipedia": null
+      }
+    ]
+  },
+  {
+    "id": "francis-kere",
+    "name": "Francis Kéré",
+    "born": 1965,
+    "died": null,
+    "country": "Burkina Faso / Germany",
+    "link": "https://www.kerearchitecture.com",
+    "linkLabel": "Kéré",
+    "firm": "Kéré Architecture",
+    "styles": ["Vernacular Modernism", "Sustainable Design"],
+    "wikipedia": "Diébédo Francis Kéré",
+    "bio": "Kéré was born in Gando, a Burkinabé village without electricity or a school, the eldest son of the chief, and was sent away at seven to be educated — a separation he has described as the wound the work keeps healing. A carpentry apprenticeship led to a scholarship in Berlin and eventually a degree from the Technical University, but before he had even graduated he raised funds from fellow students to build Gando a school. Completed in 2001 by the whole village out of compressed clay blocks under a raised metal roof, it won the Aga Khan Award and set the template: local material, communal labor, climate handled by section rather than machinery. The office he founded in Berlin in 2005 now builds parliaments, campuses and pavilions across Africa and beyond, including the Serpentine Pavilion in 2017. The 2022 Pritzker made him the first African laureate, a fact the profession managed to be surprised by.",
+    "projects": [
+      {
+        "title": "Gando Primary School",
+        "year": "2001",
+        "location": "Gando, BF",
+        "blurb": "A clay-brick school built by the village that raised him, cooled by a floating roof; the Aga Khan Award-winning origin of the whole practice.",
+        "wikipedia": "Gando Primary School"
+      },
+      {
+        "title": "Serpentine Pavilion 2017",
+        "year": "2017",
+        "location": "London, UK",
+        "blurb": "An indigo timber enclosure under a funnel roof that pours rainwater into the center — a Gando tree-gathering translated to Kensington Gardens.",
+        "wikipedia": null
+      },
+      {
+        "title": "Benin National Assembly",
+        "year": "2023–",
+        "location": "Porto-Novo, BJ",
+        "blurb": "A parliament shaped like the palaver tree under which West African assemblies traditionally met, with a public park at its feet.",
+        "wikipedia": null
+      },
+      {
+        "title": "Lycée Schorge",
+        "year": "2016",
+        "location": "Koudougou, BF",
+        "blurb": "A secondary school of radiating laterite classrooms behind a screen of eucalyptus, its wind-catching towers doing the air conditioning.",
+        "wikipedia": null
+      },
+      {
+        "title": "Opera Village",
+        "year": "2010–",
+        "location": "Laongo, BF",
+        "blurb": "Christoph Schlingensief's improbable opera-and-school settlement, built out by Kéré in clay modules after the director's death.",
+        "wikipedia": "Operndorf Afrika"
+      },
+      {
+        "title": "Startup Lions Campus",
+        "year": "2021",
+        "location": "Turkana, KE",
+        "blurb": "An IT campus on Lake Turkana whose termite-mound towers ventilate the server rooms without power the grid cannot supply.",
+        "wikipedia": null
+      },
+      {
+        "title": "Surgical Clinic and Health Centre",
+        "year": "2014",
+        "location": "Léo, BF",
+        "blurb": "A rural clinic of shaded courtyards and overhanging roofs, medical infrastructure at village temperature.",
+        "wikipedia": null
+      },
+      {
+        "title": "Burkina Institute of Technology",
+        "year": "2020",
+        "location": "Koudougou, BF",
+        "blurb": "University buildings of poured clay walls cast in cooling mass, expanding the Lycée Schorge campus.",
+        "wikipedia": null
+      },
+      {
+        "title": "National Park of Mali Buildings",
+        "year": "2010",
+        "location": "Bamako, ML",
+        "blurb": "Entry pavilions, restaurant and sports center in stone for Bamako's restored park, built for Mali's independence cinquantenaire.",
+        "wikipedia": null
+      },
+      {
+        "title": "Xylem",
+        "year": "2019",
+        "location": "Fishtail, US",
+        "blurb": "A gathering pavilion at Tippet Rise made of bundled beetle-killed pine logs, a shaded toguna for the Montana prairie.",
+        "wikipedia": null
+      }
+    ]
+  },
+  {
+    "id": "david-adjaye",
+    "name": "David Adjaye",
+    "born": 1966,
+    "died": null,
+    "country": "Tanzania / United Kingdom / Ghana",
+    "link": "https://www.adjaye.com",
+    "linkLabel": "Adjaye Assoc.",
+    "firm": "Adjaye Associates",
+    "styles": ["Contemporary", "Civic Monumentalism"],
+    "wikipedia": "David Adjaye",
+    "bio": "Born in Dar es Salaam to Ghanaian diplomat parents, Adjaye grew up across Africa and the Middle East before landing in London, where the Royal College of Art and a circle of YBA friends — Chris Ofili, Jake Chapman — gave him his first clients. The early houses, brooding and clad in black, made his name; the Idea Stores in Tower Hamlets rethought the public library as high-street civic space. Adjaye Associates, founded in 2000, grew into offices on three continents, and the National Museum of African American History and Culture — its bronze corona drawn from Yoruba sculpture — put him at the center of American public architecture in 2016. A knighthood, the RIBA Gold Medal and the Order of Merit followed. In 2023 allegations of sexual misconduct by former employees cost him major commissions and public roles, and both the practice and his reputation have been in complicated repair since.",
+    "projects": [
+      {
+        "title": "National Museum of African American History and Culture",
+        "year": "2016",
+        "location": "Washington, US",
+        "blurb": "A three-tiered bronze corona on the National Mall, its filigree cast from the ironwork of enslaved craftsmen; the Smithsonian's most charged commission.",
+        "wikipedia": "National Museum of African American History and Culture"
+      },
+      {
+        "title": "Idea Store Whitechapel",
+        "year": "2005",
+        "location": "London, UK",
+        "blurb": "The public library rebranded and rebuilt as a green-glass civic storefront on the market street, a template Tower Hamlets repeated.",
+        "wikipedia": "Idea Store"
+      },
+      {
+        "title": "Dirty House",
+        "year": "2002",
+        "location": "London, UK",
+        "blurb": "An East End warehouse turned artists' home for Tim Noble and Sue Webster, painted anti-graffiti brown with a glowing floated roof.",
+        "wikipedia": "Dirty House"
+      },
+      {
+        "title": "Nobel Peace Center",
+        "year": "2005",
+        "location": "Oslo, NO",
+        "blurb": "A nineteenth-century railway station converted into the Peace Prize's exhibition hall behind a canted entrance canopy.",
+        "wikipedia": "Nobel Peace Center"
+      },
+      {
+        "title": "Moscow School of Management Skolkovo",
+        "year": "2010",
+        "location": "Moscow, RU",
+        "blurb": "A Malevich-inspired disc with dormitory bars cantilevered across its roof, a business school as suprematist composition.",
+        "wikipedia": "Moscow School of Management SKOLKOVO"
+      },
+      {
+        "title": "Sugar Hill Development",
+        "year": "2014",
+        "location": "New York, US",
+        "blurb": "Affordable housing, a children's museum and preschool stacked in stepped charcoal concrete at the top of Harlem.",
+        "wikipedia": null
+      },
+      {
+        "title": "Ruby City",
+        "year": "2019",
+        "location": "San Antonio, US",
+        "blurb": "Linda Pace's dreamed-of crimson art building realized posthumously in red concrete aggregate that glitters at dusk.",
+        "wikipedia": "Ruby City"
+      },
+      {
+        "title": "Abrahamic Family House",
+        "year": "2023",
+        "location": "Abu Dhabi, AE",
+        "blurb": "A mosque, church and synagogue as three equal cubes on one podium, interfaith diplomacy rendered in geometry.",
+        "wikipedia": "Abrahamic Family House"
+      },
+      {
+        "title": "Aïshti Foundation",
+        "year": "2015",
+        "location": "Beirut, LB",
+        "blurb": "A seafront mall-and-museum hybrid behind a red ceramic lattice, retail and contemporary art sharing one wrapper.",
+        "wikipedia": null
+      },
+      {
+        "title": "Elektra House",
+        "year": "2000",
+        "location": "London, UK",
+        "blurb": "A Whitechapel house with no street windows at all, daylit from behind; the debut that announced the black-box period.",
+        "wikipedia": null
+      }
+    ]
+  },
+  {
+    "id": "ryue-nishizawa",
+    "name": "Ryue Nishizawa",
+    "born": 1966,
+    "died": null,
+    "country": "Japan",
+    "link": "https://www.sanaa.co.jp",
+    "linkLabel": "SANAA",
+    "firm": "Office of Ryue Nishizawa / SANAA",
+    "styles": ["Minimalism", "New Materiality"],
+    "wikipedia": "Ryue Nishizawa",
+    "bio": "Nishizawa joined Kazuyo Sejima's studio straight out of Yokohama National University in 1990, co-founded SANAA with her in 1995, and — with her blessing — opened his own office two years later, running both in parallel ever since. When the pair shared the 2010 Pritzker he was, at 44, the youngest laureate the prize had ever had. If SANAA's work is diagrammatic and cool, the solo office is where the ideas get strange: Moriyama House exploded a Tokyo home into ten white boxes and gardens that blur whose lot is whose, and the Teshima Art Museum is a single concrete droplet, 60 meters wide, without one column, where water beads up through the floor and crawls toward two open oculi. He keeps both practices deliberately small and drives between them in an old Alfa Romeo, which is roughly the ratio of rigor to romance in the buildings.",
+    "projects": [
+      {
+        "title": "Teshima Art Museum",
+        "year": "2010",
+        "location": "Teshima, JP",
+        "blurb": "A columnless concrete droplet on a terraced island hillside, holding a single artwork of water endlessly forming and escaping.",
+        "wikipedia": "Teshima Art Museum"
+      },
+      {
+        "title": "Moriyama House",
+        "year": "2005",
+        "location": "Tokyo, JP",
+        "blurb": "One client's house scattered into ten small white volumes and gardens — a private commission that reads as a piece of city.",
+        "wikipedia": "Moriyama House"
+      },
+      {
+        "title": "Towada Art Center",
+        "year": "2008",
+        "location": "Towada, JP",
+        "blurb": "An art museum dissolved into separate glass-linked houses along a street, each gallery built around one permanent work.",
+        "wikipedia": "Towada Art Center"
+      },
+      {
+        "title": "Garden & House",
+        "year": "2011",
+        "location": "Tokyo, JP",
+        "blurb": "A four-meter-wide tower of open concrete slabs where rooms and gardens alternate floor by floor, walls mostly omitted.",
+        "wikipedia": null
+      },
+      {
+        "title": "Hiroshi Senju Museum",
+        "year": "2011",
+        "location": "Karuizawa, JP",
+        "blurb": "A museum whose floor follows the forest's natural slope, the painter's waterfalls hung around courtyards of trees.",
+        "wikipedia": null
+      },
+      {
+        "title": "Glass Pavilion, Toledo Museum of Art",
+        "year": "2006",
+        "location": "Toledo, US",
+        "blurb": "A single-story pavilion of curved glass walls for a glass collection, with the glowing furnaces on display; SANAA's American breakthrough.",
+        "wikipedia": "Glass Pavilion (Toledo Museum of Art)"
+      },
+      {
+        "title": "Sydney Modern",
+        "year": "2022",
+        "location": "Sydney, AU",
+        "blurb": "The Art Gallery of New South Wales doubled by a cascade of low pavilions stepping toward the harbour over a wartime oil bunker (SANAA).",
+        "wikipedia": "Sydney Modern"
+      },
+      {
+        "title": "Marine Station Naoshima",
+        "year": "2006",
+        "location": "Naoshima, JP",
+        "blurb": "A ferry terminal as one vast flat roof on thin columns, the art island's front door reduced to shelter and view (SANAA).",
+        "wikipedia": null
+      },
+      {
+        "title": "Weekend House",
+        "year": "1998",
+        "location": "Gunma, JP",
+        "blurb": "A low black steel box in a forest clearing, punctured by courtyards; the solo office's first built statement.",
+        "wikipedia": null
+      },
+      {
+        "title": "Shibaura House",
+        "year": "2011",
+        "location": "Tokyo, JP",
+        "blurb": "An office building as a stack of open-air terraces and glass rooms, a workplace with the enclosure of a jungle gym.",
+        "wikipedia": null
+      }
+    ]
+  },
+  {
+    "id": "alejandro-aravena",
+    "name": "Alejandro Aravena",
+    "born": 1967,
+    "died": null,
+    "country": "Chile",
+    "link": "https://www.elementalchile.cl",
+    "linkLabel": "Elemental",
+    "firm": "Elemental",
+    "styles": ["Social Housing", "Participatory Design"],
+    "wikipedia": "Alejandro Aravena",
+    "bio": "Aravena graduated from the Universidad Católica in Santiago in 1992, grew disillusioned enough to step away from practice and study in Venice, then came back to teach — including a Harvard stint where the ideas behind Elemental took shape. Founded in 2001 as a 'do tank' partnered with the university and an oil company, Elemental attacked the arithmetic of social housing head-on: if the subsidy only buys half a good house, build the good half — structure, kitchen, bath — and let families finish the rest. Quinta Monroy in Iquique proved it in 2004, and after his 2016 Pritzker Aravena open-sourced the housing drawings for anyone to use. The same year he curated the Venice Biennale under the banner 'Reporting from the Front.' The rest of the portfolio — muscular concrete for universities, a rebuilt post-tsunami Constitución — shows the social work is a position, not a limitation.",
+    "projects": [
+      {
+        "title": "Quinta Monroy",
+        "year": "2004",
+        "location": "Iquique, CL",
+        "blurb": "Ninety-three families rehoused on the land they squatted, each given 'half of a good house' to complete themselves; incremental housing's founding built argument.",
+        "wikipedia": null
+      },
+      {
+        "title": "UC Innovation Center – Anacleto Angelini",
+        "year": "2014",
+        "location": "Santiago, CL",
+        "blurb": "An inside-out concrete monolith with its glass buried in the core and its terraces punched into the mass, built against Santiago's heat and the glass-tower reflex.",
+        "wikipedia": null
+      },
+      {
+        "title": "Siamese Towers",
+        "year": "2005",
+        "location": "Santiago, CL",
+        "blurb": "A university computing building as one tower splitting into two, its glass skin held off a cheap inner box to ventilate itself.",
+        "wikipedia": null
+      },
+      {
+        "title": "Villa Verde",
+        "year": "2013",
+        "location": "Constitución, CL",
+        "blurb": "Half-houses for forestry workers and tsunami-displaced families, the incremental model refined into gabled rows.",
+        "wikipedia": null
+      },
+      {
+        "title": "St. Edward's University Residence Halls",
+        "year": "2008",
+        "location": "Austin, US",
+        "blurb": "Dormitories in rough brick and glass that hoard shade against the Texas sun; Elemental's first US building.",
+        "wikipedia": null
+      },
+      {
+        "title": "Bicentennial Children's Park",
+        "year": "2012",
+        "location": "Santiago, CL",
+        "blurb": "A four-kilometer strip of play infrastructure along the San Cristóbal hillside, public space as birthday present to the city.",
+        "wikipedia": null
+      },
+      {
+        "title": "Constitución Cultural Center",
+        "year": "2015",
+        "location": "Constitución, CL",
+        "blurb": "A timber civic hall in the city Elemental master-planned after the 2010 earthquake and tsunami, part of a rebuilding designed with its residents.",
+        "wikipedia": null
+      },
+      {
+        "title": "UC Mathematics School",
+        "year": "1999",
+        "location": "Santiago, CL",
+        "blurb": "An early campus building organized around a sunken court, the first sketch of the tough-shelled academic work to come.",
+        "wikipedia": null
+      },
+      {
+        "title": "Ocho Quebradas House",
+        "year": "2019",
+        "location": "Los Vilos, CL",
+        "blurb": "Three raw concrete volumes leaned together on a Pacific cliff, primitive on purpose.",
+        "wikipedia": null
+      },
+      {
+        "title": "Novartis Office Building",
+        "year": "2015",
+        "location": "Shanghai, CN",
+        "blurb": "A campus block for the pharmaceutical giant whose deep concrete facade does the environmental work, Elemental's logic exported to corporate China.",
+        "wikipedia": null
+      }
+    ]
+  },
+  {
+    "id": "marina-tabassum",
+    "name": "Marina Tabassum",
+    "born": 1969,
+    "died": null,
+    "country": "Bangladesh",
+    "link": null,
+    "linkLabel": null,
+    "firm": "Marina Tabassum Architects",
+    "styles": ["Critical Regionalism", "Vernacular Modernism"],
+    "wikipedia": "Marina Tabassum",
+    "bio": "Tabassum was born in Dhaka in 1969, two years before Bangladesh existed, and graduated from BUET in 1995 into a country still deciding what its architecture should be. With Kashef Chowdhury she co-founded URBANA that same year and won the 1997 competition for the Independence Monument and the museum beneath it; in 2005 she left to open Marina Tabassum Architects, a small practice that refuses purely commercial work on principle. The Bait Ur Rouf Mosque, built over twelve years on land donated by her grandmother and partly fundraised by Tabassum herself, dispenses with dome and minaret in favor of a perforated brick chamber of moving light, and won the 2016 Aga Khan Award. A second Aga Khan Award followed in 2025 for Khudi Bari, a flat-packed bamboo house that landless families on Bangladesh's shifting river chars can dismantle and carry ahead of the flood. The Soane Medal, the Lisbon Triennale lifetime award and the 2025 Serpentine Pavilion have made her the most-watched voice in climate-frontline architecture, delivered from a practice that never chased the attention.",
+    "projects": [
+      {
+        "title": "Bait Ur Rouf Mosque",
+        "year": "2012",
+        "location": "Dhaka, BD",
+        "blurb": "A mosque without dome or minaret — a raised brick prayer chamber daylit through perforated walls; Aga Khan Award, 2016.",
+        "wikipedia": "Bait Ur Rouf Mosque"
+      },
+      {
+        "title": "Independence Monument of Bangladesh",
+        "year": "2013",
+        "location": "Dhaka, BD",
+        "blurb": "A 50-meter tower of glass panels rising from Suhrawardy Udyan, where surrender ended the 1971 war; won in competition with Kashef Chowdhury in 1997.",
+        "wikipedia": "Swadhinata Stambha"
+      },
+      {
+        "title": "Museum of Independence",
+        "year": "2015",
+        "location": "Dhaka, BD",
+        "blurb": "The monument's underground counterpart, a sunken museum of the liberation war lit by a waterfall shaft.",
+        "wikipedia": null
+      },
+      {
+        "title": "Khudi Bari",
+        "year": "2020",
+        "location": "Char lands, BD",
+        "blurb": "A two-level bamboo-and-steel house costing a few hundred dollars, made to be dismantled and moved when the river takes the land; Aga Khan Award, 2025.",
+        "wikipedia": null
+      },
+      {
+        "title": "Serpentine Pavilion 2025",
+        "year": "2025",
+        "location": "London, UK",
+        "blurb": "'A Capsule in Time' — a translucent arched enclosure around a ginkgo tree, the annual commission's first Bangladeshi author.",
+        "wikipedia": null
+      },
+      {
+        "title": "Rohingya Community Spaces",
+        "year": "2019",
+        "location": "Cox's Bazar, BD",
+        "blurb": "Bamboo community and women's centers built inside the refugee camps, designed with and maintained by the displaced.",
+        "wikipedia": null
+      },
+      {
+        "title": "Panigram Eco Resort",
+        "year": "2015",
+        "location": "Jessore, BD",
+        "blurb": "A resort of mud-walled pavilions built with village earth-construction techniques, testing vernacular craft at hospitality scale.",
+        "wikipedia": null
+      },
+      {
+        "title": "Comfort Reverie Apartments",
+        "year": "2011",
+        "location": "Dhaka, BD",
+        "blurb": "A city apartment building that trades developer floorplates for verandas, cross-breezes and shared green voids.",
+        "wikipedia": null
+      },
+      {
+        "title": "A5 Residence",
+        "year": "2007",
+        "location": "Dhaka, BD",
+        "blurb": "An early Dhaka house organized around courts and shaded terraces, the practice's domestic ideas in first draft.",
+        "wikipedia": null
+      },
+      {
+        "title": "Pavilion Apartments",
+        "year": "2010",
+        "location": "Dhaka, BD",
+        "blurb": "Mid-rise housing that breaks the block into stacked pavilions to pull light and air through deep urban lots.",
+        "wikipedia": null
+      }
+    ]
+  }
+]

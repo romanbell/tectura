@@ -1,0 +1,600 @@
+[
+  {
+    "id": "anna-puigjaner",
+    "name": "Anna Puigjaner",
+    "born": 1980,
+    "died": null,
+    "country": "Spain",
+    "link": "https://www.maio-architects.com",
+    "linkLabel": "MAIO",
+    "firm": "MAIO",
+    "styles": ["Collective Housing", "Research Practice"],
+    "wikipedia": "Anna Puigjaner",
+    "bio": "Puigjaner co-founded MAIO in Barcelona in 2012 with Maria Charneco, Alfredo Lérida and Guillermo López, a four-person office where theory and building are deliberately hard to tell apart. Her doctoral research on New York's kitchenless apartment hotels — buildings that outsourced cooking, cleaning and childcare a century before the sharing economy — won Harvard's Wheelwright Prize in 2016 and turned the domestic kitchen into a political question. MAIO's built answer is 110 Rooms, a Barcelona block of equal, ownerless rooms that can be recombined as households grow, shrink and recombine themselves. She has taught at Columbia GSAPP and now holds a professorship at ETH Zurich devoted to architecture and care, arguing that housework is infrastructure and should be designed as such.",
+    "projects": [
+      {
+        "title": "110 Rooms",
+        "year": "2017",
+        "location": "Barcelona, ES",
+        "blurb": "A housing block conceived as a stack of equivalent rooms rather than fixed flats — currently 22 dwellings, reconfigurable into anywhere from seven to forty.",
+        "wikipedia": null
+      },
+      {
+        "title": "Kitchenless City",
+        "year": "2016–",
+        "location": "Worldwide",
+        "blurb": "The Wheelwright Prize research project surveying collective housing with shared kitchens from New York to Tokyo; the theoretical spine of everything MAIO builds.",
+        "wikipedia": null
+      },
+      {
+        "title": "The Grand Interior",
+        "year": "2017",
+        "location": "Chicago, US",
+        "blurb": "Chicago Architecture Biennial installation imagining the city as one continuous domestic interior of shared rooms.",
+        "wikipedia": null
+      },
+      {
+        "title": "Rooms. No Vacancy",
+        "year": "2014",
+        "location": "New York, US",
+        "blurb": "An installation proposing the room, not the apartment, as housing's basic unit — an early statement of the office's obsession.",
+        "wikipedia": null
+      },
+      {
+        "title": "Species of Spaces",
+        "year": "2016",
+        "location": "Barcelona, ES",
+        "blurb": "Exhibition design at MACBA after Georges Perec, staging the museum as a sequence of domestic situations.",
+        "wikipedia": null
+      },
+      {
+        "title": "A House in a House",
+        "year": "2022",
+        "location": "Manacor, ES",
+        "blurb": "Refurbishment of a Mallorcan farmhouse as nested volumes, new construction sheltered inside the old shell.",
+        "wikipedia": null
+      },
+      {
+        "title": "40 Social Housing Units",
+        "year": "in progress",
+        "location": "Sant Feliu de Llobregat, ES",
+        "blurb": "Public housing outside Barcelona applying the equal-room logic of 110 Rooms at social-housing budgets.",
+        "wikipedia": null
+      },
+      {
+        "title": "67 Housing Units, Paris 18e",
+        "year": "in progress",
+        "location": "Paris, FR",
+        "blurb": "A Parisian social-housing commission for La Sablière, exporting MAIO's flexible plan to the French system.",
+        "wikipedia": null
+      },
+      {
+        "title": "Urban Kitchen",
+        "year": "2022",
+        "location": "Barcelona, ES",
+        "blurb": "A public kitchen installed at Plaça de Catalunya — the kitchenless-city argument made literal on the city's central square.",
+        "wikipedia": null
+      },
+      {
+        "title": "Architecture Effects",
+        "year": "2018",
+        "location": "Bilbao, ES",
+        "blurb": "Exhibition design at the Guggenheim Bilbao examining architecture after the digital turn.",
+        "wikipedia": null
+      }
+    ]
+  },
+  {
+    "id": "so-il",
+    "name": "Jing Liu & Florian Idenburg",
+    "born": 1980,
+    "died": null,
+    "yearsLabel": "b. 1980 / 1975",
+    "country": "United States",
+    "link": "https://so-il.org",
+    "linkLabel": "SO–IL",
+    "firm": "SO–IL",
+    "styles": ["Contemporary Minimalism"],
+    "wikipedia": "SO-IL",
+    "bio": "Solid Objectives – Idenburg Liu, mercifully shortened to SO–IL, was founded in Brooklyn in 2008 by Florian Idenburg, a Dutch veteran of SANAA's New Museum, and Jing Liu, born in Nanjing and trained across three continents. They announced themselves by winning MoMA PS1's Young Architects Program in 2010 with Pole Dance, a bouncing net of poles and hammocks, and have specialized ever since in buildings that blur their own edges — a Seoul gallery wrapped in half a million chainmail rings, a Davis museum under a floating aluminum canopy. Their work for art institutions treats the envelope as atmosphere rather than wall, precise engineering in the service of softness. From a Brooklyn studio they have built in Korea, Mexico, France and across the United States, staying deliberately small while their commissions have not.",
+    "projects": [
+      {
+        "title": "Kukje Gallery K3",
+        "year": "2012",
+        "location": "Seoul, KR",
+        "blurb": "A concrete gallery box veiled in a custom chainmail of over half a million stainless rings; the building that made the office's name.",
+        "wikipedia": "Kukje Gallery"
+      },
+      {
+        "title": "Manetti Shrem Museum of Art",
+        "year": "2016",
+        "location": "Davis, US",
+        "blurb": "A university art museum beneath a 50,000-square-foot perforated aluminum canopy rippling over the Central Valley flatness.",
+        "wikipedia": "Jan Shrem and Maria Manetti Shrem Museum of Art"
+      },
+      {
+        "title": "Amant",
+        "year": "2021",
+        "location": "Brooklyn, US",
+        "blurb": "A non-collecting arts campus of four quiet concrete-and-brick buildings threaded through an East Williamsburg industrial block.",
+        "wikipedia": null
+      },
+      {
+        "title": "Pole Dance",
+        "year": "2010",
+        "location": "New York, US",
+        "blurb": "The MoMA PS1 Young Architects Program winner — a swaying grid of poles, nets and beach balls that made instability the point.",
+        "wikipedia": null
+      },
+      {
+        "title": "Las Americas Social Housing",
+        "year": "2020",
+        "location": "León, MX",
+        "blurb": "A courtyard block of 60 social dwellings in patterned brick, proving the office's finesse survives a public budget.",
+        "wikipedia": null
+      },
+      {
+        "title": "450 Warren",
+        "year": "2023",
+        "location": "Brooklyn, US",
+        "blurb": "A small condominium of open-air corridors and gardens; speculative housing treated, unusually, as an architectural problem.",
+        "wikipedia": null
+      },
+      {
+        "title": "Site Verrier de Meisenthal",
+        "year": "2022",
+        "location": "Meisenthal, FR",
+        "blurb": "A poured-in-place concrete carpet folding a glassworks museum, workshop and hall into one continuous Vosges landscape.",
+        "wikipedia": null
+      },
+      {
+        "title": "Frieze New York Tent",
+        "year": "2012",
+        "location": "New York, US",
+        "blurb": "A quarter-mile serpentine tent on Randall's Island that made the art-fair shed a design object.",
+        "wikipedia": null
+      },
+      {
+        "title": "Breathe",
+        "year": "2017",
+        "location": "Milan, IT",
+        "blurb": "An inhabitable installation for MINI Living wrapped in air-filtering fabric — a house imagined as a lung.",
+        "wikipedia": null
+      },
+      {
+        "title": "Williams College Museum of Art",
+        "year": "in progress",
+        "location": "Williamstown, US",
+        "blurb": "A new home for one of America's strongest college collections, under a clustered roofscape at the campus edge.",
+        "wikipedia": "Williams College Museum of Art"
+      }
+    ]
+  },
+  {
+    "id": "oana-stanescu",
+    "name": "Oana Stănescu",
+    "born": 1983,
+    "died": null,
+    "country": "Romania / United States",
+    "link": "https://oanas.net",
+    "linkLabel": "Studio",
+    "firm": "Oana Stănescu Studio",
+    "styles": ["Adaptive Reuse", "Public Space"],
+    "wikipedia": "Oana Stănescu",
+    "bio": "Born in Reșița and trained at the Polytechnic in Timișoara, Stănescu worked her way through OMA, Herzog & de Meuron and SANAA before co-founding Family New York with Dong-Ping Wong in 2012. Family's portfolio ran from a world-touring artificial mountain for Kanye West's Yeezus tour to + POOL, the long-gestating water-filtering swimming pool floating in New York's East River, with Off-White flagships for Virgil Abloh in between. Now running her own studio between New York and Berlin, she is converting a half-kilometer funicular in her hometown into an elevated public park and building festival installations from Coachella to Logroño. She teaches at MIT and the Harvard GSD and writes as often as she builds, insisting that architecture is too important to be left to buildings.",
+    "projects": [
+      {
+        "title": "+ POOL",
+        "year": "2010–",
+        "location": "New York, US",
+        "blurb": "A plus-shaped floating pool that filters the East River through its own walls — a civic idea patient enough to outlast a decade of permitting.",
+        "wikipedia": "Plus Pool"
+      },
+      {
+        "title": "Yeezus Tour Stage",
+        "year": "2013",
+        "location": "Touring",
+        "blurb": "An artificial mountain and glowing pyramid built to travel with Kanye West's arena tour; scenography at geological scale.",
+        "wikipedia": "The Yeezus Tour"
+      },
+      {
+        "title": "Off-White Flagship Stores",
+        "year": "2016–19",
+        "location": "Hong Kong / Tokyo",
+        "blurb": "A series of retail interiors for Virgil Abloh's label, translating its quotation-mark irony into raw, gallery-like space.",
+        "wikipedia": null
+      },
+      {
+        "title": "Reșița Funicular",
+        "year": "in progress",
+        "location": "Reșița, RO",
+        "blurb": "The conversion of a 500-meter industrial funicular in her hometown into an elevated public park, with D Proiect.",
+        "wikipedia": null
+      },
+      {
+        "title": "Mutts",
+        "year": "2022",
+        "location": "Indio, US",
+        "blurb": "A pack of monumental dog sculptures for Coachella, sheltering festivalgoers in their shade.",
+        "wikipedia": null
+      },
+      {
+        "title": "Fresa",
+        "year": "2023",
+        "location": "Logroño, ES",
+        "blurb": "An installation for the Concéntrico festival dropping a giant strawberry-sweet strangeness into Logroño's public space.",
+        "wikipedia": null
+      },
+      {
+        "title": "Seriously Fun",
+        "year": "2023",
+        "location": "New York, US",
+        "blurb": "A large-scale installation at the Museum of Modern Art taking play seriously as a design problem.",
+        "wikipedia": null
+      },
+      {
+        "title": "Long House",
+        "year": "in progress",
+        "location": "Canada",
+        "blurb": "A vacation house stretched thin across its landscape rather than piled upon it.",
+        "wikipedia": null
+      },
+      {
+        "title": "IDEAS CITY Tents",
+        "year": "2015",
+        "location": "New York, US",
+        "blurb": "Temporary festival structures on the Bowery for the New Museum's street conference on the future of cities.",
+        "wikipedia": null
+      },
+      {
+        "title": "Beta Timișoara (curator)",
+        "year": "2022",
+        "location": "Timișoara, RO",
+        "blurb": "Curatorship of Romania's Beta architecture biennial, bringing her adopted internationalism back to the Banat.",
+        "wikipedia": null
+      }
+    ]
+  },
+  {
+    "id": "germane-barnes",
+    "name": "Germane Barnes",
+    "born": 1985,
+    "died": null,
+    "country": "United States",
+    "link": "https://germanebarnes.com",
+    "linkLabel": "Studio",
+    "firm": "Studio Barnes",
+    "styles": ["Critical Practice", "Diasporic Architecture"],
+    "wikipedia": "Germane Barnes",
+    "bio": "Barnes grew up on Chicago's West Side, studied at the University of Illinois and Woodbury, and found his footing not in an office but in Opa-locka, the Moorish-revival Miami suburb where years of community design work taught him that identity is a structural material. His Miami-based Studio Barnes mines the architecture of the African diaspora — the porch, the block party, the braid — for forms the discipline has ignored. The work landed at MoMA's Reconstructions show in 2021, won the Miami Design District commission and the Rome Prize the same year, and appeared at Lesley Lokko's 2023 Venice Biennale. His Rome research culminated in Columnar Disorder at the Art Institute of Chicago, an attempt to add a Black classical order to the Greeks' three. He directs the Community Housing & Identity Lab at the University of Miami, where the seminar room and the studio are the same place.",
+    "projects": [
+      {
+        "title": "A Spectrum of Blackness",
+        "year": "2021",
+        "location": "New York, US",
+        "blurb": "His contribution to MoMA's Reconstructions: Architecture and Blackness in America, reading Miami through the porch, the kitchen and the corner store.",
+        "wikipedia": null
+      },
+      {
+        "title": "Rock | Roll",
+        "year": "2021",
+        "location": "Miami, US",
+        "blurb": "The Miami Design District's annual commission — candy-colored rocking chairs and swings turning a shopping district into a communal porch.",
+        "wikipedia": null
+      },
+      {
+        "title": "Griot",
+        "year": "2023",
+        "location": "Venice, IT",
+        "blurb": "An installation at Lokko's Laboratory of the Future biennale, built objects narrating architecture, colonization and the diaspora.",
+        "wikipedia": null
+      },
+      {
+        "title": "Columnar Disorder",
+        "year": "2024",
+        "location": "Chicago, US",
+        "blurb": "A solo exhibition at the Art Institute of Chicago proposing a Black columnar order — capitals carved from hair braiding, ships and shotgun houses.",
+        "wikipedia": null
+      },
+      {
+        "title": "Ukhamba",
+        "year": "2023",
+        "location": "Miami, US",
+        "blurb": "A ten-foot woven enclosure at the Museum of Art and Design at MDC, scaling the Zulu basket up to architecture.",
+        "wikipedia": null
+      },
+      {
+        "title": "Opa-locka Community Initiatives",
+        "year": "2013–18",
+        "location": "Opa-locka, US",
+        "blurb": "Years of placemaking and housing work with the Opa-locka CDC; the residency that shaped the studio's entire method.",
+        "wikipedia": null
+      },
+      {
+        "title": "Block Party",
+        "year": "2021",
+        "location": "Chicago, US",
+        "blurb": "A Chicago Architecture Biennial installation with Shawhin Roudbari and MAS Context, staging the West Side block party as civic infrastructure.",
+        "wikipedia": null
+      },
+      {
+        "title": "Rome Prize Research",
+        "year": "2021–22",
+        "location": "Rome, IT",
+        "blurb": "A year at the American Academy interrogating the classical orders' colonial inheritance — the seedbed of Columnar Disorder.",
+        "wikipedia": null
+      },
+      {
+        "title": "Community Housing & Identity Lab",
+        "year": "2018–",
+        "location": "Coral Gables, US",
+        "blurb": "His University of Miami research lab testing how housing policy and cultural identity collide in South Florida.",
+        "wikipedia": null
+      },
+      {
+        "title": "Turn the Mic Up",
+        "year": "2025",
+        "location": "Chicago, US",
+        "blurb": "An exhibition with MAS Context pairing architecture with hip-hop production, both arts of sampling and assembly.",
+        "wikipedia": null
+      }
+    ]
+  },
+  {
+    "id": "sumayya-vally",
+    "name": "Sumayya Vally",
+    "born": 1990,
+    "died": null,
+    "country": "South Africa",
+    "link": "https://www.counterspace-studio.com",
+    "linkLabel": "Counterspace",
+    "firm": "Counterspace",
+    "styles": ["Diasporic Practice", "Ephemeral Architecture"],
+    "wikipedia": "Sumayya Vally",
+    "bio": "Vally grew up in Pretoria's Indian township of Laudium, trained in Johannesburg under Lesley Lokko's Unit 12, and founded Counterspace in 2015 to design from what the discipline's canon leaves out — ritual, migration, noise, dust. At thirty she became the youngest architect ever handed the Serpentine Pavilion; her 2021 design abstracted gathering places of London's diasporic communities, from Brixton markets to Edgware Road cafés, and scattered fragments of itself across the city. Two years later she served as artistic director of the inaugural Islamic Arts Biennale in Jeddah, orchestrating contemporary practice around the rituals of hajj. Her early Johannesburg installations tinted the sky with mine-dust colors; her current work floats stages on Belgian canals and gardens on Bruges waterways. She treats the ephemeral not as a lesser format but as the natural state of an architecture built for gathering.",
+    "projects": [
+      {
+        "title": "Serpentine Pavilion 2021",
+        "year": "2021",
+        "location": "London, UK",
+        "blurb": "The 20th Serpentine commission — an abstracted assembly of London's diasporic meeting places in pink-and-black recycled materials, by its youngest-ever architect.",
+        "wikipedia": null
+      },
+      {
+        "title": "Fragments",
+        "year": "2021",
+        "location": "London, UK",
+        "blurb": "Four satellite pieces of the pavilion placed in Brixton, Notting Hill and beyond, returning the building to the neighborhoods it quoted.",
+        "wikipedia": null
+      },
+      {
+        "title": "Islamic Arts Biennale (artistic direction)",
+        "year": "2023",
+        "location": "Jeddah, SA",
+        "blurb": "The inaugural biennale at Jeddah's Hajj Terminal, staging contemporary Islamic art around the choreography of pilgrimage.",
+        "wikipedia": "Islamic Arts Biennale"
+      },
+      {
+        "title": "Asiat-Darse",
+        "year": "2022",
+        "location": "Vilvoorde, BE",
+        "blurb": "A floating stage and bridge across a canal basin outside Brussels, built to host performance on post-industrial water.",
+        "wikipedia": null
+      },
+      {
+        "title": "Folded Skies",
+        "year": "2018",
+        "location": "Johannesburg, ZA",
+        "blurb": "Mirrored installations tinted with the colors mine dust lends the Johannesburg sunset — pollution recast as civic memory.",
+        "wikipedia": null
+      },
+      {
+        "title": "Grains of Paradise",
+        "year": "2024",
+        "location": "Bruges, BE",
+        "blurb": "A Bruges Triennial contribution tracing the spice trade's routes through the city's canals.",
+        "wikipedia": null
+      },
+      {
+        "title": "Support Structures for Support Structures",
+        "year": "2021–",
+        "location": "London, UK",
+        "blurb": "A fellowship program she created with the Serpentine to fund artists sustaining community work — infrastructure as artwork.",
+        "wikipedia": null
+      },
+      {
+        "title": "The African Post Office",
+        "year": "2021",
+        "location": "Venice, IT",
+        "blurb": "A Counterspace project on diasporic communication and gathering, shown at the Venice Architecture Biennale.",
+        "wikipedia": null
+      },
+      {
+        "title": "Carnival Research",
+        "year": "2019–",
+        "location": "London, UK",
+        "blurb": "Ongoing study of Notting Hill Carnival as architecture — sound systems, processions and crowds as building materials.",
+        "wikipedia": null
+      },
+      {
+        "title": "The Laboratory of the Future (participant)",
+        "year": "2023",
+        "location": "Venice, IT",
+        "blurb": "A contribution to Lesley Lokko's Africa-centered Venice Biennale, closing the circle with her former teacher.",
+        "wikipedia": null
+      }
+    ]
+  },
+  {
+    "id": "assemble",
+    "name": "Assemble",
+    "born": 2010,
+    "died": null,
+    "yearsLabel": "est. 2010",
+    "country": "United Kingdom",
+    "link": "https://assemblestudio.co.uk",
+    "linkLabel": "Assemble",
+    "firm": "Assemble",
+    "styles": ["Social Practice", "Self-build"],
+    "wikipedia": "Assemble (collective)",
+    "bio": "Assemble began in 2010 as a group of Cambridge friends, most not yet qualified architects, who turned a derelict Clerkenwell petrol station into the Cineroleum, a cinema with an auditorium curtain of stitched roofing membrane. The collective — around fifteen members, no boss, decisions by conversation — kept building what cities needed rather than what clients commissioned: a playhouse under a Hackney flyover, an adventure playground in Glasgow, a timber workshop in Walthamstow. Their patient rebuilding of Liverpool's Granby Four Streets with its residents won the 2015 Turner Prize, the first time Britain's premier art award went to people who fix houses, and spun off Granby Workshop, a ceramics manufactory still trading. The Goldsmiths Centre for Contemporary Art, folded into a Victorian bathhouse's water tanks, proved they could deliver a proper building without surrendering the ethos. They remain the standing rebuke to the idea that architecture must choose between authorship and usefulness.",
+    "projects": [
+      {
+        "title": "Granby Four Streets",
+        "year": "2013–",
+        "location": "Liverpool, UK",
+        "blurb": "The incremental, resident-led rebuilding of four condemned Toxteth streets — hand-made fireplaces, a winter garden, and the 2015 Turner Prize.",
+        "wikipedia": "Granby Four Streets"
+      },
+      {
+        "title": "The Cineroleum",
+        "year": "2010",
+        "location": "London, UK",
+        "blurb": "A derelict petrol station on Clerkenwell Road converted by hand into a cinema; the collective's founding act.",
+        "wikipedia": null
+      },
+      {
+        "title": "Folly for a Flyover",
+        "year": "2011",
+        "location": "London, UK",
+        "blurb": "A fairy-tale brick house wedged beneath an A-road flyover in Hackney Wick, hosting cinema and boat trips for nine weeks.",
+        "wikipedia": null
+      },
+      {
+        "title": "Goldsmiths Centre for Contemporary Art",
+        "year": "2018",
+        "location": "London, UK",
+        "blurb": "A public gallery threaded through the cast-iron water tanks of a Victorian bathhouse; their first full-scale permanent building.",
+        "wikipedia": "Goldsmiths Centre for Contemporary Art"
+      },
+      {
+        "title": "Granby Winter Garden",
+        "year": "2019",
+        "location": "Liverpool, UK",
+        "blurb": "Two ruined terrace houses opened into a communal indoor garden, the Granby project's greenhouse heart.",
+        "wikipedia": null
+      },
+      {
+        "title": "Yardhouse",
+        "year": "2014",
+        "location": "London, UK",
+        "blurb": "An affordable workspace building in Stratford with a facade of hand-cast pastel concrete tiles, built largely by its architects.",
+        "wikipedia": null
+      },
+      {
+        "title": "Baltic Street Adventure Playground",
+        "year": "2014",
+        "location": "Glasgow, UK",
+        "blurb": "A child-governed adventure playground in Dalmarnock built from timber, mud and risk.",
+        "wikipedia": null
+      },
+      {
+        "title": "Blackhorse Workshop",
+        "year": "2014",
+        "location": "London, UK",
+        "blurb": "A public wood and metal workshop in Walthamstow, betting that cities need tools as much as galleries.",
+        "wikipedia": null
+      },
+      {
+        "title": "The Brutalist Playground",
+        "year": "2015",
+        "location": "London, UK",
+        "blurb": "With artist Simon Terrill at RIBA: demolished postwar estate playgrounds recast in foam, at once archive and bouncy castle.",
+        "wikipedia": null
+      },
+      {
+        "title": "Le Magasin Électrique",
+        "year": "2023",
+        "location": "Arles, FR",
+        "blurb": "Workshops for Atelier Luma at Luma Arles, renovated with BC Architects using earth, sunflower and rice-straw construction.",
+        "wikipedia": null
+      }
+    ]
+  },
+  {
+    "id": "fala-atelier",
+    "name": "fala atelier",
+    "born": 2013,
+    "died": null,
+    "yearsLabel": "est. 2013",
+    "country": "Portugal",
+    "link": "https://falaatelier.com",
+    "linkLabel": "fala",
+    "firm": "fala atelier",
+    "styles": ["Postmodern Collage", "Contemporary"],
+    "wikipedia": null,
+    "bio": "Founded in Porto in 2013 by Filipe Magalhães and Ana Luisa Soares, fresh from stints in Japanese offices, and later joined by partner Ahmed Belkhodja, fala numbers its projects like a catalogue and describes its mood as methodic optimism. The office made its name renovating Porto's narrow bourgeois houses and tired apartments on small budgets, deploying a recognizable kit — marble slabs, mirrored surfaces, wavy walls, candy-striped awnings, one deliberately wrong column — with the graphic flatness of a collage. Each project is presented in axonometric drawings and photomontages as carefully authored as the buildings, which has made fala as influential on students' screens as on Porto's streets. A 2G monograph arrived before the office turned ten; the work keeps insisting that ordinary housing deserves formal wit.",
+    "projects": [
+      {
+        "title": "Six Houses and a Garden",
+        "year": "2020",
+        "location": "Porto, PT",
+        "blurb": "Two back-lot buildings turned into six micro-dwellings around a hidden communal garden; fala's clashing geometries at rental scale.",
+        "wikipedia": null
+      },
+      {
+        "title": "House in Rua do Paraíso",
+        "year": "2016",
+        "location": "Porto, PT",
+        "blurb": "A nineteenth-century townhouse sliced into identical studio apartments, its old bones squared against new marble and color.",
+        "wikipedia": null
+      },
+      {
+        "title": "Garage House",
+        "year": "2016",
+        "location": "Lisbon, PT",
+        "blurb": "A former garage compressed into a single inhabitable room along one long wall — apartment, shop or gallery as needed.",
+        "wikipedia": null
+      },
+      {
+        "title": "Uneven House",
+        "year": "2019",
+        "location": "Porto, PT",
+        "blurb": "A narrow house rebuilt as a deliberate mismatch of levels and facades, the office's taste for productive disorder made structural.",
+        "wikipedia": null
+      },
+      {
+        "title": "House in Fontaínhas",
+        "year": "2020",
+        "location": "Porto, PT",
+        "blurb": "An abandoned townhouse revived with stripes, curved partitions and candy-colored accents; fala's collage manner in full.",
+        "wikipedia": null
+      },
+      {
+        "title": "House with a Curved Wall",
+        "year": "2021",
+        "location": "Porto, PT",
+        "blurb": "A renovation organized around one sweeping curve that sorts the plan into served and leftover space.",
+        "wikipedia": null
+      },
+      {
+        "title": "Small House with a Monumental Shower",
+        "year": "2022",
+        "location": "Porto, PT",
+        "blurb": "A tiny dwelling that spends its entire formal budget on the bathroom — the title is the manifesto.",
+        "wikipedia": null
+      },
+      {
+        "title": "Folly for Sun and Sound",
+        "year": "2022",
+        "location": "Portugal",
+        "blurb": "A garden folly with no program beyond light and music, the office's language freed from function altogether.",
+        "wikipedia": null
+      },
+      {
+        "title": "Chiado Apartment",
+        "year": "2015",
+        "location": "Lisbon, PT",
+        "blurb": "An early central-Lisbon flat renovation where the fala kit — marble thresholds, playful joinery, flat color — first cohered.",
+        "wikipedia": null
+      },
+      {
+        "title": "good housing",
+        "year": "2024",
+        "location": "Porto, PT",
+        "blurb": "An ongoing research and exhibition project arguing, with fala's own catalogue as evidence, for generosity in ordinary housing.",
+        "wikipedia": null
+      }
+    ]
+  }
+]

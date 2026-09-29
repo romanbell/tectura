@@ -1,0 +1,854 @@
+[
+  {
+    "id": "farrell-mcnamara",
+    "name": "Yvonne Farrell & Shelley McNamara",
+    "born": 1951,
+    "died": null,
+    "yearsLabel": "b. 1951 / 1952",
+    "country": "Ireland",
+    "link": "https://www.graftonarchitects.ie",
+    "linkLabel": "Grafton",
+    "firm": "Grafton Architects",
+    "styles": ["Civic Modernism", "Critical Regionalism"],
+    "wikipedia": "Grafton Architects",
+    "bio": "Farrell and McNamara met as students at UCD in the early 1970s, founded Grafton Architects in Dublin in 1978 — named for the street their first office sat on, not for either partner — and spent two decades on Irish schools and housing before anyone abroad paid attention. Their Bocconi building in Milan, won in open competition against far larger offices, changed that in 2008: a school of economics with the section of a quarry, its great stone undercroft handed to the city as covered public space. They talk about the earth as the first material and architecture as the free gift of shelter, and their universities in Lima, Toulouse and London bear it out — heavy frames, deep shade, generous ground floors. They directed the 2018 Venice Biennale under the banner Freespace, then took the Pritzker in 2020, the first partnership of two women to do so. Both still teach; the office remains deliberately small.",
+    "projects": [
+      {
+        "title": "Università Bocconi",
+        "year": "2008",
+        "location": "Milan, IT",
+        "blurb": "A school of economics as inhabited geology — a grand canyon of grey stone with its ground floor given to the city. World Building of the Year at the first WAF.",
+        "wikipedia": "Bocconi University"
+      },
+      {
+        "title": "UTEC Campus",
+        "year": "2015",
+        "location": "Lima, PE",
+        "blurb": "A cliff of stacked concrete terraces facing the Pacific, one side machine, one side garden; winner of the inaugural RIBA International Prize.",
+        "wikipedia": "University of Engineering and Technology (Peru)"
+      },
+      {
+        "title": "Town House, Kingston University",
+        "year": "2019",
+        "location": "London, UK",
+        "blurb": "A colonnaded stack of library, dance studios and cafés with no locked front door; Stirling Prize, 2021.",
+        "wikipedia": "Town House, Kingston University"
+      },
+      {
+        "title": "Marshall Building, LSE",
+        "year": "2022",
+        "location": "London, UK",
+        "blurb": "Branching concrete columns carry a full academic building above an open, publicly crossed ground floor off Lincoln's Inn Fields.",
+        "wikipedia": null
+      },
+      {
+        "title": "Toulouse School of Economics",
+        "year": "2019",
+        "location": "Toulouse, FR",
+        "blurb": "Roman brick ramparts, cloisters and belvederes for economists, on the bank of the Garonne.",
+        "wikipedia": null
+      },
+      {
+        "title": "Medical School, University of Limerick",
+        "year": "2012",
+        "location": "Limerick, IE",
+        "blurb": "A limestone-clad teaching building and its plaza that gave a young campus a civic center of gravity.",
+        "wikipedia": null
+      },
+      {
+        "title": "Solstice Arts Centre",
+        "year": "2006",
+        "location": "Navan, IE",
+        "blurb": "Theatre and galleries stepped into a sloping market-town site — provincial Ireland taken seriously.",
+        "wikipedia": "Solstice Arts Centre"
+      },
+      {
+        "title": "Urban Institute of Ireland",
+        "year": "2002",
+        "location": "Dublin, IE",
+        "blurb": "A compact research building at UCD, folded in zinc and concrete; an early statement of their sectional thinking.",
+        "wikipedia": null
+      },
+      {
+        "title": "Institut Mines-Télécom",
+        "year": "2019",
+        "location": "Palaiseau, FR",
+        "blurb": "A porous megastructure of courtyards and concrete frames for the Paris-Saclay research campus.",
+        "wikipedia": null
+      },
+      {
+        "title": "Department of Finance",
+        "year": "2009",
+        "location": "Dublin, IE",
+        "blurb": "A government office on Merrion Row in load-bearing cut stone — thick walls arguing quietly with glass-box Whitehall equivalents.",
+        "wikipedia": null
+      }
+    ]
+  },
+  {
+    "id": "eduardo-souto-de-moura",
+    "name": "Eduardo Souto de Moura",
+    "born": 1952,
+    "died": null,
+    "country": "Portugal",
+    "link": null,
+    "linkLabel": null,
+    "firm": "Souto Moura Arquitectos",
+    "styles": ["Minimalism", "Critical Regionalism"],
+    "wikipedia": "Eduardo Souto de Moura",
+    "bio": "A son of Porto and a product of its school, Souto de Moura worked five years for Álvaro Siza — the two still share a building and occasionally a project — before opening his own office in 1980. He began under the sign of Mies, building granite-walled houses of severe horizontal calm, then proved at Braga that the discipline scaled: a stadium carved into the face of a quarry, one stand hung against bare rock, the goal-end views left open to the landscape. Much of his best work is transformation rather than invention — a ruined Cistercian monastery at Bouro made into an inn, a Tavira convent into housing — done with a stonemason's respect and a modernist's nerve. The Pritzker came in 2011, the UIA Gold Medal in 2026; the office, characteristically, keeps no website.",
+    "projects": [
+      {
+        "title": "Estádio Municipal de Braga",
+        "year": "2003",
+        "location": "Braga, PT",
+        "blurb": "A stadium for Euro 2004 blasted into a granite quarry, with two stands, no ends, and the rock face as the fourth wall.",
+        "wikipedia": "Estádio Municipal de Braga"
+      },
+      {
+        "title": "Santa Maria do Bouro Pousada",
+        "year": "1997",
+        "location": "Amares, PT",
+        "blurb": "A ruined Cistercian monastery rebuilt as a state inn — new steel and stone laid into old walls without nostalgia or apology.",
+        "wikipedia": null
+      },
+      {
+        "title": "Casa das Histórias Paula Rego",
+        "year": "2009",
+        "location": "Cascais, PT",
+        "blurb": "Two red concrete pyramid-chimneys among pines, a museum for the painter who chose him herself.",
+        "wikipedia": "Casa das Histórias Paula Rego"
+      },
+      {
+        "title": "Burgo Tower",
+        "year": "2007",
+        "location": "Porto, PT",
+        "blurb": "A vertical slab and a horizontal one paired on the Boavista axis — his long-delayed answer to the office tower.",
+        "wikipedia": "Burgo Tower"
+      },
+      {
+        "title": "Porto Metro",
+        "year": "2005",
+        "location": "Porto, PT",
+        "blurb": "Coordinating architect for the city's light-rail network — dozens of stations of granite, concrete and restraint threaded under and over the city.",
+        "wikipedia": "Porto Metro"
+      },
+      {
+        "title": "Casa em Moledo",
+        "year": "1998",
+        "location": "Caminha, PT",
+        "blurb": "A house pressed into an agricultural hillside between rebuilt schist terrace walls, roof reading as one more stratum.",
+        "wikipedia": null
+      },
+      {
+        "title": "Casa das Artes",
+        "year": "1991",
+        "location": "Porto, PT",
+        "blurb": "A cultural center as a long quiet wall in the garden of a bourgeois villa; the early work that announced him.",
+        "wikipedia": null
+      },
+      {
+        "title": "Convento das Bernardas",
+        "year": "2012",
+        "location": "Tavira, PT",
+        "blurb": "A sixteenth-century convent, later a factory, converted into housing around its great courtyard.",
+        "wikipedia": null
+      },
+      {
+        "title": "Casa do Cinema Manoel de Oliveira",
+        "year": "2003",
+        "location": "Porto, PT",
+        "blurb": "A faceted concrete lantern at Foz for the world's oldest working film director.",
+        "wikipedia": null
+      },
+      {
+        "title": "São Lourenço do Barrocal",
+        "year": "2016",
+        "location": "Monsaraz, PT",
+        "blurb": "A two-century-old farming estate in the Alentejo restored, over fourteen patient years, into a hotel that barely admits to being new.",
+        "wikipedia": null
+      }
+    ]
+  },
+  {
+    "id": "marcio-kogan",
+    "name": "Marcio Kogan",
+    "born": 1952,
+    "died": null,
+    "country": "Brazil",
+    "link": "https://mk27.com",
+    "linkLabel": "MK27",
+    "firm": "Studio MK27",
+    "styles": ["Brazilian Modernism", "Minimalism"],
+    "wikipedia": "Marcio Kogan",
+    "bio": "Kogan, son of a noted São Paulo engineer, spent his first professional decades split between architecture and cinema — he co-directed the feature Fire and Passion in 1988 — and the films never really left the buildings. Studio MK27, renamed for its street address in 2001 and run with a large cast of credited co-architects, took the vocabulary of mid-century Brazilian modernism — long horizontal slabs, deep verandas, mashrabiya screens, cobogó blocks — and polished it into some of the most photographed houses on earth. The plans are almost invariably a box, opened entirely to the garden on one side; the drama is in proportion, shadow and the slide of a ten-meter wooden shutter. Critics who call it repetitive have not slowed the office, which has exported the manner to Uruguay, Portugal, Indonesia and Manhattan. He treats the house, unfashionably, as architecture's central problem.",
+    "projects": [
+      {
+        "title": "Jungle House",
+        "year": "2015",
+        "location": "Guarujá, BR",
+        "blurb": "A house lifted through Atlantic rainforest canopy on a concrete tray, pool at treetop level; the office's manner at its most cinematic.",
+        "wikipedia": null
+      },
+      {
+        "title": "Paraty House",
+        "year": "2009",
+        "location": "Paraty, BR",
+        "blurb": "Two stacked concrete boxes cantilevered from a hillside toward the bay, reachable only by boat.",
+        "wikipedia": null
+      },
+      {
+        "title": "Casa Cubo",
+        "year": "2012",
+        "location": "São Paulo, BR",
+        "blurb": "A double-height living cube for an art collector, opening on two full facades to the garden.",
+        "wikipedia": null
+      },
+      {
+        "title": "BR House",
+        "year": "2004",
+        "location": "Araras, BR",
+        "blurb": "A glass pavilion on timber-clad pilotis in the Rio mountains, with a stone spa buried below.",
+        "wikipedia": null
+      },
+      {
+        "title": "Gama Issa House",
+        "year": "2001",
+        "location": "São Paulo, BR",
+        "blurb": "The white urban box that set the studio's template — one enormous shelf-lined living room facing a lawn.",
+        "wikipedia": null
+      },
+      {
+        "title": "Toblerone House",
+        "year": "2011",
+        "location": "São Paulo, BR",
+        "blurb": "A garden house dissolved behind sliding wooden screens, named for its faceted street wall.",
+        "wikipedia": null
+      },
+      {
+        "title": "Punta House",
+        "year": "2011",
+        "location": "Punta del Este, UY",
+        "blurb": "A low stone-and-wood bar under a green roof, the manner translated to the Uruguayan coast.",
+        "wikipedia": null
+      },
+      {
+        "title": "Cobogó House",
+        "year": "2011",
+        "location": "São Paulo, BR",
+        "blurb": "A house wrapped in Erwin Hauer's modular screens — the cobogó block promoted from vernacular device to protagonist.",
+        "wikipedia": null
+      },
+      {
+        "title": "L'and Vineyards Hotel",
+        "year": "2011",
+        "location": "Montemor-o-Novo, PT",
+        "blurb": "A winery hotel in the Alentejo with rooms whose roofs slide open to the night sky.",
+        "wikipedia": null
+      },
+      {
+        "title": "Micasa Vol. B",
+        "year": "2007",
+        "location": "São Paulo, BR",
+        "blurb": "A furniture showroom as a raw concrete tube, its end wall a pivoting door the size of the facade.",
+        "wikipedia": null
+      }
+    ]
+  },
+  {
+    "id": "david-chipperfield",
+    "name": "David Chipperfield",
+    "born": 1953,
+    "died": null,
+    "country": "United Kingdom",
+    "link": "https://davidchipperfield.com",
+    "linkLabel": "DCA",
+    "firm": "David Chipperfield Architects",
+    "styles": ["Minimalism", "Contextual Modernism"],
+    "wikipedia": "David Chipperfield",
+    "bio": "A farmer's son from Devon, Chipperfield passed through the offices of Rogers and Foster, absorbed their rigor and rejected their machinery, and opened his own studio in 1985 with a shop for Issey Miyake. For years he was more honored in Germany and Japan than at home — the practice's Berlin office grew around the Neues Museum, an eleven-year reconstruction that left the building's war wounds legible and set the modern standard for how to repair rather than restore. His new buildings hold the same temperature: columned, load-bearing, gravely proportioned museums in Wakefield, Margate, Mexico City and Seoul that decline to compete with their contents. The Pritzker arrived in 2023, by which point he had also founded a foundation in Galicia devoted to the town where he spends his summers fishing. He calls architecture a background art, and means it as ambition rather than modesty.",
+    "projects": [
+      {
+        "title": "Neues Museum",
+        "year": "2009",
+        "location": "Berlin, DE",
+        "blurb": "A bombed-out museum reassembled over eleven years with its scars kept visible — the modern benchmark for repair as design.",
+        "wikipedia": "Neues Museum"
+      },
+      {
+        "title": "James-Simon-Galerie",
+        "year": "2018",
+        "location": "Berlin, DE",
+        "blurb": "A new colonnaded entrance building for Museum Island, all stair and portico, completing Schinkel's ensemble two centuries on.",
+        "wikipedia": "James Simon Gallery"
+      },
+      {
+        "title": "Neue Nationalgalerie Refurbishment",
+        "year": "2021",
+        "location": "Berlin, DE",
+        "blurb": "Mies's glass temple dismantled into 35,000 pieces and put back, invisibly better; surgery in service of another architect.",
+        "wikipedia": "Neue Nationalgalerie"
+      },
+      {
+        "title": "The Hepworth Wakefield",
+        "year": "2011",
+        "location": "Wakefield, UK",
+        "blurb": "Ten trapezoidal blocks of pigmented concrete rising from the river Calder for Barbara Hepworth's hometown.",
+        "wikipedia": "The Hepworth Wakefield"
+      },
+      {
+        "title": "Turner Contemporary",
+        "year": "2011",
+        "location": "Margate, UK",
+        "blurb": "Six shed-like galleries in opaline glass catching the North Sea light Turner painted.",
+        "wikipedia": "Turner Contemporary"
+      },
+      {
+        "title": "Museo Jumex",
+        "year": "2013",
+        "location": "Mexico City, MX",
+        "blurb": "A sawtooth-roofed travertine box on columns for Latin America's largest private contemporary collection.",
+        "wikipedia": "Museo Jumex"
+      },
+      {
+        "title": "River and Rowing Museum",
+        "year": "1997",
+        "location": "Henley-on-Thames, UK",
+        "blurb": "Two upturned-hull sheds in oak and glass; the early building that made his English reputation.",
+        "wikipedia": "River & Rowing Museum"
+      },
+      {
+        "title": "Amorepacific Headquarters",
+        "year": "2017",
+        "location": "Seoul, KR",
+        "blurb": "A single porous cube for a cosmetics company, hollowed by hanging gardens in place of the usual tower.",
+        "wikipedia": null
+      },
+      {
+        "title": "Veles e Vents",
+        "year": "2006",
+        "location": "Valencia, ES",
+        "blurb": "Stacked white viewing decks for the America's Cup, designed and built in eleven months.",
+        "wikipedia": null
+      },
+      {
+        "title": "Procuratie Vecchie Restoration",
+        "year": "2022",
+        "location": "Venice, IT",
+        "blurb": "The five-hundred-year-old arcade on Piazza San Marco opened to the public for the first time, floor by careful floor.",
+        "wikipedia": "Procuratie"
+      }
+    ]
+  },
+  {
+    "id": "elizabeth-diller",
+    "name": "Elizabeth Diller",
+    "born": 1954,
+    "died": null,
+    "country": "Poland / United States",
+    "link": "https://dsrny.com",
+    "linkLabel": "DS+R",
+    "firm": "Diller Scofidio + Renfro",
+    "styles": ["Conceptualism", "Supermodernism"],
+    "wikipedia": "Elizabeth Diller",
+    "bio": "Born in Łódź and brought to New York as a child, Diller trained at Cooper Union and spent two decades with her partner and former teacher Ricardo Scofidio making installations, performances and books that treated architecture as a form of argument — the couple won the first MacArthur fellowship given to architects, in 1999, having built almost nothing. The Blur Building, an inhabitable cloud of misted lake water at the 2002 Swiss Expo, was the perfect hinge: a pavilion made of weather. Then, improbably, the theorists became New York's civic architects — the High Line, the remaking of Lincoln Center, MoMA's expansion, and the Shed, a telescoping hall that rolls out over its plaza on six-foot wheels. She remains the practice's public voice, as fluent in performance and media as in construction, and still teaches at Princeton. Scofidio died in 2025; the office she leads keeps the plus sign in its name.",
+    "projects": [
+      {
+        "title": "The High Line",
+        "year": "2009–14",
+        "location": "New York, US",
+        "blurb": "A derelict elevated rail line turned linear park (with James Corner Field Operations) — the most copied piece of urbanism of its era.",
+        "wikipedia": "High Line"
+      },
+      {
+        "title": "Blur Building",
+        "year": "2002",
+        "location": "Yverdon-les-Bains, CH",
+        "blurb": "An Expo pavilion of fog: lake water atomized through 35,000 nozzles over a steel tensegrity deck. A building made of weather.",
+        "wikipedia": "Blur Building"
+      },
+      {
+        "title": "Institute of Contemporary Art",
+        "year": "2006",
+        "location": "Boston, US",
+        "blurb": "The firm's first free-standing building — a gallery box cantilevered over Boston Harbor with a grandstand facing the water.",
+        "wikipedia": "Institute of Contemporary Art, Boston"
+      },
+      {
+        "title": "The Shed",
+        "year": "2019",
+        "location": "New York, US",
+        "blurb": "An arts building whose quilted outer shell rolls along rails to double its size — infrastructure for programs not yet invented.",
+        "wikipedia": "The Shed (arts center)"
+      },
+      {
+        "title": "The Broad",
+        "year": "2015",
+        "location": "Los Angeles, US",
+        "blurb": "A honeycomb concrete veil wrapped over its own storage vault, next door to Gehry's Disney Hall.",
+        "wikipedia": "The Broad"
+      },
+      {
+        "title": "Alice Tully Hall",
+        "year": "2009",
+        "location": "New York, US",
+        "blurb": "Lincoln Center's chamber hall rebuilt with a blushing wood interior and a glass prow cut into the street corner.",
+        "wikipedia": "Alice Tully Hall"
+      },
+      {
+        "title": "Zaryadye Park",
+        "year": "2017",
+        "location": "Moscow, RU",
+        "blurb": "A wild-planted park beside the Kremlin with a V-shaped concrete bridge hovering over the Moskva.",
+        "wikipedia": "Zaryadye Park"
+      },
+      {
+        "title": "MoMA Expansion",
+        "year": "2019",
+        "location": "New York, US",
+        "blurb": "A third more gallery space threaded through and past midtown towers, dissolving the museum's old spine.",
+        "wikipedia": "Museum of Modern Art"
+      },
+      {
+        "title": "Berkeley Art Museum and Pacific Film Archive",
+        "year": "2016",
+        "location": "Berkeley, US",
+        "blurb": "A 1930s printing plant spliced with a stainless-steel worm of cinema and galleries.",
+        "wikipedia": "Berkeley Art Museum and Pacific Film Archive"
+      },
+      {
+        "title": "US Olympic & Paralympic Museum",
+        "year": "2020",
+        "location": "Colorado Springs, US",
+        "blurb": "A pinwheel of petal-clad galleries spiraling down a fully accessible ramp — the diagram is the ethics.",
+        "wikipedia": "United States Olympic & Paralympic Museum"
+      }
+    ]
+  },
+  {
+    "id": "kengo-kuma",
+    "name": "Kengo Kuma",
+    "born": 1954,
+    "died": null,
+    "country": "Japan",
+    "link": "https://www.kkaa.co.jp",
+    "linkLabel": "KKAA",
+    "firm": "Kengo Kuma & Associates",
+    "styles": ["New Materiality", "Organic Architecture"],
+    "wikipedia": "Kengo Kuma",
+    "bio": "Kuma decided on architecture at ten, inside Tange's Yoyogi gymnasium at the 1964 Olympics; fifty-five years later he built the stadium for the next Tokyo Games, wrapped in eaves of cedar from all 47 prefectures. In between came a conversion: after the bubble economy burst in the early 1990s, the young postmodernist retreated from Tokyo to build small projects in the provinces and emerged preaching what he calls anti-object — architecture that dissolves into particles of wood, stone, paper and bamboo rather than standing against its setting. The doctrine scaled from a stone museum in Nasu and a bamboo house on the Great Wall to museums in Dundee and Eskişehir and, in 2026, the commission to extend London's National Gallery. His office is now one of Japan's largest, a fact he handles with visible ambivalence. The message has been consistent for thirty years: concrete was the twentieth century's material, and wood should be this one's.",
+    "projects": [
+      {
+        "title": "Japan National Stadium",
+        "year": "2019",
+        "location": "Tokyo, JP",
+        "blurb": "The Tokyo Olympic stadium as a layered timber-eaved bowl — deliberately modest where Hadid's scrapped scheme had been emphatic.",
+        "wikipedia": "Japan National Stadium"
+      },
+      {
+        "title": "V&A Dundee",
+        "year": "2018",
+        "location": "Dundee, UK",
+        "blurb": "Scotland's design museum as a twisting cliff of hung concrete planks over the Tay.",
+        "wikipedia": "V&A Dundee"
+      },
+      {
+        "title": "Nezu Museum",
+        "year": "2009",
+        "location": "Tokyo, JP",
+        "blurb": "A long tiled roof and a bamboo-walled approach easing Omotesando's crowds into a garden of Buddhist art.",
+        "wikipedia": "Nezu Museum"
+      },
+      {
+        "title": "Great (Bamboo) Wall House",
+        "year": "2002",
+        "location": "Beijing, CN",
+        "blurb": "A hotel-house of bamboo screens laid along the contours beside the Great Wall — the manifesto for dissolving architecture into material.",
+        "wikipedia": null
+      },
+      {
+        "title": "Asakusa Culture Tourist Information Center",
+        "year": "2012",
+        "location": "Tokyo, JP",
+        "blurb": "Seven little wooden houses stacked into a tower facing the Kaminarimon gate.",
+        "wikipedia": null
+      },
+      {
+        "title": "Yusuhara Wooden Bridge Museum",
+        "year": "2010",
+        "location": "Yusuhara, JP",
+        "blurb": "A gallery carried across a road on a cantilevered lattice of interlocking beams — traditional joinery at structural scale.",
+        "wikipedia": null
+      },
+      {
+        "title": "Water/Glass",
+        "year": "1995",
+        "location": "Atami, JP",
+        "blurb": "A guesthouse whose floor of shallow water runs out to meet the Pacific horizon; the early work that marked his turn.",
+        "wikipedia": null
+      },
+      {
+        "title": "Stone Museum",
+        "year": "2000",
+        "location": "Nasu, JP",
+        "blurb": "Old rice warehouses joined by walls of porous stacked stone — masonry made to transmit light.",
+        "wikipedia": null
+      },
+      {
+        "title": "Suntory Museum of Art",
+        "year": "2007",
+        "location": "Tokyo, JP",
+        "blurb": "A Roppongi museum of Japanese craft behind vertical ceramic louvers, urban outside, paper-soft within.",
+        "wikipedia": "Suntory Museum of Art"
+      },
+      {
+        "title": "Odunpazarı Modern Museum",
+        "year": "2019",
+        "location": "Eskişehir, TR",
+        "blurb": "Stacked and rotated timber boxes echoing the cantilevered Ottoman houses of the old town around it.",
+        "wikipedia": "Odunpazarı Modern Museum"
+      }
+    ]
+  },
+  {
+    "id": "lacaton-vassal",
+    "name": "Anne Lacaton & Jean-Philippe Vassal",
+    "born": 1955,
+    "died": null,
+    "yearsLabel": "b. 1955 / 1954",
+    "country": "France",
+    "link": "https://www.lacatonvassal.com",
+    "linkLabel": "L&V",
+    "firm": "Lacaton & Vassal",
+    "styles": ["Adaptive Reuse", "Social Architecture"],
+    "wikipedia": "Lacaton & Vassal",
+    "bio": "Lacaton and Vassal met at architecture school in Bordeaux, spent formative years in Niger — where a straw-and-branch hut Vassal built on a dune lasted two years and taught them more than any building since — and founded their Paris practice in 1987 on a single conviction: space is a luxury, and cheapness is how you buy it. Greenhouse technology gave them the method; the Latapie House of 1993 doubled a working family's home for a social-housing budget by bolting a polycarbonate winter garden onto a plain box. Asked to beautify a Bordeaux square in 1996, they studied it and formally recommended doing nothing. Their slogan — never demolish, never remove, always add — became a program at Grand Parc Bordeaux, where three 1960s slab blocks gained deep winter gardens for less than the cost of demolition, tenants in place throughout, and won the Mies Award. The Pritzker followed in 2021, honoring a career spent proving that generosity is a technical problem.",
+    "projects": [
+      {
+        "title": "Latapie House",
+        "year": "1993",
+        "location": "Floirac, FR",
+        "blurb": "A social-budget family house doubled in size by a polycarbonate winter garden — the founding demonstration that cheap can mean generous.",
+        "wikipedia": null
+      },
+      {
+        "title": "Transformation of Grand Parc",
+        "year": "2017",
+        "location": "Bordeaux, FR",
+        "blurb": "530 flats in three 1960s slabs given three-meter-deep winter gardens with tenants in residence; Mies van der Rohe Award, 2019.",
+        "wikipedia": null
+      },
+      {
+        "title": "Palais de Tokyo",
+        "year": "2002–12",
+        "location": "Paris, FR",
+        "blurb": "A 1937 palace stripped to its concrete bones and left raw — maximum art space for minimum money, in two campaigns.",
+        "wikipedia": "Palais de Tokyo"
+      },
+      {
+        "title": "Tour Bois-le-Prêtre",
+        "year": "2011",
+        "location": "Paris, FR",
+        "blurb": "A 17-storey housing tower slated for demolition re-skinned with prefabricated balconies instead (with Frédéric Druot) — the proof of concept for a continent's postwar stock.",
+        "wikipedia": "Tour Bois-le-Prêtre"
+      },
+      {
+        "title": "House in Cap Ferret",
+        "year": "1998",
+        "location": "Cap Ferret, FR",
+        "blurb": "A dune house lifted on micro-piles with 46 pines growing on through the floor, sleeved in rubber where they pass.",
+        "wikipedia": null
+      },
+      {
+        "title": "Nantes School of Architecture",
+        "year": "2009",
+        "location": "Nantes, FR",
+        "blurb": "Three oversized concrete decks and a ramp: twice the required area delivered on budget, the surplus left for students to claim.",
+        "wikipedia": null
+      },
+      {
+        "title": "FRAC Grand Large",
+        "year": "2013",
+        "location": "Dunkirk, FR",
+        "blurb": "A ghost twin in inflated ETFE beside a vast shipyard hall — the hall itself left empty and intact, the doubling as argument.",
+        "wikipedia": null
+      },
+      {
+        "title": "Cité Manifeste Housing",
+        "year": "2005",
+        "location": "Mulhouse, FR",
+        "blurb": "Social housing under greenhouse roofs offering half again the standard floor area at standard cost.",
+        "wikipedia": null
+      },
+      {
+        "title": "Place Léon Aucoc",
+        "year": "1996",
+        "location": "Bordeaux, FR",
+        "blurb": "Commissioned to embellish a modest square, they recommended new gravel and nothing else — the discipline's most eloquent refusal.",
+        "wikipedia": null
+      },
+      {
+        "title": "House in Coutras",
+        "year": "2000",
+        "location": "Coutras, FR",
+        "blurb": "Two off-the-shelf agricultural greenhouses made into a home — the catalogue economy taken at its word.",
+        "wikipedia": null
+      }
+    ]
+  },
+  {
+    "id": "enric-miralles",
+    "name": "Enric Miralles",
+    "born": 1955,
+    "died": 2000,
+    "country": "Spain",
+    "link": "http://www.mirallestagliabue.com",
+    "linkLabel": "EMBT",
+    "firm": "EMBT (Miralles Tagliabue)",
+    "styles": ["Deconstructivism", "Organic Architecture"],
+    "wikipedia": "Enric Miralles",
+    "bio": "Miralles drew like no one else — layered, fragmentary plans closer to seismographs than blueprints — and built the way he drew, in splintered concrete, bent steel and wandering rooflines that critics filed under deconstructivism and he insisted were simply attention to place. With his first wife Carme Pinós he cut the Igualada Cemetery into a Catalan hillside as a sunken street of the dead; with his second, Benedetta Tagliabue, he founded EMBT in 1994 and won the competition for a new Scottish Parliament with a scheme of upturned boats and leaf-shaped chambers. He died of a brain tumor in July 2000 at 45, with nearly everything unfinished: Tagliabue completed the parliament — late, over budget, and eventually Stirling Prize-winning — along with the writhing timber roof over Santa Caterina market. Few careers this short have left this long a wake.",
+    "projects": [
+      {
+        "title": "Scottish Parliament Building",
+        "year": "2004",
+        "location": "Edinburgh, UK",
+        "blurb": "A parliament grown from the land at Holyrood — upturned-boat roofs, leaf plans, and a famously bruising construction saga; Stirling Prize, 2005.",
+        "wikipedia": "Scottish Parliament Building"
+      },
+      {
+        "title": "Igualada Cemetery",
+        "year": "1994",
+        "location": "Igualada, ES",
+        "blurb": "A cemetery cut into the hillside as a sunken processional street, sleepers scattered in the concrete like driftwood (with Carme Pinós).",
+        "wikipedia": "Igualada Cemetery"
+      },
+      {
+        "title": "Santa Caterina Market",
+        "year": "2005",
+        "location": "Barcelona, ES",
+        "blurb": "A nineteenth-century market re-roofed with an undulating wave of colored ceramic tile, finished by Tagliabue after his death.",
+        "wikipedia": "Mercat de Santa Caterina"
+      },
+      {
+        "title": "Olympic Archery Range",
+        "year": "1992",
+        "location": "Barcelona, ES",
+        "blurb": "Pavilions for the Barcelona Games as folded retaining walls and canopies half-buried in the Vall d'Hebron slope (with Pinós).",
+        "wikipedia": null
+      },
+      {
+        "title": "Utrecht Town Hall",
+        "year": "2000",
+        "location": "Utrecht, NL",
+        "blurb": "A medieval-to-neoclassical city hall reordered by collage rather than restoration, its back turned into a new front.",
+        "wikipedia": null
+      },
+      {
+        "title": "Huesca Sports Hall",
+        "year": "1994",
+        "location": "Huesca, ES",
+        "blurb": "A basketball arena sunk into the ground under a suspended roof like a landed kite.",
+        "wikipedia": null
+      },
+      {
+        "title": "La Clota Rhythmic Gymnastics Centre",
+        "year": "1993",
+        "location": "Alicante, ES",
+        "blurb": "Training halls under a tangle of catenary steel and concrete — structure as choreography.",
+        "wikipedia": null
+      },
+      {
+        "title": "Parc de Diagonal Mar",
+        "year": "2002",
+        "location": "Barcelona, ES",
+        "blurb": "A park of looping steel tendrils and raised planters spilling toward the sea, completed by EMBT.",
+        "wikipedia": null
+      },
+      {
+        "title": "Hamburg Music School",
+        "year": "2000",
+        "location": "Hamburg, DE",
+        "blurb": "A conservatory wrapped around a public passage, finished in the year of his death.",
+        "wikipedia": null
+      },
+      {
+        "title": "Torre Mare Nostrum",
+        "year": "2006",
+        "location": "Barcelona, ES",
+        "blurb": "The Gas Natural headquarters — a glass tower fractured into cantilevered shards over the Barceloneta rooftops, built posthumously.",
+        "wikipedia": "Torre Mare Nostrum"
+      }
+    ]
+  },
+  {
+    "id": "kazuyo-sejima",
+    "name": "Kazuyo Sejima",
+    "born": 1956,
+    "died": null,
+    "country": "Japan",
+    "link": "https://www.sanaa.co.jp",
+    "linkLabel": "SANAA",
+    "firm": "SANAA (with Ryue Nishizawa)",
+    "styles": ["Minimalism", "New Materiality"],
+    "wikipedia": "Kazuyo Sejima",
+    "bio": "Sejima worked for Toyo Ito, opened her own studio in 1987, and in 1995 formed SANAA with her former employee Ryue Nishizawa — an equal partnership that has produced some of the most quietly radical buildings of the last three decades. The work seems barely there: forests of thin white columns, curved glass, light without shadow, and plans that scatter program like furniture in a field rather than stacking it in corridors. Kanazawa's circular museum abolished the idea of a front door; the Rolex Learning Center turned a floor into rolling topography. She and Nishizawa shared the Pritzker in 2010, the same year she became the first woman to direct the Venice Architecture Biennale, and her influence now runs through an entire generation of Japanese practice.",
+    "projects": [
+      {
+        "title": "21st Century Museum",
+        "year": "2004",
+        "location": "Kanazawa, JP",
+        "blurb": "A glass circle of galleries with no front and no back.",
+        "wikipedia": "21st Century Museum of Contemporary Art, Kanazawa"
+      },
+      {
+        "title": "Rolex Learning Center",
+        "year": "2010",
+        "location": "Lausanne, CH",
+        "blurb": "A single undulating floor you wander like a landscape.",
+        "wikipedia": "Rolex Learning Center"
+      },
+      {
+        "title": "New Museum",
+        "year": "2007",
+        "location": "New York, US",
+        "blurb": "Shifted mesh boxes stacked on the Bowery.",
+        "wikipedia": "New Museum"
+      },
+      {
+        "title": "Grace Farms",
+        "year": "2015",
+        "location": "New Canaan, US",
+        "blurb": "A river-shaped roof drifting down a Connecticut meadow.",
+        "wikipedia": "Grace Farms"
+      },
+      {
+        "title": "Louvre-Lens",
+        "year": "2012",
+        "location": "Lens, FR",
+        "blurb": "The Louvre's satellite as a chain of low aluminum halls on a former coalfield.",
+        "wikipedia": "Louvre-Lens"
+      },
+      {
+        "title": "Zollverein School",
+        "year": "2006",
+        "location": "Essen, DE",
+        "blurb": "A concrete cube punched with 134 square windows.",
+        "wikipedia": "Zollverein School of Management and Design"
+      },
+      {
+        "title": "Moriyama House",
+        "year": "2005",
+        "location": "Tokyo, JP",
+        "blurb": "A house dissolved into ten small white boxes and gardens (Nishizawa).",
+        "wikipedia": "Moriyama House"
+      },
+      {
+        "title": "Serpentine Pavilion",
+        "year": "2009",
+        "location": "London, UK",
+        "blurb": "A floating mirror-polished aluminum cloud on thin sticks.",
+        "wikipedia": null
+      },
+      {
+        "title": "Sumida Hokusai Museum",
+        "year": "2016",
+        "location": "Tokyo, JP",
+        "blurb": "Slashed aluminum volumes for the master of the wave (Sejima solo).",
+        "wikipedia": "Sumida Hokusai Museum"
+      },
+      {
+        "title": "Bocconi Campus",
+        "year": "2019",
+        "location": "Milan, IT",
+        "blurb": "Veiled curving screens for a university quarter.",
+        "wikipedia": null
+      }
+    ]
+  },
+  {
+    "id": "shigeru-ban",
+    "name": "Shigeru Ban",
+    "born": 1957,
+    "died": null,
+    "country": "Japan",
+    "link": "http://www.shigerubanarchitects.com",
+    "linkLabel": "SBA",
+    "firm": "Shigeru Ban Architects",
+    "styles": ["Humanitarian Architecture", "Structural Innovation"],
+    "wikipedia": "Shigeru Ban",
+    "bio": "Ban studied under John Hejduk at Cooper Union, absorbed the New York avant-garde's love of the diagram, and then aimed it at an unglamorous material: the cardboard tube, which he discovered was strong enough to hold up buildings and cheap enough to give away. After the 1995 Kobe earthquake he built refugees a paper church and log houses with beer-crate foundations, founded his Voluntary Architects' Network, and has turned up after disasters from Rwanda to Christchurch to Ukraine ever since — his paper partition system is now standard issue in Japanese evacuation shelters. The commercial practice runs on the same structural wit at larger scale: a hexagonally woven timber roof rippling over Centre Pompidou-Metz, the world's largest timber office campus for Swatch. The Pritzker jury cited the humanitarian work as inseparable from the rest when it gave him the prize in 2014. He has spent a career proving that strength of material and strength of purpose are different things.",
+    "projects": [
+      {
+        "title": "Centre Pompidou-Metz",
+        "year": "2010",
+        "location": "Metz, FR",
+        "blurb": "The Pompidou's satellite under a hexagonally woven timber roof draped like a Chinese hat over three stacked gallery tubes.",
+        "wikipedia": "Centre Pompidou-Metz"
+      },
+      {
+        "title": "Cardboard Cathedral",
+        "year": "2013",
+        "location": "Christchurch, NZ",
+        "blurb": "A transitional cathedral of 98 paper tubes raised after the 2011 earthquake — designed for a decade, likely to last far longer.",
+        "wikipedia": "Cardboard Cathedral"
+      },
+      {
+        "title": "Paper Church",
+        "year": "1995",
+        "location": "Kobe, JP",
+        "blurb": "An oval of 58 cardboard columns built by volunteers for a congregation burned out by the earthquake; later shipped to Taiwan and re-erected.",
+        "wikipedia": "Paper Dome"
+      },
+      {
+        "title": "Paper Log Houses",
+        "year": "1995",
+        "location": "Kobe, JP",
+        "blurb": "Emergency housing of paper tubes on beer-crate foundations — dignified, insulated, and built by the people who would live in them.",
+        "wikipedia": null
+      },
+      {
+        "title": "Curtain Wall House",
+        "year": "1995",
+        "location": "Tokyo, JP",
+        "blurb": "A corner house whose facade is a literal two-storey white curtain, drawn open in summer.",
+        "wikipedia": null
+      },
+      {
+        "title": "Naked House",
+        "year": "2000",
+        "location": "Kawagoe, JP",
+        "blurb": "A translucent greenhouse-like shed in which the bedrooms are boxes on wheels, rearranged at will.",
+        "wikipedia": null
+      },
+      {
+        "title": "Nicolas G. Hayek Center",
+        "year": "2007",
+        "location": "Tokyo, JP",
+        "blurb": "A Ginza tower for Swatch whose full glass facade shutters open, turning the street into the lobby.",
+        "wikipedia": null
+      },
+      {
+        "title": "Aspen Art Museum",
+        "year": "2014",
+        "location": "Aspen, US",
+        "blurb": "Galleries behind a woven wooden basket screen, entered from the top like a ski run.",
+        "wikipedia": "Aspen Art Museum"
+      },
+      {
+        "title": "Swatch and Omega Campus",
+        "year": "2019",
+        "location": "Biel, CH",
+        "blurb": "A gridshell timber serpent nearly 240 meters long snaking over the watchmaker's headquarters — among the largest wooden structures built.",
+        "wikipedia": null
+      },
+      {
+        "title": "Japan Pavilion, Expo 2000",
+        "year": "2000",
+        "location": "Hanover, DE",
+        "blurb": "A great arched hall of paper tubes engineered with Frei Otto, designed from the outset to be recycled.",
+        "wikipedia": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,852 @@
+[
+  {
+    "id": "auguste-perret",
+    "name": "Auguste Perret",
+    "born": 1874,
+    "died": 1954,
+    "country": "France",
+    "link": null,
+    "linkLabel": null,
+    "firm": "Perret Frères",
+    "styles": ["Structural Rationalism", "Modern Classicism"],
+    "wikipedia": "Auguste Perret",
+    "bio": "Perret left the École des Beaux-Arts without a diploma to run the family contracting business with his brothers, and from inside that builder's firm made reinforced concrete respectable — even classical. The Rue Franklin apartments of 1904 exposed the frame behind a thin ceramic skin; Notre-Dame du Raincy stripped the Gothic church to concrete columns and glass twenty years later. A young Charles-Édouard Jeanneret spent fourteen months in his office in 1908 and absorbed the lesson before renaming himself Le Corbusier and arguing with it. Perret's reward came late and enormous: after 1945 he was handed the flattened center of Le Havre and rebuilt an entire city in his modular concrete classicism, now a UNESCO site. He liked to say his concrete was more beautiful than stone, and in Le Havre he had a whole downtown to prove it.",
+    "projects": [
+      {
+        "title": "Notre-Dame du Raincy",
+        "year": "1923",
+        "location": "Le Raincy, FR",
+        "blurb": "A church of slender concrete columns and walls dissolved into pierced-concrete glazing — the Sainte-Chapelle of reinforced concrete.",
+        "wikipedia": "Notre-Dame du Raincy"
+      },
+      {
+        "title": "Rue Franklin Apartments",
+        "year": "1904",
+        "location": "Paris, FR",
+        "blurb": "The first apartment building to admit its concrete frame, dressed in floral ceramic tile; the free plan starts here.",
+        "wikipedia": "25 bis rue Benjamin Franklin"
+      },
+      {
+        "title": "Théâtre des Champs-Élysées",
+        "year": "1913",
+        "location": "Paris, FR",
+        "blurb": "The concrete-framed theater where The Rite of Spring rioted two months after opening; Perret took the commission over from van de Velde.",
+        "wikipedia": "Théâtre des Champs-Élysées"
+      },
+      {
+        "title": "St. Joseph's Church, Le Havre",
+        "year": "1957",
+        "location": "Le Havre, FR",
+        "blurb": "A 107-meter lantern tower of concrete and colored glass, memorial to the city's dead; finished after Perret's own death.",
+        "wikipedia": "St. Joseph's Church, Le Havre"
+      },
+      {
+        "title": "Le Havre Reconstruction",
+        "year": "1945–64",
+        "location": "Le Havre, FR",
+        "blurb": "An entire bombed city center rebuilt on a concrete module by Perret's atelier — inscribed by UNESCO as the rare postwar plan that worked.",
+        "wikipedia": "Le Havre"
+      },
+      {
+        "title": "Palais d'Iéna",
+        "year": "1939",
+        "location": "Paris, FR",
+        "blurb": "Built as the Museum of Public Works, a hypostyle hall of tapering fluted columns; his fullest statement of concrete classicism.",
+        "wikipedia": "Palais d'Iéna"
+      },
+      {
+        "title": "Salle Cortot",
+        "year": "1929",
+        "location": "Paris, FR",
+        "blurb": "A tall, narrow concert hall for the École Normale de Musique that Perret promised would sound like a violin.",
+        "wikipedia": "Salle Cortot"
+      },
+      {
+        "title": "Garage Ponthieu",
+        "year": "1906",
+        "location": "Paris, FR",
+        "blurb": "A parking garage with a rose window of glass and concrete — industrial program given a facade of frank structure (demolished 1970).",
+        "wikipedia": null
+      },
+      {
+        "title": "Tour Perret, Amiens",
+        "year": "1952",
+        "location": "Amiens, FR",
+        "blurb": "A 104-meter residential tower by the station, for a while the tallest concrete building in Europe.",
+        "wikipedia": "Tour Perret (Amiens)"
+      },
+      {
+        "title": "Mobilier National",
+        "year": "1936",
+        "location": "Paris, FR",
+        "blurb": "The state furniture repository behind a curved concrete portico — bureaucratic program, patrician calm.",
+        "wikipedia": "Mobilier national"
+      }
+    ]
+  },
+  {
+    "id": "eileen-gray",
+    "name": "Eileen Gray",
+    "born": 1878,
+    "died": 1976,
+    "country": "Ireland / France",
+    "link": "https://capmoderne.com",
+    "linkLabel": "Cap Moderne",
+    "firm": "Jean Désert",
+    "styles": ["Modernism", "Art Deco"],
+    "wikipedia": "Eileen Gray",
+    "bio": "Born to Anglo-Irish gentry in Enniscorthy, Gray studied at the Slade, moved to Paris, and apprenticed herself to the Japanese master Seizo Sugawara in the exacting craft of lacquer — the foundation of a furniture career she sold through her own gallery, Jean Désert. Self-taught in architecture, she designed and built E-1027 on the rocks at Roquebrune-Cap-Martin between 1926 and 1929, a house so complete in its thinking that Le Corbusier became obsessed with it, painted murals on its walls without her consent, and eventually drowned swimming below it. She retreated from view after the 1930s and was nearly forgotten for three decades until a 1968 article revived her reputation in her ninetieth year. In 2009 her Dragons armchair sold for 21.9 million euros, then a record for twentieth-century decorative art. She died in Paris at 98, having outlived almost everyone who underestimated her.",
+    "projects": [
+      {
+        "title": "E-1027",
+        "year": "1929",
+        "location": "Roquebrune-Cap-Martin, FR",
+        "blurb": "A white villa above the Mediterranean, designed down to its pivoting furniture; the name encodes her initials entwined with Jean Badovici's.",
+        "wikipedia": "E-1027"
+      },
+      {
+        "title": "Tempe à Pailla",
+        "year": "1934",
+        "location": "Castellar, FR",
+        "blurb": "Her second house, built for herself alone above Menton — tighter, drier, and full of transforming built-ins.",
+        "wikipedia": null
+      },
+      {
+        "title": "Adjustable Table E 1027",
+        "year": "1927",
+        "location": "Roquebrune-Cap-Martin, FR",
+        "blurb": "A chrome side table with a height-adjustable glass top, designed so her sister could breakfast in bed; still in production a century on.",
+        "wikipedia": "E-1027 (table)"
+      },
+      {
+        "title": "Bibendum Chair",
+        "year": "1926",
+        "location": "Paris, FR",
+        "blurb": "Rolled leather tubes on a chrome frame, named for the Michelin Man — modernism with a sense of humor.",
+        "wikipedia": "Bibendum chair"
+      },
+      {
+        "title": "Dragons Armchair",
+        "year": "1919",
+        "location": "Paris, FR",
+        "blurb": "A lacquered armchair from her decorative period, later owned by Yves Saint Laurent; its 2009 auction price made headlines worldwide.",
+        "wikipedia": null
+      },
+      {
+        "title": "Transat Chair",
+        "year": "1927",
+        "location": "Roquebrune-Cap-Martin, FR",
+        "blurb": "A lacquered deck chair for E-1027, borrowing the geometry of the transatlantic liner.",
+        "wikipedia": null
+      },
+      {
+        "title": "Rue de Lota Apartment",
+        "year": "1922",
+        "location": "Paris, FR",
+        "blurb": "A total interior for the milliner Suzanne Talbot, lined with lacquer panels and her serpent chair — the peak of her deco period.",
+        "wikipedia": null
+      },
+      {
+        "title": "Jean Désert",
+        "year": "1922",
+        "location": "Paris, FR",
+        "blurb": "Her own gallery on the rue du Faubourg Saint-Honoré, opened under a male pseudonym to sell her furniture and rugs.",
+        "wikipedia": null
+      },
+      {
+        "title": "Brick Screen",
+        "year": "1922",
+        "location": "Paris, FR",
+        "blurb": "Pivoting lacquered panels on steel rods — a wall taken apart and made mobile, halfway between furniture and architecture.",
+        "wikipedia": null
+      },
+      {
+        "title": "Lou Pérou",
+        "year": "1958",
+        "location": "Saint-Tropez, FR",
+        "blurb": "A stone cottage near Saint-Tropez she remodeled for herself in her eighties; the last built work.",
+        "wikipedia": null
+      }
+    ]
+  },
+  {
+    "id": "walter-gropius",
+    "name": "Walter Gropius",
+    "born": 1883,
+    "died": 1969,
+    "country": "Germany / United States",
+    "link": "https://www.bauhaus.de",
+    "linkLabel": "Bauhaus-Archiv",
+    "firm": "The Architects Collaborative",
+    "styles": ["Bauhaus", "International Style"],
+    "wikipedia": "Walter Gropius",
+    "bio": "Gropius could barely draw — he dictated to collaborators all his life — yet he organized twentieth-century architecture more thoroughly than almost anyone who could. The Fagus factory of 1911 hung a glass curtain wall from a steel frame while he was still in his twenties; in 1919 he folded Weimar's art and craft schools into the Bauhaus and gave the century its most influential design school, then built its Dessau home as a manifesto in glass and white render. In between he survived four years of cavalry service on the Western Front and a marriage to Alma Mahler. Driven out by the Nazis' rise, he reached Harvard in 1937, chaired its architecture department, and trained the generation of Pei, Rudolph and Johnson. His Massachusetts practice, The Architects Collaborative, was founded on the teamwork he had preached since Weimar — the conviction that the building is too big a job for one signature.",
+    "projects": [
+      {
+        "title": "Bauhaus Building",
+        "year": "1926",
+        "location": "Dessau, DE",
+        "blurb": "The school as manifesto: pinwheeling wings, a glass curtain wall, and the name spelled down the facade.",
+        "wikipedia": "Bauhaus Dessau"
+      },
+      {
+        "title": "Fagus Factory",
+        "year": "1913",
+        "location": "Alfeld, DE",
+        "blurb": "A shoe-last factory with glass corners where masonry should be — the founding document of the glass curtain wall.",
+        "wikipedia": "Fagus Factory"
+      },
+      {
+        "title": "Gropius House",
+        "year": "1938",
+        "location": "Lincoln, US",
+        "blurb": "His own New England house, Bauhaus principles negotiated with clapboard and fieldstone; now a museum.",
+        "wikipedia": "Gropius House"
+      },
+      {
+        "title": "Masters' Houses",
+        "year": "1926",
+        "location": "Dessau, DE",
+        "blurb": "Semi-detached white villas in a pine grove for Kandinsky, Klee, Moholy-Nagy and the other Bauhaus masters.",
+        "wikipedia": "Masters' Houses"
+      },
+      {
+        "title": "Harvard Graduate Center",
+        "year": "1950",
+        "location": "Cambridge, US",
+        "blurb": "The first modernist complex on an American campus, built with TAC for the university he taught at.",
+        "wikipedia": "Harvard Graduate Center"
+      },
+      {
+        "title": "Model Factory, Werkbund Exhibition",
+        "year": "1914",
+        "location": "Cologne, DE",
+        "blurb": "An exhibition factory with glass-wrapped spiral stairs at its corners, built with Adolf Meyer for the Deutscher Werkbund.",
+        "wikipedia": "Werkbund Exhibition (1914)"
+      },
+      {
+        "title": "Törten Estate",
+        "year": "1928",
+        "location": "Dessau, DE",
+        "blurb": "Over 300 rationalized row houses testing assembly-line construction on the edge of Dessau.",
+        "wikipedia": "Dessau-Törten Housing Estate"
+      },
+      {
+        "title": "MetLife Building",
+        "year": "1963",
+        "location": "New York, US",
+        "blurb": "The Pan Am tower straddling Grand Central, with Belluschi and TAC — his biggest and least loved American work.",
+        "wikipedia": "MetLife Building"
+      },
+      {
+        "title": "Gropiusstadt",
+        "year": "1962–75",
+        "location": "Berlin, DE",
+        "blurb": "A satellite city of housing slabs in south Berlin, planned by Gropius and named for him after his death.",
+        "wikipedia": "Gropiusstadt"
+      },
+      {
+        "title": "Bauhaus-Archiv",
+        "year": "1979",
+        "location": "Berlin, DE",
+        "blurb": "The museum of the school he founded, built posthumously from his design with its sawtooth roofs turned to the light.",
+        "wikipedia": "Bauhaus Archive"
+      }
+    ]
+  },
+  {
+    "id": "erik-gunnar-asplund",
+    "name": "Erik Gunnar Asplund",
+    "born": 1885,
+    "died": 1940,
+    "country": "Sweden",
+    "link": null,
+    "linkLabel": null,
+    "firm": "Asplund Arkitektkontor",
+    "styles": ["Nordic Classicism", "Functionalism"],
+    "wikipedia": "Gunnar Asplund",
+    "bio": "Asplund won the competition for Stockholm's Woodland Cemetery with Sigurd Lewerentz in 1915, at thirty, and spent the rest of his life on it — a project that begins in pine forest and ends in some of the most moving funerary architecture ever built. In between he perfected Nordic classicism with the Stockholm Public Library, a cylinder of books rising from a plastered drum, and then pivoted the whole of Scandinavia toward modernism as chief architect of the 1930 Stockholm Exhibition, whose glass pavilions and advertising mast made functionalism look festive rather than dour. His late Gothenburg courthouse extension set a delicate modern frame beside a seventeenth-century facade and was despised by the public for decades before being recognized as one of the century's finest civic interiors. He died of a heart attack in 1940, weeks after the Woodland Crematorium was consecrated; his funeral was held there, and he is buried in the cemetery he had been designing for twenty-five years.",
+    "projects": [
+      {
+        "title": "Skogskyrkogården",
+        "year": "1917–40",
+        "location": "Stockholm, SE",
+        "blurb": "The Woodland Cemetery, designed with Lewerentz over a quarter century — landscape, chapels and a granite cross in a clearing; a UNESCO site.",
+        "wikipedia": "Skogskyrkogården"
+      },
+      {
+        "title": "Stockholm Public Library",
+        "year": "1928",
+        "location": "Stockholm, SE",
+        "blurb": "A cylinder of books rising out of an orange-plastered box; Nordic classicism at its most distilled, and the model for a century of libraries.",
+        "wikipedia": "Stockholm Public Library"
+      },
+      {
+        "title": "Woodland Crematorium",
+        "year": "1940",
+        "location": "Stockholm, SE",
+        "blurb": "Three chapels, a loggia and a freestanding cross above a hillside of graves — his last work, finished the year he died.",
+        "wikipedia": null
+      },
+      {
+        "title": "Stockholm Exhibition",
+        "year": "1930",
+        "location": "Stockholm, SE",
+        "blurb": "Glass pavilions, flags and a slender advertising mast on the water; the event that converted Scandinavia to functionalism in a single summer.",
+        "wikipedia": "Stockholm Exhibition (1930)"
+      },
+      {
+        "title": "Gothenburg Law Courts Extension",
+        "year": "1937",
+        "location": "Gothenburg, SE",
+        "blurb": "A modern frame set beside a classical courthouse, with an interior of timber, glass and daylit walkways decades ahead of its manners.",
+        "wikipedia": null
+      },
+      {
+        "title": "Woodland Chapel",
+        "year": "1920",
+        "location": "Stockholm, SE",
+        "blurb": "A steep shingled pyramid roof over a classical portico deep in the pines — death domesticated into a hut.",
+        "wikipedia": null
+      },
+      {
+        "title": "Lister County Courthouse",
+        "year": "1921",
+        "location": "Sölvesborg, SE",
+        "blurb": "A small-town courthouse with a curved courtroom pressed inside a severe gabled box; early Asplund at his wittiest.",
+        "wikipedia": "Lister County Courthouse"
+      },
+      {
+        "title": "Skandia Cinema",
+        "year": "1923",
+        "location": "Stockholm, SE",
+        "blurb": "An auditorium made into a night sky, with a dark ceiling and glowing lanterns — classicism as pure theater.",
+        "wikipedia": "Skandia Theatre"
+      },
+      {
+        "title": "Villa Snellman",
+        "year": "1918",
+        "location": "Djursholm, SE",
+        "blurb": "A deceptively simple suburban villa whose subtly bent plan and off-beat windows have been studied ever since.",
+        "wikipedia": "Villa Snellman"
+      },
+      {
+        "title": "Stennäs Summer House",
+        "year": "1937",
+        "location": "Sorunda, SE",
+        "blurb": "His own low stone-and-timber retreat on an inlet south of Stockholm, hunkered against the slope around a corner fireplace.",
+        "wikipedia": null
+      }
+    ]
+  },
+  {
+    "id": "sigurd-lewerentz",
+    "name": "Sigurd Lewerentz",
+    "born": 1885,
+    "died": 1975,
+    "country": "Sweden",
+    "link": null,
+    "linkLabel": null,
+    "firm": "Lewerentz Arkitektkontor",
+    "styles": ["Nordic Classicism", "Brutalism"],
+    "wikipedia": "Sigurd Lewerentz",
+    "bio": "Lewerentz shared the Woodland Cemetery with Asplund from 1915, contributed its landscape and the austere Chapel of the Resurrection, and was quietly pushed off the project before the crematorium was built — a wound that never quite closed. Notoriously silent and notoriously slow, he spent decades running Idesta, his own factory for steel windows and fittings, building little. Then, in his seventies, he produced the two brick churches at Björkhagen and Klippan on which his legend rests: buildings where no brick is cut, mortar joints swell to fill the difference, windows are glued straight onto the outside of the wall, and darkness is treated as a material. He worked until the end; his last built work, at 84, was a flower kiosk of raw concrete at Malmö's Eastern Cemetery, the burial ground he had designed sixty years before. Architects now speak of him the way monks speak of desert fathers.",
+    "projects": [
+      {
+        "title": "St. Peter's Church",
+        "year": "1966",
+        "location": "Klippan, SE",
+        "blurb": "A dark brick sanctuary where a steel column shaped like a tree holds the roof over the altar; no brick in the building is cut.",
+        "wikipedia": "St. Peter's Church, Klippan"
+      },
+      {
+        "title": "St. Mark's Church",
+        "year": "1960",
+        "location": "Björkhagen, Stockholm, SE",
+        "blurb": "Rough dark brick, vaulted ceilings and deliberately dim light in a birch grove — the first of the two late churches that remade his reputation.",
+        "wikipedia": "St. Mark's Church, Björkhagen"
+      },
+      {
+        "title": "Chapel of the Resurrection",
+        "year": "1925",
+        "location": "Stockholm, SE",
+        "blurb": "A freestanding portico set at an angle to a windowless white chapel at Skogskyrkogården; Nordic classicism at its most severe.",
+        "wikipedia": "Uppståndelsekapellet"
+      },
+      {
+        "title": "Skogskyrkogården",
+        "year": "1917–40",
+        "location": "Stockholm, SE",
+        "blurb": "The Woodland Cemetery, with Asplund — Lewerentz shaped its landscape of pines, ridge and meadow as much as any building on it.",
+        "wikipedia": "Skogskyrkogården"
+      },
+      {
+        "title": "Malmö Eastern Cemetery",
+        "year": "1916–69",
+        "location": "Malmö, SE",
+        "blurb": "A cemetery he designed and revisited across half a century, from classical twin chapels to late raw concrete.",
+        "wikipedia": "Östra kyrkogården, Malmö"
+      },
+      {
+        "title": "Flower Kiosk, Eastern Cemetery",
+        "year": "1969",
+        "location": "Malmö, SE",
+        "blurb": "A tiny shed of board-marked concrete with copper-clad roof and glass glued to its openings; his last building, finished at 84.",
+        "wikipedia": null
+      },
+      {
+        "title": "Malmö City Theatre",
+        "year": "1944",
+        "location": "Malmö, SE",
+        "blurb": "A vast civic theater with a democratic fan-shaped auditorium, won in competition and built with Hellström and Lallerstedt; now Malmö Opera.",
+        "wikipedia": "Malmö Opera and Music Theatre"
+      },
+      {
+        "title": "Chapels of St. Knut and St. Gertrud",
+        "year": "1943",
+        "location": "Malmö, SE",
+        "blurb": "Twin funeral chapels at the Eastern Cemetery, reached through a courtyard of columns — classicism drying into abstraction.",
+        "wikipedia": null
+      },
+      {
+        "title": "Villa Edstrand",
+        "year": "1936",
+        "location": "Falsterbo, SE",
+        "blurb": "His one functionalist seaside villa, a white composition of terraces and stairs among the dunes.",
+        "wikipedia": null
+      },
+      {
+        "title": "Social Insurance Board Building",
+        "year": "1932",
+        "location": "Stockholm, SE",
+        "blurb": "A government office block of obsessive constructional refinement, down to steel windows from his own factory.",
+        "wikipedia": null
+      }
+    ]
+  },
+  {
+    "id": "mies-van-der-rohe",
+    "name": "Ludwig Mies van der Rohe",
+    "born": 1886,
+    "died": 1969,
+    "country": "Germany / United States",
+    "link": "https://www.miessociety.org",
+    "linkLabel": "Mies Society",
+    "firm": "Office of Mies van der Rohe",
+    "styles": ["Modernism", "International Style"],
+    "wikipedia": "Ludwig Mies van der Rohe",
+    "bio": "Less is more. The son of an Aachen stonemason and the last director of the Bauhaus, Mies distilled architecture to structure, glass and proportion, and pursued that reduction with a patience that bordered on the theological. The Barcelona Pavilion and the Tugendhat House made the free plan luxurious; emigration to Chicago in 1938 gave him a continent of steel to work with. From the campus of IIT to the Seagram Building, he produced the definitive image of postwar corporate modernity — imitated everywhere, equaled almost nowhere — and spent his last years refining a handful of ideas he considered permanent.",
+    "projects": [
+      {
+        "title": "Barcelona Pavilion",
+        "year": "1929",
+        "location": "Barcelona, ES",
+        "blurb": "Freestanding planes of marble, onyx and glass; the modern movement's most quoted plan.",
+        "wikipedia": "Barcelona Pavilion"
+      },
+      {
+        "title": "Farnsworth House",
+        "year": "1951",
+        "location": "Plano, US",
+        "blurb": "A glass box floating above a floodplain — domesticity reduced to almost nothing.",
+        "wikipedia": "Farnsworth House"
+      },
+      {
+        "title": "Seagram Building",
+        "year": "1958",
+        "location": "New York, US",
+        "blurb": "Bronze and whiskey-toned glass on a plaza; the corporate tower perfected.",
+        "wikipedia": "Seagram Building"
+      },
+      {
+        "title": "Neue Nationalgalerie",
+        "year": "1968",
+        "location": "Berlin, DE",
+        "blurb": "A steel roof hovering over a clear-span hall; his last work, a temple of nothing.",
+        "wikipedia": "Neue Nationalgalerie"
+      },
+      {
+        "title": "Crown Hall",
+        "year": "1956",
+        "location": "Chicago, US",
+        "blurb": "IIT's school of architecture in one universal room.",
+        "wikipedia": "S. R. Crown Hall"
+      },
+      {
+        "title": "Tugendhat House",
+        "year": "1930",
+        "location": "Brno, CZ",
+        "blurb": "The luxurious sibling of Barcelona — an onyx wall glowing at dusk.",
+        "wikipedia": "Villa Tugendhat"
+      },
+      {
+        "title": "860–880 Lake Shore Drive",
+        "year": "1951",
+        "location": "Chicago, US",
+        "blurb": "Twin steel-and-glass apartment towers that set the template for a century of skylines.",
+        "wikipedia": "860–880 Lake Shore Drive"
+      },
+      {
+        "title": "Lange & Esters Houses",
+        "year": "1930",
+        "location": "Krefeld, DE",
+        "blurb": "Brick villas for silk merchants, now exhibition houses.",
+        "wikipedia": "Haus Lange and Haus Esters"
+      },
+      {
+        "title": "Weissenhof Apartments",
+        "year": "1927",
+        "location": "Stuttgart, DE",
+        "blurb": "His steel-framed block anchored the era-defining housing exhibition he directed.",
+        "wikipedia": "Weissenhof Estate"
+      },
+      {
+        "title": "TD Centre",
+        "year": "1969",
+        "location": "Toronto, CA",
+        "blurb": "Black towers on a granite plinth; Miesian order at banking scale.",
+        "wikipedia": "Toronto-Dominion Centre"
+      }
+    ]
+  },
+  {
+    "id": "le-corbusier",
+    "name": "Le Corbusier",
+    "born": 1887,
+    "died": 1965,
+    "country": "Switzerland / France",
+    "link": "https://www.fondationlecorbusier.fr",
+    "linkLabel": "Fondation",
+    "firm": "Atelier 35 rue de Sèvres",
+    "styles": ["Modernism", "Brutalism", "Purism"],
+    "wikipedia": "Le Corbusier",
+    "bio": "Charles-Édouard Jeanneret, a watchmaker's son from La Chaux-de-Fonds, reinvented himself in Paris as Le Corbusier and then set about reinventing everything else. The house became a machine for living in; the city became a diagram of light, air and circulation; his five points — pilotis, free plan, free facade, ribbon windows, roof garden — became the grammar of the modern movement worldwide. He painted every morning, wrote polemics that outsold his buildings, and swung late in life from white purism to the rough-cast concrete of Ronchamp and Chandigarh. No architect of the twentieth century was more influential, more imitated, or more productively argued with.",
+    "projects": [
+      {
+        "title": "Villa Savoye",
+        "year": "1931",
+        "location": "Poissy, FR",
+        "blurb": "The manifesto house — pilotis, ribbon windows, roof garden and free plan in one white object above a meadow.",
+        "wikipedia": "Villa Savoye"
+      },
+      {
+        "title": "Unité d'Habitation",
+        "year": "1952",
+        "location": "Marseille, FR",
+        "blurb": "A vertical village in rough concrete; 337 apartments, a shopping street and a roof terrace for gymnastics.",
+        "wikipedia": "Unité d'habitation"
+      },
+      {
+        "title": "Notre-Dame du Haut",
+        "year": "1955",
+        "location": "Ronchamp, FR",
+        "blurb": "The billowing chapel that proved the arch-rationalist could also be a sculptor of light.",
+        "wikipedia": "Notre-Dame du Haut"
+      },
+      {
+        "title": "Chandigarh Capitol",
+        "year": "1953–62",
+        "location": "Chandigarh, IN",
+        "blurb": "A new capital's monumental core — Assembly, Secretariat and High Court set against the Himalayas.",
+        "wikipedia": "Chandigarh Capitol Complex"
+      },
+      {
+        "title": "Villa La Roche",
+        "year": "1925",
+        "location": "Paris, FR",
+        "blurb": "An early promenade architecturale built for a collector of Purist painting.",
+        "wikipedia": "Maison La Roche"
+      },
+      {
+        "title": "Sainte Marie de La Tourette",
+        "year": "1960",
+        "location": "Éveux, FR",
+        "blurb": "A Dominican priory of silence, ramps and light cannons; late Corbusier at his most austere.",
+        "wikipedia": "Sainte Marie de La Tourette"
+      },
+      {
+        "title": "Maison Curutchet",
+        "year": "1953",
+        "location": "La Plata, AR",
+        "blurb": "His only built work in the Americas — a doctor's house threaded through a narrow lot.",
+        "wikipedia": "Curutchet House"
+      },
+      {
+        "title": "Pavillon Le Corbusier",
+        "year": "1967",
+        "location": "Zürich, CH",
+        "blurb": "A steel-and-enamel pavilion, completed posthumously; the last built work.",
+        "wikipedia": "Pavillon Le Corbusier"
+      },
+      {
+        "title": "Cité Frugès",
+        "year": "1926",
+        "location": "Pessac, FR",
+        "blurb": "A workers' housing quarter testing standardization and polychromy at urban scale.",
+        "wikipedia": "Cité Frugès"
+      },
+      {
+        "title": "Mill Owners' Association",
+        "year": "1954",
+        "location": "Ahmedabad, IN",
+        "blurb": "Brise-soleil as facade, ramp as entrance; a small palace for the cotton trade.",
+        "wikipedia": "Mill Owners' Association Building"
+      }
+    ]
+  },
+  {
+    "id": "rudolph-schindler",
+    "name": "Rudolph Schindler",
+    "born": 1887,
+    "died": 1953,
+    "country": "Austria / United States",
+    "link": "https://www.makcenter.org",
+    "linkLabel": "MAK Center",
+    "firm": "R. M. Schindler, Architect",
+    "styles": ["Modernism", "Space Architecture"],
+    "wikipedia": "Rudolph Schindler (architect)",
+    "bio": "Trained in Otto Wagner's Vienna and steeped in the circle of Adolf Loos, Schindler sailed for America in 1914, talked his way into Frank Lloyd Wright's office, and was left minding the Hollyhock House while Wright was in Tokyo. In 1922 he built himself the Kings Road house in West Hollywood — tilt-up concrete panels, sliding canvas walls, outdoor sleeping baskets on the roof, and two couples sharing it in a domestic experiment as radical as the construction. He stayed in Los Angeles for the rest of his life, building inventive, cheaply made houses on impossible hillsides for bohemian clients, while his former friend and housemate Richard Neutra took the fame and the Lovell house commission that Schindler thought was his. He called his approach Space Architecture and never much cared whether Europe approved. He died in 1953, decades before the profession admitted he had been one of America's great modernists all along.",
+    "projects": [
+      {
+        "title": "Schindler House",
+        "year": "1922",
+        "location": "West Hollywood, US",
+        "blurb": "Tilt-up concrete panels, canvas partitions and rooftop sleeping baskets for two couples — house as communal experiment; now the MAK Center.",
+        "wikipedia": "Schindler House"
+      },
+      {
+        "title": "Lovell Beach House",
+        "year": "1926",
+        "location": "Newport Beach, US",
+        "blurb": "A house held aloft on five exposed concrete frames above the sand; one of the founding buildings of American modernism.",
+        "wikipedia": "Lovell Beach House"
+      },
+      {
+        "title": "Pueblo Ribera Courts",
+        "year": "1923",
+        "location": "La Jolla, US",
+        "blurb": "Twelve vacation courts of slip-form concrete with private roof terraces, wrapped around gardens rather than streets.",
+        "wikipedia": null
+      },
+      {
+        "title": "How House",
+        "year": "1925",
+        "location": "Los Angeles, US",
+        "blurb": "A hillside house of interlocking concrete and redwood squares rotated to the view over Silver Lake.",
+        "wikipedia": "How House"
+      },
+      {
+        "title": "Wolfe House",
+        "year": "1928",
+        "location": "Avalon, US",
+        "blurb": "Stacked cantilevered trays stepping down a Catalina Island slope; demolished in 2002 over preservationists' protests.",
+        "wikipedia": null
+      },
+      {
+        "title": "Buck House",
+        "year": "1934",
+        "location": "Los Angeles, US",
+        "blurb": "An L-shaped composition of smooth planes turning its back on the street to open every room to a garden.",
+        "wikipedia": null
+      },
+      {
+        "title": "Fitzpatrick-Leland House",
+        "year": "1936",
+        "location": "Los Angeles, US",
+        "blurb": "A speculative house on a Mulholland hairpin, built to advertise hillside modern living.",
+        "wikipedia": "Fitzpatrick-Leland House"
+      },
+      {
+        "title": "Sachs Apartments",
+        "year": "1929–40",
+        "location": "Los Angeles, US",
+        "blurb": "Manola Court — an artist's apartment complex stepping down a Silver Lake hillside, refined over a decade.",
+        "wikipedia": null
+      },
+      {
+        "title": "Bethlehem Baptist Church",
+        "year": "1944",
+        "location": "Los Angeles, US",
+        "blurb": "His only church, built for a Black congregation in South Los Angeles from modest stucco volumes and a corner light tower.",
+        "wikipedia": "Bethlehem Baptist Church (Los Angeles, California)"
+      },
+      {
+        "title": "Oliver House",
+        "year": "1933",
+        "location": "Los Angeles, US",
+        "blurb": "A butterfly-roofed hillside house above Silver Lake, plaster planes folded to catch the reservoir view.",
+        "wikipedia": null
+      }
+    ]
+  },
+  {
+    "id": "erich-mendelsohn",
+    "name": "Erich Mendelsohn",
+    "born": 1887,
+    "died": 1953,
+    "country": "Germany / United States",
+    "link": null,
+    "linkLabel": null,
+    "firm": "Office of Erich Mendelsohn",
+    "styles": ["Expressionism", "Streamline Moderne"],
+    "wikipedia": "Erich Mendelsohn",
+    "bio": "Mendelsohn sketched visionary buildings in the trenches of the First World War — tiny, furious ink drawings of towers in motion — and after the armistice built one of them: the Einstein Tower at Potsdam, an observatory that looks poured rather than constructed. Through the 1920s he ran the largest architectural office in Germany, giving Weimar commerce its streamlined face with the Schocken department stores, Mossehaus and the Universum cinema, whose curves anticipated three decades of moderne. As a prominent Jewish architect he read the weather early and left in March 1933, weeks after Hitler took power, rebuilding his career three times over — in England with the De La Warr Pavilion, in Palestine with hospitals, banks and the Weizmann house, and finally in America with a late series of synagogues. He died in San Francisco in 1953, the great émigré whose influence is everywhere the modern city curves.",
+    "projects": [
+      {
+        "title": "Einstein Tower",
+        "year": "1921",
+        "location": "Potsdam, DE",
+        "blurb": "A solar observatory shaped like a thing in motion — expressionism's most famous building, intended for concrete, largely built in render over brick.",
+        "wikipedia": "Einstein Tower"
+      },
+      {
+        "title": "De La Warr Pavilion",
+        "year": "1935",
+        "location": "Bexhill-on-Sea, UK",
+        "blurb": "A seaside pavilion with a glass spiral stair, designed with Serge Chermayeff; Britain's first major modernist public building.",
+        "wikipedia": "De La Warr Pavilion"
+      },
+      {
+        "title": "Schocken Department Store, Chemnitz",
+        "year": "1930",
+        "location": "Chemnitz, DE",
+        "blurb": "Sweeping ribbon-windowed curves for the Schocken chain; the store survived war and socialism and is now a museum.",
+        "wikipedia": null
+      },
+      {
+        "title": "Schocken Department Store, Stuttgart",
+        "year": "1928",
+        "location": "Stuttgart, DE",
+        "blurb": "A glazed stair tower advertising the store's motion to the street; demolished in 1960 over international protest.",
+        "wikipedia": null
+      },
+      {
+        "title": "Mossehaus",
+        "year": "1923",
+        "location": "Berlin, DE",
+        "blurb": "A bomb-damaged newspaper building recrowned with streamlined corner banding — the moment Berlin commerce learned to curve.",
+        "wikipedia": "Mossehaus"
+      },
+      {
+        "title": "Universum Cinema",
+        "year": "1928",
+        "location": "Berlin, DE",
+        "blurb": "A horseshoe-curved movie palace on the Kurfürstendamm, ancestor of every streamlined cinema; now the Schaubühne theater.",
+        "wikipedia": "Schaubühne"
+      },
+      {
+        "title": "Columbushaus",
+        "year": "1932",
+        "location": "Berlin, DE",
+        "blurb": "A ten-story ribbon-windowed office slab on Potsdamer Platz, decades ahead of its curtain-walled successors; demolished after 1945 and the 1953 uprising.",
+        "wikipedia": "Columbushaus"
+      },
+      {
+        "title": "Hat Factory, Luckenwalde",
+        "year": "1923",
+        "location": "Luckenwalde, DE",
+        "blurb": "A dye works crowned with a concrete ventilation hood shaped like a hat — industrial expressionism doing real work.",
+        "wikipedia": null
+      },
+      {
+        "title": "Weizmann House",
+        "year": "1937",
+        "location": "Rehovot, IL",
+        "blurb": "A curved white residence for Chaim Weizmann, later Israel's first president, around a shaded courtyard pool.",
+        "wikipedia": "Weizmann House"
+      },
+      {
+        "title": "Park Synagogue",
+        "year": "1950",
+        "location": "Cleveland Heights, US",
+        "blurb": "A 100-foot concrete dome over a landscaped campus; the finest of his late American synagogues.",
+        "wikipedia": "Park Synagogue"
+      }
+    ]
+  },
+  {
+    "id": "gerrit-rietveld",
+    "name": "Gerrit Rietveld",
+    "born": 1888,
+    "died": 1964,
+    "country": "Netherlands",
+    "link": "https://www.rietveldschroderhuis.nl",
+    "linkLabel": "Schröder House",
+    "firm": "Rietveld Van Dillen Van Tricht",
+    "styles": ["De Stijl", "Functionalism"],
+    "wikipedia": "Gerrit Rietveld",
+    "bio": "A Utrecht cabinetmaker's son who left school at eleven for his father's workshop, Rietveld built the Red and Blue Chair before he had ever built a building — a sitting machine of planes and sticks that became De Stijl's three-dimensional manifesto. In 1924, with and for Truus Schröder, he produced the Schröder House, the movement's only fully realized building: sliding partitions, primary-color accents, and an upper floor that can be one room or four depending on the hour. Client and architect became lifelong collaborators and companions; he eventually moved in. The later decades were less doctrinaire and more social — housing, furniture anyone could make from a crate, the Dutch pavilion in Venice — and he was drawing the Van Gogh Museum when he died in 1964. The house is now UNESCO-listed; the chair is in every design textbook on earth.",
+    "projects": [
+      {
+        "title": "Rietveld Schröder House",
+        "year": "1924",
+        "location": "Utrecht, NL",
+        "blurb": "De Stijl's only complete building — sliding walls, primary colors, and a facade of floating planes, made with client Truus Schröder.",
+        "wikipedia": "Rietveld Schröder House"
+      },
+      {
+        "title": "Red and Blue Chair",
+        "year": "1918",
+        "location": "Utrecht, NL",
+        "blurb": "Thirteen sticks and two planes; Mondrian's geometry made sittable, and modernism's most reproduced piece of furniture.",
+        "wikipedia": "Red and Blue Chair"
+      },
+      {
+        "title": "Zig-Zag Chair",
+        "year": "1934",
+        "location": "Utrecht, NL",
+        "blurb": "Four planes of wood folded into a cantilever without legs — a structural dare that became a classic.",
+        "wikipedia": "Zig-Zag Chair"
+      },
+      {
+        "title": "Van Gogh Museum",
+        "year": "1973",
+        "location": "Amsterdam, NL",
+        "blurb": "His last commission, a daylit museum for the nation's Van Goghs on Museumplein, completed by his partners after his death.",
+        "wikipedia": "Van Gogh Museum"
+      },
+      {
+        "title": "Dutch Pavilion, Venice Biennale",
+        "year": "1954",
+        "location": "Venice, IT",
+        "blurb": "A calm toplit box in the Giardini that still serves the Netherlands at every Biennale.",
+        "wikipedia": null
+      },
+      {
+        "title": "Sonsbeek Pavilion",
+        "year": "1955",
+        "location": "Otterlo, NL",
+        "blurb": "A temporary exhibition pavilion of concrete-block screens and floating roofs, rebuilt in the Kröller-Müller sculpture garden.",
+        "wikipedia": null
+      },
+      {
+        "title": "Erasmuslaan Housing",
+        "year": "1934",
+        "location": "Utrecht, NL",
+        "blurb": "A white functionalist row across the street from the Schröder House, with model interiors furnished by Rietveld and Schröder.",
+        "wikipedia": null
+      },
+      {
+        "title": "Gerrit Rietveld Academie",
+        "year": "1967",
+        "location": "Amsterdam, NL",
+        "blurb": "A glass-and-steel art school completed posthumously and renamed for him the following year.",
+        "wikipedia": "Gerrit Rietveld Academie"
+      },
+      {
+        "title": "De Ploeg Factory",
+        "year": "1958",
+        "location": "Bergeijk, NL",
+        "blurb": "A curved daylit weaving mill for a progressive textile cooperative, set in a landscaped park.",
+        "wikipedia": null
+      },
+      {
+        "title": "Steltman Chair",
+        "year": "1963",
+        "location": "The Hague, NL",
+        "blurb": "An asymmetrical cube chair for a jeweler's shop, designed in his final year; made in mirrored left- and right-hand versions.",
+        "wikipedia": null
+      }
+    ]
+  }
+]

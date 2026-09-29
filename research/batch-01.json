@@ -1,0 +1,852 @@
+[
+  {
+    "id": "otto-wagner",
+    "name": "Otto Wagner",
+    "born": 1841,
+    "died": 1918,
+    "country": "Austria",
+    "link": null,
+    "linkLabel": null,
+    "firm": null,
+    "styles": ["Vienna Secession", "Early Modernism"],
+    "wikipedia": "Otto Wagner",
+    "bio": "Wagner spent his first decades building competent Ringstrasse historicism, then, past fifty, publicly renounced it: his 1895 textbook Moderne Architektur told students that only what is practical can be beautiful, and the necessities of modern life — not the styles of dead ones — should generate form. As professor at the Vienna Academy and chief architect of the city's new Stadtbahn, he had the platform and the commissions to prove it, cladding stations, bridges and apartment blocks in a language of marble panels, aluminum bolts and sunflower ornament that hovered exactly between the Secession and the century to come. The Postal Savings Bank, its banking hall lit through a glass ceiling and warmed by aluminum blast heaters, is functionalism before the word existed. His church at the Steinhof asylum gave psychiatric patients a gilded dome and shortened pews with rounded edges. He died in 1918 with the empire he had rebuilt in modern dress, having taught half of Central Europe's next generation — Plečnik, Hoffmann and Olbrich among them.",
+    "projects": [
+      {
+        "title": "Austrian Postal Savings Bank",
+        "year": "1906",
+        "location": "Vienna, AT",
+        "blurb": "Marble slabs bolted visibly to the facade and a glass-vaulted banking hall — the building that made construction itself the ornament.",
+        "wikipedia": "Österreichische Postsparkasse"
+      },
+      {
+        "title": "Kirche am Steinhof",
+        "year": "1907",
+        "location": "Vienna, AT",
+        "blurb": "A white-and-gold domed church for a psychiatric hospital, engineered for hygiene, sightlines and dignity in equal measure.",
+        "wikipedia": "Kirche am Steinhof"
+      },
+      {
+        "title": "Vienna Stadtbahn",
+        "year": "1894–1901",
+        "location": "Vienna, AT",
+        "blurb": "Stations, viaducts and bridges for the metropolitan railway — infrastructure treated as civic architecture for the first time.",
+        "wikipedia": "Vienna Stadtbahn"
+      },
+      {
+        "title": "Karlsplatz Stadtbahn Pavilions",
+        "year": "1898",
+        "location": "Vienna, AT",
+        "blurb": "Twin station pavilions of steel, marble and gilded sunflowers; the Secession's most reproduced image after Olbrich's dome.",
+        "wikipedia": "Karlsplatz Stadtbahn Station"
+      },
+      {
+        "title": "Linke Wienzeile Buildings",
+        "year": "1899",
+        "location": "Vienna, AT",
+        "blurb": "Two apartment blocks including the Majolikahaus, its facade a single washable field of flowering ceramic tile.",
+        "wikipedia": "Linke Wienzeile Buildings"
+      },
+      {
+        "title": "Hofpavillon Hietzing",
+        "year": "1899",
+        "location": "Vienna, AT",
+        "blurb": "A private Stadtbahn station for Emperor Franz Joseph, who used it exactly twice.",
+        "wikipedia": "Hietzing Court Pavilion"
+      },
+      {
+        "title": "Nussdorf Weir and Lock",
+        "year": "1898",
+        "location": "Vienna, AT",
+        "blurb": "Danube flood-control infrastructure guarded by bronze lions — engineering given imperial rhetoric.",
+        "wikipedia": "Nussdorf weir and lock"
+      },
+      {
+        "title": "Ankerhaus",
+        "year": "1895",
+        "location": "Vienna, AT",
+        "blurb": "A Graben commercial building with a fully glazed ground floor and a rooftop studio Wagner kept for himself.",
+        "wikipedia": "Ankerhaus"
+      },
+      {
+        "title": "First Villa Wagner",
+        "year": "1888",
+        "location": "Vienna, AT",
+        "blurb": "His Palladian suburban villa, later sold and now the Ernst Fuchs Museum; the historicist self he would spend a career renouncing.",
+        "wikipedia": "Ernst Fuchs Museum"
+      },
+      {
+        "title": "Second Villa Wagner",
+        "year": "1913",
+        "location": "Vienna, AT",
+        "blurb": "The compact late villa next door to the first — asymmetrical, aluminum-trimmed, and a quarter century of theory apart.",
+        "wikipedia": null
+      }
+    ]
+  },
+  {
+    "id": "antoni-gaudi",
+    "name": "Antoni Gaudí",
+    "born": 1852,
+    "died": 1926,
+    "country": "Spain",
+    "link": null,
+    "linkLabel": null,
+    "firm": null,
+    "styles": ["Catalan Modernisme", "Art Nouveau"],
+    "wikipedia": "Antoni Gaudí",
+    "bio": "A coppersmith's son from Reus, Gaudí took the Catalan Modernisme of his contemporaries and pushed it somewhere structural rather than decorative: he derived his leaning columns and ruled-surface vaults from hanging chain models, weighted with birdshot and photographed upside down, so that his most extravagant forms are also his most rational. The industrialist Eusebi Güell gave him a palace, a park and a workers' colony to experiment on; the Casa Milà gave Barcelona a facade like a cliff face and a roofscape patrolled by helmeted chimneys. In 1883 he took over the Sagrada Família, and from 1914 he worked on nothing else, sleeping on site, dressed so shabbily that when a tram struck him in 1926 he was taken for a beggar and brought to a paupers' ward. Barcelona gave him a state funeral; seven of his works are now World Heritage Sites, and the basilica is still under construction. No architect has ever been less imitable, which has not stopped anyone from trying.",
+    "projects": [
+      {
+        "title": "Sagrada Família",
+        "year": "1882–",
+        "location": "Barcelona, ES",
+        "blurb": "The expiatory basilica he served for forty-three years and knowingly left to future generations; a structural system disguised as a vision.",
+        "wikipedia": "Sagrada Família"
+      },
+      {
+        "title": "Casa Milà",
+        "year": "1912",
+        "location": "Barcelona, ES",
+        "blurb": "An apartment block with an undulating limestone facade, no load-bearing walls, and a roof of hooded chimney sentinels — La Pedrera, the quarry.",
+        "wikipedia": "Casa Milà"
+      },
+      {
+        "title": "Park Güell",
+        "year": "1914",
+        "location": "Barcelona, ES",
+        "blurb": "A failed garden suburb turned public park — viaducts grown from the hillside and the trencadís serpentine bench above the city.",
+        "wikipedia": "Park Güell"
+      },
+      {
+        "title": "Casa Batlló",
+        "year": "1906",
+        "location": "Barcelona, ES",
+        "blurb": "A remodel that dissolved a dull apartment house into bone-like columns, a scaled dragon roof and a light well graded from deep to pale blue.",
+        "wikipedia": "Casa Batlló"
+      },
+      {
+        "title": "Palau Güell",
+        "year": "1890",
+        "location": "Barcelona, ES",
+        "blurb": "A dark urban palace organized around a central hall rising into a perforated parabolic dome.",
+        "wikipedia": "Palau Güell"
+      },
+      {
+        "title": "Church of Colònia Güell",
+        "year": "1914",
+        "location": "Santa Coloma de Cervelló, ES",
+        "blurb": "Only the crypt was built, but its leaning basalt columns — designed with the hanging model — are the laboratory for everything in the Sagrada Família.",
+        "wikipedia": "Church of Colònia Güell"
+      },
+      {
+        "title": "Casa Vicens",
+        "year": "1885",
+        "location": "Barcelona, ES",
+        "blurb": "His first house, a Moorish-inflected summer villa in checkerboard tile; Modernisme's opening statement.",
+        "wikipedia": "Casa Vicens"
+      },
+      {
+        "title": "Bellesguard",
+        "year": "1909",
+        "location": "Barcelona, ES",
+        "blurb": "A castle-like house in slate and stone on the site of a medieval royal residence, straight lines for once — mostly.",
+        "wikipedia": "Bellesguard"
+      },
+      {
+        "title": "Episcopal Palace of Astorga",
+        "year": "1893",
+        "location": "Astorga, ES",
+        "blurb": "A neo-Gothic granite palace for a bishop friend, abandoned mid-build when the bishop died and the chapter balked.",
+        "wikipedia": "Episcopal Palace of Astorga"
+      },
+      {
+        "title": "El Capricho",
+        "year": "1885",
+        "location": "Comillas, ES",
+        "blurb": "An early villa striped in sunflower tiles for a bachelor indiano, with a minaret-like lookout tower.",
+        "wikipedia": "El Capricho"
+      }
+    ]
+  },
+  {
+    "id": "louis-sullivan",
+    "name": "Louis Sullivan",
+    "born": 1856,
+    "died": 1924,
+    "country": "United States",
+    "link": null,
+    "linkLabel": null,
+    "firm": "Adler & Sullivan",
+    "styles": ["Chicago School"],
+    "wikipedia": "Louis Sullivan",
+    "bio": "Sullivan entered MIT at sixteen, lasted a year at the École des Beaux-Arts, and found his real education in the steel frames going up in post-fire Chicago. In partnership with the engineer Dankmar Adler from 1883, he gave the new skyscraper its first coherent artistic form — base, shaft and cornice, with vertical piers pulled taut and his own seething organic ornament poured into the spandrels — and gave the discipline its most misquoted sentence: form ever follows function. The young Frank Lloyd Wright drafted at his elbow and called him Lieber Meister for the rest of his life. After the partnership dissolved in 1895 the commissions thinned to a trickle, and Sullivan spent his last two decades scattering small-town Midwestern banks like jewel boxes across Iowa, Minnesota and Ohio. He died broke in a Chicago hotel room in 1924, days after receiving the first copies of his Autobiography of an Idea.",
+    "projects": [
+      {
+        "title": "Wainwright Building",
+        "year": "1891",
+        "location": "St. Louis, US",
+        "blurb": "The first skyscraper to look like one on purpose — every vertical line insisting, as Sullivan wrote, that it be tall, every inch of it proud and soaring.",
+        "wikipedia": "Wainwright Building"
+      },
+      {
+        "title": "Guaranty Building",
+        "year": "1896",
+        "location": "Buffalo, US",
+        "blurb": "The Wainwright idea perfected, wrapped entirely in red terracotta ornament that grows denser as the building rises.",
+        "wikipedia": "Prudential (Guaranty) Building"
+      },
+      {
+        "title": "Carson Pirie Scott Store",
+        "year": "1899–1904",
+        "location": "Chicago, US",
+        "blurb": "Wide Chicago windows above and a corner entrance wreathed in cast-iron foliage below; the department store as honest frame plus seduction.",
+        "wikipedia": "Sullivan Center"
+      },
+      {
+        "title": "Auditorium Building",
+        "year": "1889",
+        "location": "Chicago, US",
+        "blurb": "Hotel, offices and a 4,000-seat theater with legendary acoustics in one granite mass — Adler & Sullivan's colossal breakthrough.",
+        "wikipedia": "Auditorium Building"
+      },
+      {
+        "title": "National Farmers' Bank",
+        "year": "1908",
+        "location": "Owatonna, US",
+        "blurb": "The first and grandest of the late jewel-box banks: a brick cube with two great arched windows and an interior of stenciled color.",
+        "wikipedia": "National Farmers' Bank of Owatonna"
+      },
+      {
+        "title": "Bayard–Condict Building",
+        "year": "1899",
+        "location": "New York, US",
+        "blurb": "His only New York building, a white terracotta frame crowned with six winged figures.",
+        "wikipedia": "Bayard–Condict Building"
+      },
+      {
+        "title": "Chicago Stock Exchange Building",
+        "year": "1894",
+        "location": "Chicago, US",
+        "blurb": "Demolished in 1972 despite protest; the Trading Room was reassembled in the Art Institute, and the fight helped invent American preservation.",
+        "wikipedia": "Chicago Stock Exchange Building"
+      },
+      {
+        "title": "Merchants' National Bank",
+        "year": "1914",
+        "location": "Grinnell, US",
+        "blurb": "A brick box detonated by one enormous circular ornament over the door.",
+        "wikipedia": "Merchants' National Bank (Grinnell, Iowa)"
+      },
+      {
+        "title": "Peoples Federal Savings and Loan",
+        "year": "1918",
+        "location": "Sidney, US",
+        "blurb": "A late bank still operating as one, its facade carrying a green mosaic panel reading, simply, Thrift.",
+        "wikipedia": "Peoples Federal Savings and Loan Association"
+      },
+      {
+        "title": "Krause Music Store",
+        "year": "1922",
+        "location": "Chicago, US",
+        "blurb": "His last commission: a single green terracotta facade, the ornament as dense as ever, for a neighborhood music shop.",
+        "wikipedia": "Krause Music Store"
+      }
+    ]
+  },
+  {
+    "id": "victor-horta",
+    "name": "Victor Horta",
+    "born": 1861,
+    "died": 1947,
+    "country": "Belgium",
+    "link": "https://www.hortamuseum.be",
+    "linkLabel": "Museum",
+    "firm": null,
+    "styles": ["Art Nouveau"],
+    "wikipedia": "Victor Horta",
+    "bio": "With the Hôtel Tassel of 1893, Horta did something genuinely without precedent: he took iron — until then the material of stations and greenhouses — into the bourgeois town house, let it show, and bent it into the whiplash line that named a movement. For a decade he was the busiest architect in Brussels, building houses for industrialists, a department store, and the Maison du Peuple for the Socialist party, each one a total design down to the door handles and radiator grilles. He fled to England and America during the First World War and came back a classicist, producing the stripped, coffered Palais des Beaux-Arts as if the whiplash decade had been someone else's. Brussels demolished the Maison du Peuple in 1965 in one of preservation's canonical crimes; four of his surviving town houses, including his own house and studio, are now World Heritage Sites. The style he invented burned out in fifteen years, which he understood better than his imitators did.",
+    "projects": [
+      {
+        "title": "Hôtel Tassel",
+        "year": "1893",
+        "location": "Brussels, BE",
+        "blurb": "The consensus first building of Art Nouveau — an exposed iron column sprouting painted tendrils up the stairwell of a professor's house.",
+        "wikipedia": "Hôtel Tassel"
+      },
+      {
+        "title": "Hôtel Solvay",
+        "year": "1900",
+        "location": "Brussels, BE",
+        "blurb": "An unlimited budget from a chemical dynasty, spent on a facade of bowed stone and an interior where every object is Horta's.",
+        "wikipedia": "Hôtel Solvay"
+      },
+      {
+        "title": "Hôtel van Eetvelde",
+        "year": "1898",
+        "location": "Brussels, BE",
+        "blurb": "A town house for the administrator of the Congo Free State, organized around a glass-domed octagonal winter garden — colonial money made uncomfortably visible.",
+        "wikipedia": "Hôtel van Eetvelde"
+      },
+      {
+        "title": "Maison & Atelier Horta",
+        "year": "1901",
+        "location": "Brussels, BE",
+        "blurb": "His own house and studio in Saint-Gilles, now the Horta Museum; the staircase ends in a canopy of mirrors and golden glass.",
+        "wikipedia": "Horta Museum"
+      },
+      {
+        "title": "Maison du Peuple",
+        "year": "1899",
+        "location": "Brussels, BE",
+        "blurb": "An iron-and-glass headquarters and auditorium for the Belgian Workers' Party, demolished in 1965 over international protest.",
+        "wikipedia": "Maison du Peuple, Brussels"
+      },
+      {
+        "title": "Magasins Waucquez",
+        "year": "1906",
+        "location": "Brussels, BE",
+        "blurb": "A daylit textile department store, rescued in the 1980s to house the Belgian Comic Strip Center.",
+        "wikipedia": "Belgian Comic Strip Center"
+      },
+      {
+        "title": "Palais des Beaux-Arts",
+        "year": "1928",
+        "location": "Brussels, BE",
+        "blurb": "The late classicist Horta: a multi-arts complex buried in a sloping site, now Bozar.",
+        "wikipedia": "Centre for Fine Arts, Brussels"
+      },
+      {
+        "title": "Brussels-Central Station",
+        "year": "1952",
+        "location": "Brussels, BE",
+        "blurb": "The junction station he worked on for decades, completed by Maxime Brunfaut after his death.",
+        "wikipedia": "Brussels-Central railway station"
+      },
+      {
+        "title": "Hôtel Max Hallet",
+        "year": "1904",
+        "location": "Brussels, BE",
+        "blurb": "A late, calmer town house on Avenue Louise for a socialist lawyer; the whiplash line at its most restrained.",
+        "wikipedia": "Hôtel Max Hallet"
+      },
+      {
+        "title": "Hôtel Aubecq",
+        "year": "1902",
+        "location": "Brussels, BE",
+        "blurb": "Demolished in 1949; the numbered stones of its facade sat in storage for decades, a preservation parable.",
+        "wikipedia": "Hôtel Aubecq"
+      }
+    ]
+  },
+  {
+    "id": "frank-lloyd-wright",
+    "name": "Frank Lloyd Wright",
+    "born": 1867,
+    "died": 1959,
+    "country": "United States",
+    "link": "https://franklloydwright.org",
+    "linkLabel": "Foundation",
+    "firm": "Taliesin Fellowship",
+    "styles": ["Prairie School", "Organic Architecture"],
+    "wikipedia": "Frank Lloyd Wright",
+    "bio": "Over a seven-decade career that outlasted every movement it touched, Wright argued that American architecture should grow from its own ground rather than borrow from Europe. The Prairie houses stretched the home into long horizontal planes; the Usonian houses tried to make that vision affordable; Fallingwater and the Guggenheim made it mythic. He worked from Taliesin in Wisconsin and Taliesin West in the Arizona desert, surrounded by an apprentice fellowship that was part school, part farm, and part cult of personality. Arrogant, broke, scandal-prone and endlessly inventive, he remains the figure against whom American architects still measure themselves.",
+    "projects": [
+      {
+        "title": "Fallingwater",
+        "year": "1937",
+        "location": "Mill Run, US",
+        "blurb": "Cantilevered trays over a waterfall; the most famous house in America.",
+        "wikipedia": "Fallingwater"
+      },
+      {
+        "title": "Guggenheim Museum",
+        "year": "1959",
+        "location": "New York, US",
+        "blurb": "A single spiral ramp that made the museum itself the exhibit.",
+        "wikipedia": "Solomon R. Guggenheim Museum"
+      },
+      {
+        "title": "Robie House",
+        "year": "1910",
+        "location": "Chicago, US",
+        "blurb": "The Prairie house at full stretch — hovering roofs and Roman brick.",
+        "wikipedia": "Robie House"
+      },
+      {
+        "title": "Johnson Wax HQ",
+        "year": "1939",
+        "location": "Racine, US",
+        "blurb": "A great room of dendriform columns lit through Pyrex tubing.",
+        "wikipedia": "Johnson Wax Headquarters"
+      },
+      {
+        "title": "Taliesin",
+        "year": "1911–59",
+        "location": "Spring Green, US",
+        "blurb": "His own home, studio and school, rebuilt across a lifetime.",
+        "wikipedia": "Taliesin (studio)"
+      },
+      {
+        "title": "Taliesin West",
+        "year": "1937–59",
+        "location": "Scottsdale, US",
+        "blurb": "Desert masonry and canvas roofs; the winter camp that became a campus.",
+        "wikipedia": "Taliesin West"
+      },
+      {
+        "title": "Unity Temple",
+        "year": "1908",
+        "location": "Oak Park, US",
+        "blurb": "A monolithic concrete cube for worship — radical for 1908.",
+        "wikipedia": "Unity Temple"
+      },
+      {
+        "title": "Hollyhock House",
+        "year": "1921",
+        "location": "Los Angeles, US",
+        "blurb": "A Mayan-inflected art-house for an oil heiress; now a UNESCO site.",
+        "wikipedia": "Hollyhock House"
+      },
+      {
+        "title": "Price Tower",
+        "year": "1956",
+        "location": "Bartlesville, US",
+        "blurb": "His only realized skyscraper — a tree that escaped the forest.",
+        "wikipedia": "Price Tower"
+      },
+      {
+        "title": "Marin County Civic Center",
+        "year": "1962",
+        "location": "San Rafael, US",
+        "blurb": "Arched wings striding across the hills, finished after his death.",
+        "wikipedia": "Marin County Civic Center"
+      }
+    ]
+  },
+  {
+    "id": "charles-rennie-mackintosh",
+    "name": "Charles Rennie Mackintosh",
+    "born": 1868,
+    "died": 1928,
+    "country": "United Kingdom",
+    "link": "https://www.crmsociety.com",
+    "linkLabel": "Society",
+    "firm": "Honeyman, Keppie & Mackintosh",
+    "styles": ["Glasgow Style", "Art Nouveau"],
+    "wikipedia": "Charles Rennie Mackintosh",
+    "bio": "A Glasgow policeman's son who won the Glasgow School of Art commission at twenty-eight as a junior in Honeyman & Keppie's office, Mackintosh built almost everything that matters in his catalogue within about fifteen years and within a few miles of the Clyde. With his wife Margaret Macdonald — of whom he said she was half, if not three-quarters, of everything — he fused Scottish baronial mass with an attenuated floral geometry that Vienna adored and London ignored. The Art School's 1909 library, a dark timber cage hung inside a stone cliff, was arguably Britain's first modern interior; it burned in 2014 and again, catastrophically, in 2018 mid-restoration. Passed over at home, he left practice in 1913, drifted to Suffolk and then Port Vendres, and spent his last years painting watercolors of hillsides and flowers. He died in London in 1928, worth almost nothing; Glasgow has been apologizing ever since.",
+    "projects": [
+      {
+        "title": "Glasgow School of Art",
+        "year": "1899–1909",
+        "location": "Glasgow, UK",
+        "blurb": "His masterwork in two campaigns, the second delivering the timber-vaulted library; gutted by fires in 2014 and 2018, its rebuilding still contested.",
+        "wikipedia": "Glasgow School of Art"
+      },
+      {
+        "title": "The Hill House",
+        "year": "1904",
+        "location": "Helensburgh, UK",
+        "blurb": "A publisher's house above the Clyde — baronial outside, white and silver inside; currently drying out inside a chainmail box.",
+        "wikipedia": "Hill House, Helensburgh"
+      },
+      {
+        "title": "Willow Tearooms",
+        "year": "1903",
+        "location": "Glasgow, UK",
+        "blurb": "Miss Cranston's Sauchiehall Street tearooms, designed with Margaret down to the cutlery and the waitresses' dresses.",
+        "wikipedia": "Willow Tearooms"
+      },
+      {
+        "title": "Queen's Cross Church",
+        "year": "1899",
+        "location": "Glasgow, UK",
+        "blurb": "His only completed church, Gothic massing crossed with Glasgow Style detail; now the Mackintosh Society's home.",
+        "wikipedia": "Queen's Cross Church, Glasgow"
+      },
+      {
+        "title": "Scotland Street School",
+        "year": "1906",
+        "location": "Glasgow, UK",
+        "blurb": "A board school with two glazed stair towers flooding the halls with light; his last major Glasgow building.",
+        "wikipedia": "Scotland Street School Museum"
+      },
+      {
+        "title": "78 Derngate",
+        "year": "1917",
+        "location": "Northampton, UK",
+        "blurb": "A terraced-house remodel for W. J. Bassett-Lowke — black walls and electric geometric friezes that anticipate Art Deco.",
+        "wikipedia": "78 Derngate"
+      },
+      {
+        "title": "Windyhill",
+        "year": "1901",
+        "location": "Kilmacolm, UK",
+        "blurb": "The Hill House's rougher elder sibling, a harled family house that stayed private.",
+        "wikipedia": "Windyhill"
+      },
+      {
+        "title": "The Lighthouse",
+        "year": "1895",
+        "location": "Glasgow, UK",
+        "blurb": "The Glasgow Herald building with its corner water tower, his first significant work; later Scotland's centre for design and architecture.",
+        "wikipedia": "The Lighthouse, Glasgow"
+      },
+      {
+        "title": "Martyrs' School",
+        "year": "1898",
+        "location": "Glasgow, UK",
+        "blurb": "An early board school near his birthplace, the roof trusses already unmistakably his.",
+        "wikipedia": null
+      },
+      {
+        "title": "House for an Art Lover",
+        "year": "1901 / 1996",
+        "location": "Glasgow, UK",
+        "blurb": "His German competition portfolio built posthumously in Bellahouston Park, ninety-five years late.",
+        "wikipedia": "House for an Art Lover"
+      }
+    ]
+  },
+  {
+    "id": "adolf-loos",
+    "name": "Adolf Loos",
+    "born": 1870,
+    "died": 1933,
+    "country": "Austria",
+    "link": null,
+    "linkLabel": null,
+    "firm": null,
+    "styles": ["Early Modernism"],
+    "wikipedia": "Adolf Loos",
+    "bio": "Loos, a Brno stonemason's son who spent three formative years in 1890s America washing dishes and absorbing plumbing, returned to Vienna convinced that his city's beloved ornament was a symptom of cultural backwardness — a thesis he delivered in the 1910 lecture Ornament and Crime, the most quoted polemic in architecture. His buildings practiced a subtler doctrine than the essays preached: plain outside, luxurious inside, with marble, mahogany and brass doing the work that carving used to. The ornament-free Looshaus facing the Hofburg so offended the emperor that he reportedly kept the curtains drawn. Loos's real invention was the Raumplan — rooms of different heights interlocked in section rather than stacked in floors — brought to its finest pitch in Prague's Villa Müller. Nearly deaf, thrice married, disgraced by a 1928 morals trial, he died in 1933 having designed his own grave marker: a plain cube, naturally.",
+    "projects": [
+      {
+        "title": "Villa Müller",
+        "year": "1930",
+        "location": "Prague, CZ",
+        "blurb": "The Raumplan at full maturity — a white cube outside, a spatial staircase of green marble and lemonwood rooms inside.",
+        "wikipedia": "Villa Müller"
+      },
+      {
+        "title": "Looshaus",
+        "year": "1911",
+        "location": "Vienna, AT",
+        "blurb": "The Goldman & Salatsch building on Michaelerplatz: rich Cipollino marble below, famously eyebrow-less windows above, imperial outrage all around.",
+        "wikipedia": "Looshaus"
+      },
+      {
+        "title": "American Bar",
+        "year": "1908",
+        "location": "Vienna, AT",
+        "blurb": "A tiny Kärntner Strasse bar made vast by mirrors, onyx and a coffered marble ceiling; still pouring.",
+        "wikipedia": "American Bar (Vienna)"
+      },
+      {
+        "title": "Steiner House",
+        "year": "1910",
+        "location": "Vienna, AT",
+        "blurb": "A garden facade of stark white symmetry, endlessly reproduced as proto-modernism — usually cropped to hide the curved street roof.",
+        "wikipedia": "Steiner House"
+      },
+      {
+        "title": "Moller House",
+        "year": "1928",
+        "location": "Vienna, AT",
+        "blurb": "A blank street face with one projecting box; behind it, the Raumplan steps up through the house in half levels.",
+        "wikipedia": "Villa Moller"
+      },
+      {
+        "title": "Maison Tristan Tzara",
+        "year": "1926",
+        "location": "Paris, FR",
+        "blurb": "A Montmartre house for the Dada founder, from Loos's Paris exile among the avant-garde he half despised.",
+        "wikipedia": "Maison Tristan Tzara"
+      },
+      {
+        "title": "Café Museum",
+        "year": "1899",
+        "location": "Vienna, AT",
+        "blurb": "So ostentatiously plain that contemporaries nicknamed it Café Nihilismus; the intelligentsia moved in anyway.",
+        "wikipedia": "Café Museum"
+      },
+      {
+        "title": "Scheu House",
+        "year": "1913",
+        "location": "Vienna, AT",
+        "blurb": "A stepped, flat-roofed terrace house that scandalized Hietzing and anticipated a half century of setbacks.",
+        "wikipedia": null
+      },
+      {
+        "title": "Rufer House",
+        "year": "1922",
+        "location": "Vienna, AT",
+        "blurb": "A near-perfect cube with windows placed only where the interior wanted them; the Raumplan's first full statement.",
+        "wikipedia": null
+      },
+      {
+        "title": "Chicago Tribune Column",
+        "year": "1922",
+        "location": "Chicago, US (unbuilt)",
+        "blurb": "His competition entry: a skyscraper as one colossal Doric column, either the best joke or the most serious proposal in the whole famous field.",
+        "wikipedia": null
+      }
+    ]
+  },
+  {
+    "id": "joze-plecnik",
+    "name": "Jože Plečnik",
+    "born": 1872,
+    "died": 1957,
+    "country": "Slovenia",
+    "link": "https://mgml.si/en/plecnik-house/",
+    "linkLabel": "House",
+    "firm": null,
+    "styles": ["Vienna Secession", "Classicism"],
+    "wikipedia": "Jože Plečnik",
+    "bio": "A carpenter's son from Ljubljana and one of Otto Wagner's favorite students, Plečnik took the master's modern construction and bent it toward something no one else wanted: a personal, almost private classicism, columns and pyramids reassembled with a folk artist's freedom. Vienna gave him the concrete Zacherlhaus; Prague gave him the Castle, which President Masaryk asked him to transform from imperial fortress into the acropolis of a democracy. From 1921 he taught in Ljubljana and quietly rebuilt his home city — bridges, market, library, cemetery, riverbanks — turning a provincial town into a coherent capital on a municipal budget, largely with classical elements he priced like a craftsman. Deeply pious and monastically frugal, he lived in a small house in Trnovo now kept as his museum. Dismissed for decades as a reactionary, he was rediscovered by the postmodernists; UNESCO listed his Ljubljana works in 2021 as a one-man urban vision.",
+    "projects": [
+      {
+        "title": "National and University Library",
+        "year": "1941",
+        "location": "Ljubljana, SI",
+        "blurb": "A facade of mingled brick and rough stone, a dark stair rising between polished columns to a luminous reading room: knowledge as ascent.",
+        "wikipedia": "National and University Library of Slovenia"
+      },
+      {
+        "title": "Triple Bridge",
+        "year": "1932",
+        "location": "Ljubljana, SI",
+        "blurb": "Two pedestrian bridges grafted onto an old road bridge at fanning angles — the hinge of his whole Ljubljana plan.",
+        "wikipedia": "Triple Bridge"
+      },
+      {
+        "title": "Prague Castle Renovations",
+        "year": "1920–34",
+        "location": "Prague, CZ",
+        "blurb": "Courtyards, gardens, obelisk and stairways reworked for Masaryk's new republic; a democracy furnished by a Slovene classicist.",
+        "wikipedia": "Prague Castle"
+      },
+      {
+        "title": "Church of the Most Sacred Heart of Our Lord",
+        "year": "1932",
+        "location": "Prague, CZ",
+        "blurb": "A great brick vessel in Vinohrady with a slab tower pierced by a giant glass clock face.",
+        "wikipedia": "Church of the Most Sacred Heart of Our Lord"
+      },
+      {
+        "title": "Zacherlhaus",
+        "year": "1905",
+        "location": "Vienna, AT",
+        "blurb": "A granite-clad, concrete-framed apartment block for an insecticide magnate; Wagner-school modernity with a saint on the corner.",
+        "wikipedia": "Zacherlhaus"
+      },
+      {
+        "title": "Žale Cemetery",
+        "year": "1940",
+        "location": "Ljubljana, SI",
+        "blurb": "A garden of farewell: a monumental entrance arcade and a village of small chapels, one per patron saint, for the city's dead.",
+        "wikipedia": "Žale"
+      },
+      {
+        "title": "Ljubljana Central Market",
+        "year": "1944",
+        "location": "Ljubljana, SI",
+        "blurb": "A colonnaded market hall curving along the river between his bridges, part stoa, part shopfront.",
+        "wikipedia": "Ljubljana Central Market"
+      },
+      {
+        "title": "Križanke",
+        "year": "1956",
+        "location": "Ljubljana, SI",
+        "blurb": "A former monastery converted into an open-air theater; his last major work, finished in his eighties.",
+        "wikipedia": "Križanke"
+      },
+      {
+        "title": "Church of St. Michael",
+        "year": "1938",
+        "location": "Črna Vas, SI",
+        "blurb": "A marsh church on a shoestring — sewer pipes as columns, timber hall raised on a stone undercroft, bell tower as gate.",
+        "wikipedia": "Church of St. Michael in the Marsh"
+      },
+      {
+        "title": "Ljubljanica Sluice Gate",
+        "year": "1944",
+        "location": "Ljubljana, SI",
+        "blurb": "A piece of river infrastructure dressed as a temple with three pylons; even the floodgates got columns.",
+        "wikipedia": null
+      }
+    ]
+  },
+  {
+    "id": "julia-morgan",
+    "name": "Julia Morgan",
+    "born": 1872,
+    "died": 1957,
+    "country": "United States",
+    "link": null,
+    "linkLabel": null,
+    "firm": "Julia Morgan, Architect",
+    "styles": ["Beaux-Arts", "Arts and Crafts"],
+    "wikipedia": "Julia Morgan",
+    "bio": "Morgan took a civil engineering degree at Berkeley, then besieged the École des Beaux-Arts until it admitted her in 1898 as the first woman in its architecture section — reportedly after examiners had marked her down for being one. Back in California she became the state's first licensed woman architect, and when the 1906 earthquake left her reinforced-concrete Mills College campanile standing amid the rubble, the commissions never stopped: over 700 buildings in a five-decade practice, including a long run of YWCAs, women's clubs and campus buildings for clients other architects didn't court. William Randolph Hearst kept her occupied for nearly thirty years at San Simeon, where she managed everything from Roman pools to the zoo's bear grottos while running her San Francisco office by overnight train. She gave no interviews, published nothing, and burned most of her papers, believing buildings should speak for themselves. The AIA finally awarded her its Gold Medal in 2014, its first to a woman, fifty-seven years after her death.",
+    "projects": [
+      {
+        "title": "Hearst Castle",
+        "year": "1919–47",
+        "location": "San Simeon, US",
+        "blurb": "La Cuesta Encantada: a Mediterranean hilltop compound assembled over decades around Hearst's insatiable collecting, Roman and Neptune pools included.",
+        "wikipedia": "Hearst Castle"
+      },
+      {
+        "title": "Asilomar Conference Grounds",
+        "year": "1913–29",
+        "location": "Pacific Grove, US",
+        "blurb": "A YWCA retreat of redwood and stone Arts and Crafts lodges among the Monterey dunes; sixteen Morgan buildings survive.",
+        "wikipedia": "Asilomar Conference Grounds"
+      },
+      {
+        "title": "Berkeley City Club",
+        "year": "1930",
+        "location": "Berkeley, US",
+        "blurb": "A six-story Moorish-Gothic women's club in reinforced concrete, its vaulted indoor pool nicknamed the little castle's crown jewel by members.",
+        "wikipedia": "Berkeley City Club"
+      },
+      {
+        "title": "El Campanil, Mills College",
+        "year": "1904",
+        "location": "Oakland, US",
+        "blurb": "A 72-foot reinforced-concrete bell tower that rode out the 1906 earthquake untouched and made her reputation.",
+        "wikipedia": "Mills College"
+      },
+      {
+        "title": "Chapel of the Chimes",
+        "year": "1928",
+        "location": "Oakland, US",
+        "blurb": "A columbarium of cloistered courts, fountains and filtered light — one of the least morbid buildings for the dead in America.",
+        "wikipedia": "Chapel of the Chimes (Oakland, California)"
+      },
+      {
+        "title": "Herald Examiner Building",
+        "year": "1915",
+        "location": "Los Angeles, US",
+        "blurb": "Mission Revival headquarters for Hearst's Los Angeles paper, her first big commission for him.",
+        "wikipedia": "Herald Examiner Building"
+      },
+      {
+        "title": "Wyntoon",
+        "year": "1933–43",
+        "location": "McCloud River, US",
+        "blurb": "Hearst's forest estate rebuilt as a Bavarian fairy-tale village on the McCloud, murals and all.",
+        "wikipedia": "Wyntoon"
+      },
+      {
+        "title": "St. John's Presbyterian Church",
+        "year": "1910",
+        "location": "Berkeley, US",
+        "blurb": "Exposed redwood framing as the whole architecture; a Bay Region landmark now serving as a playhouse.",
+        "wikipedia": "St. John's Presbyterian Church (Berkeley, California)"
+      },
+      {
+        "title": "Fairmont Hotel Restoration",
+        "year": "1907",
+        "location": "San Francisco, US",
+        "blurb": "The fire-gutted hotel reopened exactly one year after the earthquake, with Morgan the engineer-architect who made it stand.",
+        "wikipedia": "Fairmont San Francisco"
+      },
+      {
+        "title": "Hearst Memorial Gymnasium",
+        "year": "1927",
+        "location": "Berkeley, US",
+        "blurb": "A Beaux-Arts women's gymnasium for the Berkeley campus, designed with Bernard Maybeck, pools framed by urns.",
+        "wikipedia": "Hearst Memorial Gymnasium"
+      }
+    ]
+  },
+  {
+    "id": "eliel-saarinen",
+    "name": "Eliel Saarinen",
+    "born": 1873,
+    "died": 1950,
+    "country": "Finland / United States",
+    "link": null,
+    "linkLabel": null,
+    "firm": "Gesellius, Lindgren & Saarinen",
+    "styles": ["National Romanticism", "Art Deco"],
+    "wikipedia": "Eliel Saarinen",
+    "bio": "Saarinen had two full careers separated by an ocean and a second-place prize. In Finland, with Gesellius and Lindgren, he built the granite National Romanticism of a country rehearsing its independence — the Paris 1900 pavilion, the National Museum, and Helsinki's great station, whose stone giants holding lamps are as close as railway architecture gets to myth; the three partners lived and worked together at Hvitträsk, the forest studio-home they built themselves. His 1922 Chicago Tribune entry finished second but out-influenced the winner, its telescoping setbacks becoming the template for a decade of American skyscrapers, and it carried him to the United States at forty-nine. There George Booth handed him Cranbrook, which he planned, built and ran as the Academy's president, teaching a generation that included Eames, Bertoia and his own son Eero. He died at Cranbrook in 1950, a founding father twice over.",
+    "projects": [
+      {
+        "title": "Helsinki Central Station",
+        "year": "1919",
+        "location": "Helsinki, FI",
+        "blurb": "Granite arch, clock tower and two pairs of colossal lantern-bearers; National Romanticism rationalized into one of the world's great stations.",
+        "wikipedia": "Helsinki Central Station"
+      },
+      {
+        "title": "Cranbrook Campus",
+        "year": "1925–42",
+        "location": "Bloomfield Hills, US",
+        "blurb": "Schools, academy, museum and his own house, built and directed over two decades — a total work of art that doubled as America's Bauhaus.",
+        "wikipedia": "Cranbrook Educational Community"
+      },
+      {
+        "title": "Chicago Tribune Competition Entry",
+        "year": "1922",
+        "location": "Chicago, US (unbuilt)",
+        "blurb": "Second prize, first influence: the stepped-back tower that Louis Sullivan praised over the winner and American cities built for a decade.",
+        "wikipedia": "Tribune Tower"
+      },
+      {
+        "title": "Hvitträsk",
+        "year": "1903",
+        "location": "Kirkkonummi, FI",
+        "blurb": "The lakeside log-and-stone compound where the three partners lived, worked and feuded; now a museum.",
+        "wikipedia": "Hvitträsk"
+      },
+      {
+        "title": "National Museum of Finland",
+        "year": "1910",
+        "location": "Helsinki, FI",
+        "blurb": "A national history museum composed as a granite medley of Finnish church and castle forms.",
+        "wikipedia": "National Museum of Finland"
+      },
+      {
+        "title": "First Christian Church",
+        "year": "1942",
+        "location": "Columbus, US",
+        "blurb": "A brick box and freestanding campanile that count among the first modernist churches in America, in the town Eero and others would fill after him.",
+        "wikipedia": "First Christian Church (Columbus, Indiana)"
+      },
+      {
+        "title": "Kleinhans Music Hall",
+        "year": "1940",
+        "location": "Buffalo, US",
+        "blurb": "A curved-shell concert hall of exceptional acoustics, designed with Eero as the practice became father-and-son.",
+        "wikipedia": "Kleinhans Music Hall"
+      },
+      {
+        "title": "Christ Church Lutheran",
+        "year": "1949",
+        "location": "Minneapolis, US",
+        "blurb": "His last completed building: plain brick, side-lit chancel, not an ounce of rhetoric — modern religious space at its quietest.",
+        "wikipedia": "Christ Church Lutheran (Minneapolis)"
+      },
+      {
+        "title": "Crow Island School",
+        "year": "1940",
+        "location": "Winnetka, US",
+        "blurb": "With Eero and Perkins & Will: the child-scaled, single-story elementary school that became the postwar American template.",
+        "wikipedia": "Crow Island School"
+      },
+      {
+        "title": "Finnish Pavilion, Paris 1900",
+        "year": "1900",
+        "location": "Paris, FR (demolished)",
+        "blurb": "The exposition pavilion that announced both the young partnership and, diplomatically speaking, Finland itself.",
+        "wikipedia": null
+      }
+    ]
+  }
+]

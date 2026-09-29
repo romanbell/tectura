@@ -1,0 +1,5 @@
+You are making too many requests to the API.
+Please follow the best practices at <https://www.mediawiki.org/wiki/Wikimedia_APIs/Rate_limits>.
+If you are unsure how to get the access you need, contact <bot-traffic@wikimedia.org>.
+
+request-id: 74ad7282-7622-4f39-9c39-3e0050bd1f17

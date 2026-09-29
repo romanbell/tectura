@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TECTURA — An Index of 100 Architects</title>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+
+  <header class="site-header">
+    <div class="masthead">
+      <h1 class="site-title">TECTURA</h1>
+      <div class="site-subtitle">
+        <p>An index of one hundred architects,<br>their firms, projects &amp; styles.</p>
+      </div>
+      <div class="site-note">
+        <p>Hover for portrait.<br>Click for selected works.</p>
+      </div>
+    </div>
+    <div class="column-headers" aria-hidden="true">
+      <span class="col col-no">No.</span>
+      <span class="col col-name">Name</span>
+      <span class="col col-years">b.&ndash;d.</span>
+      <span class="col col-country">Country</span>
+      <span class="col col-link">Office</span>
+    </div>
+  </header>
+
+  <main>
+    <ol class="index-list" id="index-list"></ol>
+  </main>
+
+  <footer class="site-footer">
+    <p>TECTURA &mdash; a working index. Data in progress.</p>
+    <p>Set in Helvetica.</p>
+  </footer>
+
+  <div class="portrait-float" id="portrait-float" aria-hidden="true">
+    <img id="portrait-img" src="" alt="">
+    <span class="portrait-caption" id="portrait-caption"></span>
+  </div>
+
+  <div class="mobile-notice">
+    <p>TECTURA is a desktop index.<br>Please visit on a larger screen.</p>
+  </div>
+
+  <script src="js/data.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

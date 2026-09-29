@@ -1,0 +1,878 @@
+[
+  {
+    "id": "aldo-rossi",
+    "name": "Aldo Rossi",
+    "born": 1931,
+    "died": 1997,
+    "country": "Italy",
+    "link": "https://www.fondazionealdorossi.org",
+    "linkLabel": "Fondazione",
+    "firm": "Studio Aldo Rossi",
+    "styles": [
+      "Neo-Rationalism",
+      "Postmodernism"
+    ],
+    "wikipedia": "Aldo Rossi",
+    "bio": "Rossi mattered twice over: first as the theorist of L'architettura della città (1966), which argued that the city is a repository of collective memory built from persistent types, and then as the designer who gave that argument melancholy built form. His palette barely changed — cones, cubes, square windows, striped porticoes — whether the commission was a cemetery, a floating theatre or an espresso pot for Alessi. The San Cataldo cemetery at Modena, won in competition with Gianni Braghieri in 1971 and still unfinished, remains the key monument of the Tendenza he led. He taught in Milan, Zurich and Venice, and in 1990 became the first Italian to win the Pritzker. He died in 1997 of injuries from a car crash, leaving the 'analogous city' as one of postwar architecture's most quoted ideas.",
+    "projects": [
+      {
+        "title": "San Cataldo Cemetery",
+        "year": "1971–",
+        "location": "Modena, IT",
+        "blurb": "A roofless ossuary cube and blue-roofed colonnades — a city of the dead, deliberately unfinished.",
+        "wikipedia": "San Cataldo Cemetery"
+      },
+      {
+        "title": "Teatro del Mondo",
+        "year": "1979",
+        "location": "Venice, IT",
+        "blurb": "A floating timber theatre towed into the lagoon for the 1980 Biennale, then dismantled; his most loved building barely existed.",
+        "wikipedia": "Teatro del Mondo"
+      },
+      {
+        "title": "Monte Amiata Housing, Gallaratese",
+        "year": "1973",
+        "location": "Milan, IT",
+        "blurb": "A 182-meter housing slab on a rhythmic portico — the rationalist corridor block reduced to its type.",
+        "wikipedia": null
+      },
+      {
+        "title": "Bonnefantenmuseum",
+        "year": "1995",
+        "location": "Maastricht, NL",
+        "blurb": "A brick E-plan museum on the Maas crowned by a zinc dome like a rocket nose.",
+        "wikipedia": "Bonnefantenmuseum"
+      },
+      {
+        "title": "Teatro Carlo Felice",
+        "year": "1990",
+        "location": "Genoa, IT",
+        "blurb": "The war-gutted opera house rebuilt behind its neoclassical portico, with a stone tower for a fly loft.",
+        "wikipedia": "Teatro Carlo Felice"
+      },
+      {
+        "title": "Il Palazzo Hotel",
+        "year": "1989",
+        "location": "Fukuoka, JP",
+        "blurb": "A windowless facade of red columns and green lintels — Rossi's typology exported to bubble-era Japan.",
+        "wikipedia": null
+      },
+      {
+        "title": "Quartier Schützenstrasse",
+        "year": "1998",
+        "location": "Berlin, DE",
+        "blurb": "A city block reconstituted as a collage of invented facades, Palazzo Farnese quotation included.",
+        "wikipedia": null
+      },
+      {
+        "title": "Scholastic Building",
+        "year": "2001",
+        "location": "New York, US",
+        "blurb": "His only US building, finished posthumously on Broadway — cast-iron SoHo replayed in red steel and stone.",
+        "wikipedia": "Scholastic Building"
+      },
+      {
+        "title": "Elementary School, Fagnano Olona",
+        "year": "1976",
+        "location": "Fagnano Olona, IT",
+        "blurb": "A school arranged like a miniature civic square around a clock and an open-air theatre.",
+        "wikipedia": null
+      },
+      {
+        "title": "Casa Aurora",
+        "year": "1987",
+        "location": "Turin, IT",
+        "blurb": "The GFT headquarters on a chamfered corner; Rossi's urban type-forms in brick and stone.",
+        "wikipedia": null
+      }
+    ]
+  },
+  {
+    "id": "arata-isozaki",
+    "name": "Arata Isozaki",
+    "born": 1931,
+    "died": 2022,
+    "country": "Japan",
+    "link": null,
+    "linkLabel": null,
+    "firm": "Arata Isozaki & Associates",
+    "styles": [
+      "Postmodernism",
+      "Metabolism"
+    ],
+    "wikipedia": "Arata Isozaki",
+    "bio": "Isozaki was fourteen when Hiroshima burned across the shore from his hometown of Ōita; he later said his first experience of architecture was its absence. Trained under Kenzō Tange, he orbited Metabolism without ever joining it, then spent six decades refusing to settle into a style — brutalist library, mannerist museum, high-tech dome — treating each building as a fresh hypothesis. The Gunma museum and the Tsukuba Center made him Japan's leading postmodernist; MOCA in Los Angeles opened the American market to Japanese architects. He was also the profession's great kingmaker as juror and curator, famously rescuing Zaha Hadid's discarded Peak entry from the reject pile in 1983. The Pritzker finally arrived in 2019, decades after most people expected it; he died in 2022 at ninety-one.",
+    "projects": [
+      {
+        "title": "Museum of Contemporary Art, Los Angeles",
+        "year": "1986",
+        "location": "Los Angeles, US",
+        "blurb": "Red sandstone vaults and a copper pyramid sunk into Bunker Hill; the building that introduced Isozaki to America.",
+        "wikipedia": "Museum of Contemporary Art, Los Angeles"
+      },
+      {
+        "title": "Museum of Modern Art, Gunma",
+        "year": "1974",
+        "location": "Takasaki, JP",
+        "blurb": "An open lattice of twelve-meter cubes — the museum as pure gridded frame.",
+        "wikipedia": "Museum of Modern Art, Gunma"
+      },
+      {
+        "title": "Palau Sant Jordi",
+        "year": "1990",
+        "location": "Barcelona, ES",
+        "blurb": "The 17,000-seat arena for the 1992 Olympics, its domed space-frame roof assembled on the ground and jacked into place.",
+        "wikipedia": "Palau Sant Jordi"
+      },
+      {
+        "title": "Tsukuba Center Building",
+        "year": "1983",
+        "location": "Tsukuba, JP",
+        "blurb": "A civic center for a new science city, quoting Michelangelo's Campidoglio in sunken reverse — Japanese postmodernism's set piece.",
+        "wikipedia": "Tsukuba Center Building"
+      },
+      {
+        "title": "Art Tower Mito",
+        "year": "1990",
+        "location": "Mito, JP",
+        "blurb": "An arts complex marked by a 100-meter helix of titanium tetrahedra, built for the city's centennial.",
+        "wikipedia": "Art Tower Mito"
+      },
+      {
+        "title": "Ōita Prefectural Library",
+        "year": "1966",
+        "location": "Ōita, JP",
+        "blurb": "Brutalist concrete in his hometown, conceived through his theory of 'process planning' — a building designed to grow.",
+        "wikipedia": null
+      },
+      {
+        "title": "Team Disney Building",
+        "year": "1991",
+        "location": "Lake Buena Vista, US",
+        "blurb": "Corporate offices entered through the world's largest sundial; postmodern play at Disney scale.",
+        "wikipedia": "Team Disney"
+      },
+      {
+        "title": "Qatar National Convention Centre",
+        "year": "2011",
+        "location": "Doha, QA",
+        "blurb": "A 250-meter facade held up by two colossal steel trees modeled on the sacred sidra.",
+        "wikipedia": "Qatar National Convention Centre"
+      },
+      {
+        "title": "Nara Centennial Hall",
+        "year": "1998",
+        "location": "Nara, JP",
+        "blurb": "A gray-tiled ellipsoid concert hall, its hull deferring to the temple roofs of the old capital.",
+        "wikipedia": "Nara Centennial Hall"
+      },
+      {
+        "title": "Allianz Tower",
+        "year": "2015",
+        "location": "Milan, IT",
+        "blurb": "A 50-story tower of stacked curved-glass modules with Andrea Maffei — endlessness as a facade principle, delivered in his eighties.",
+        "wikipedia": "Allianz Tower (Milan)"
+      }
+    ]
+  },
+  {
+    "id": "ricardo-legorreta",
+    "name": "Ricardo Legorreta",
+    "born": 1931,
+    "died": 2011,
+    "country": "Mexico",
+    "link": "https://www.legorreta.mx",
+    "linkLabel": "LEGORRETA",
+    "firm": "Legorreta Arquitectos (now LEGORRETA)",
+    "styles": [
+      "Mexican Modernism",
+      "Regionalism"
+    ],
+    "wikipedia": "Ricardo Legorreta",
+    "bio": "Legorreta took the lesson of his friend and mentor Luis Barragán — walls, water, silence and saturated color — and scaled it from private gardens up to hotels, factories, libraries and whole campuses. The Camino Real hotel in Mexico City, built for the Olympic year of 1968, announced the method: a low labyrinth of pink and yellow planes instead of an international-style slab. He had founded Legorreta Arquitectos in 1965 after a decade with José Villagrán García, insisting Mexican architecture could be modern without being imported. From the 1980s he carried the vocabulary north, remaking Pershing Square in Los Angeles and giving San Antonio a library in 'enchilada red', and proved the palette traveled. He received the AIA Gold Medal in 2000 and the Praemium Imperiale in 2011, weeks before his death; his son Víctor continues the firm as LEGORRETA.",
+    "projects": [
+      {
+        "title": "Camino Real Hotel",
+        "year": "1968",
+        "location": "Mexico City, MX",
+        "blurb": "A five-hectare walled city of colored screens, fountains and patios; Mexican modernism at hotel scale, with Goeritz and Calder inside.",
+        "wikipedia": "Camino Real Polanco Mexico"
+      },
+      {
+        "title": "San Antonio Central Library",
+        "year": "1995",
+        "location": "San Antonio, US",
+        "blurb": "A stepped 'enchilada red' box that made a public library the most argued-about building in Texas.",
+        "wikipedia": "Central Library (San Antonio)"
+      },
+      {
+        "title": "MARCO, Museo de Arte Contemporáneo",
+        "year": "1991",
+        "location": "Monterrey, MX",
+        "blurb": "Galleries around a water-filled patio at the foot of the Cerro de la Silla, entered past a giant Juan Soriano dove.",
+        "wikipedia": "Museo de Arte Contemporáneo de Monterrey"
+      },
+      {
+        "title": "Camino Real Ixtapa",
+        "year": "1981",
+        "location": "Ixtapa, MX",
+        "blurb": "A resort terraced down a Pacific cliff like a manmade hillside village.",
+        "wikipedia": null
+      },
+      {
+        "title": "Pershing Square",
+        "year": "1994",
+        "location": "Los Angeles, US",
+        "blurb": "Downtown LA's oldest park remade with a purple campanile, an aqueduct and an orange grove, with Laurie Olin.",
+        "wikipedia": "Pershing Square (Los Angeles)"
+      },
+      {
+        "title": "Papalote Museo del Niño",
+        "year": "1993",
+        "location": "Mexico City, MX",
+        "blurb": "A children's museum of blue-tiled geometric solids in Chapultepec Park.",
+        "wikipedia": "Papalote Museo del Niño"
+      },
+      {
+        "title": "New Cathedral of Managua",
+        "year": "1993",
+        "location": "Managua, NI",
+        "blurb": "A concrete cathedral under 63 egg-crate domes, built to shrug off the earthquakes that destroyed its predecessor.",
+        "wikipedia": "Metropolitan Cathedral of Managua"
+      },
+      {
+        "title": "Solana",
+        "year": "1988",
+        "location": "Westlake, US",
+        "blurb": "An IBM campus on the Texas prairie with Mitchell/Giurgola and Peter Walker — colored walls holding their own against the horizon.",
+        "wikipedia": null
+      },
+      {
+        "title": "Fábrica Automex",
+        "year": "1964",
+        "location": "Toluca, MX",
+        "blurb": "A Chrysler assembly plant with sculptural concrete towers by Mathias Goeritz; the early proof that industry could be emotional.",
+        "wikipedia": null
+      },
+      {
+        "title": "Plaza Juárez",
+        "year": "2005",
+        "location": "Mexico City, MX",
+        "blurb": "The Foreign Ministry towers and a plaza of 1,034 red pyramids in a reflecting pool, facing the Alameda.",
+        "wikipedia": null
+      }
+    ]
+  },
+  {
+    "id": "peter-eisenman",
+    "name": "Peter Eisenman",
+    "born": 1932,
+    "died": null,
+    "country": "United States",
+    "link": "https://eisenmanarchitects.com",
+    "linkLabel": "Eisenman",
+    "firm": "Eisenman Architects",
+    "styles": [
+      "Deconstructivism",
+      "Postmodernism"
+    ],
+    "wikipedia": "Peter Eisenman",
+    "bio": "Newark-born, Cornell-trained, with a Cambridge PhD on formal syntax, Eisenman spent his first two decades treating architecture as a text to be read rather than a shelter to be lived in. He founded the Institute for Architecture and Urban Studies in 1967 and edited Oppositions, turning downtown Manhattan into the seminar room of American theory. His numbered 'cardboard' houses pursued grammar over comfort — the owners of House VI wrote a whole book about the difficulty of inhabiting it. Major built work came late: the Wexner Center's colliding grids in 1989, a Cincinnati design school, even an NFL stadium. The Memorial to the Murdered Jews of Europe in Berlin (2005), a tilting field of 2,711 concrete stelae, is that rare thing, theory that moves the public; the City of Culture of Galicia, halted unfinished in 2013, may be the most expensive essay ever built. Into his nineties, he is still teaching and still arguing.",
+    "projects": [
+      {
+        "title": "Memorial to the Murdered Jews of Europe",
+        "year": "2005",
+        "location": "Berlin, DE",
+        "blurb": "2,711 concrete stelae on an undulating grid beside the Brandenburg Gate; disorientation as commemoration.",
+        "wikipedia": "Memorial to the Murdered Jews of Europe"
+      },
+      {
+        "title": "Wexner Center for the Arts",
+        "year": "1989",
+        "location": "Columbus, US",
+        "blurb": "A white scaffolding grid splicing two campus geometries; the first built manifesto of deconstructivism.",
+        "wikipedia": "Wexner Center for the Arts"
+      },
+      {
+        "title": "City of Culture of Galicia",
+        "year": "2011",
+        "location": "Santiago de Compostela, ES",
+        "blurb": "A hilltop of quartzite waves generated from the old town's street plan; construction was halted in 2013 with two buildings unbuilt.",
+        "wikipedia": "City of Culture of Galicia"
+      },
+      {
+        "title": "House VI",
+        "year": "1975",
+        "location": "Cornwall, US",
+        "blurb": "A weekend house as three-dimensional grammar exercise, complete with a slot bisecting the bedroom.",
+        "wikipedia": "House VI"
+      },
+      {
+        "title": "Aronoff Center for Design and Art",
+        "year": "1996",
+        "location": "Cincinnati, US",
+        "blurb": "A design school of torqued, shifted segments threaded along an existing building's spine.",
+        "wikipedia": "Aronoff Center for Design and Art"
+      },
+      {
+        "title": "State Farm Stadium",
+        "year": "2006",
+        "location": "Glendale, US",
+        "blurb": "The Arizona Cardinals' barrel-shaped stadium with a retractable roof and a roll-out natural-grass field.",
+        "wikipedia": "State Farm Stadium"
+      },
+      {
+        "title": "Greater Columbus Convention Center",
+        "year": "1993",
+        "location": "Columbus, US",
+        "blurb": "A convention hall disguised as a row of pastel urban buildings, its plan derived from railway lines and fiber-optic cable.",
+        "wikipedia": "Greater Columbus Convention Center"
+      },
+      {
+        "title": "House II (Falk House)",
+        "year": "1970",
+        "location": "Hardwick, US",
+        "blurb": "A Vermont hilltop house of doubled walls and columns — structure duplicated until it becomes pure notation.",
+        "wikipedia": null
+      },
+      {
+        "title": "IBA Housing, Checkpoint Charlie",
+        "year": "1986",
+        "location": "Berlin, DE",
+        "blurb": "Social housing at the Wall for the 1987 IBA, its facade gridded on the Mercator projection.",
+        "wikipedia": null
+      },
+      {
+        "title": "Koizumi Sangyo Building",
+        "year": "1990",
+        "location": "Tokyo, JP",
+        "blurb": "A lighting company's headquarters with Eisenman's fractured grids erupting from a sober office block.",
+        "wikipedia": null
+      }
+    ]
+  },
+  {
+    "id": "richard-rogers",
+    "name": "Richard Rogers",
+    "born": 1933,
+    "died": 2021,
+    "country": "United Kingdom",
+    "link": "https://rshp.com",
+    "linkLabel": "RSHP",
+    "firm": "Rogers Stirk Harbour + Partners (RSHP)",
+    "styles": [
+      "High-tech"
+    ],
+    "wikipedia": "Richard Rogers",
+    "bio": "Born in Florence in 1933 to an Anglo-Italian family, Rogers was dyslexic, drew badly, and compensated with conviction, charm and very good partners. At Yale he met Norman Foster; back in England they formed Team 4, the seedbed of British high-tech. In 1971, aged 38, he and Renzo Piano won the Pompidou competition with a building worn inside out — structure, ducts and escalators hung on the facade so the floors could stay free — and Lloyd's of London later repeated the move for the insurance market. The second half of his career was as much about cities as buildings: the Urban Task Force report, advisor to London mayors, a lifelong case for dense, compact, public urban life. He took the Pritzker in 2007, sat in the Lords as Lord Rogers of Riverside, wore fluorescent shirts to prove architecture need not be somber, and died in 2021.",
+    "projects": [
+      {
+        "title": "Centre Pompidou",
+        "year": "1977",
+        "location": "Paris, FR",
+        "blurb": "The inside-out culture machine designed with Renzo Piano — services color-coded on the facade, half the site left as public piazza.",
+        "wikipedia": "Centre Pompidou"
+      },
+      {
+        "title": "Lloyd's building",
+        "year": "1986",
+        "location": "London, UK",
+        "blurb": "The insurance market as oil rig: lifts, stairs and ducts pushed outside a soaring atrium. Grade I listed within 25 years.",
+        "wikipedia": "Lloyd's building"
+      },
+      {
+        "title": "Madrid–Barajas Terminal 4",
+        "year": "2006",
+        "location": "Madrid, ES",
+        "blurb": "A kilometer of undulating bamboo-lined roof on rainbow-painted branching steel; Stirling Prize 2006.",
+        "wikipedia": "Adolfo Suárez Madrid–Barajas Airport"
+      },
+      {
+        "title": "Millennium Dome",
+        "year": "1999",
+        "location": "London, UK",
+        "blurb": "A kilometer-round Teflon tent hung from twelve yellow masts on the Greenwich peninsula — cheap per square meter, expensive politically.",
+        "wikipedia": "Millennium Dome"
+      },
+      {
+        "title": "Senedd",
+        "year": "2006",
+        "location": "Cardiff, UK",
+        "blurb": "The Welsh parliament under a rippling timber roof, its glass walls a literal argument for transparent government.",
+        "wikipedia": "Senedd building"
+      },
+      {
+        "title": "122 Leadenhall Street",
+        "year": "2014",
+        "location": "London, UK",
+        "blurb": "The 'Cheesegrater' — a 224-meter wedge leaning back to protect the view of St Paul's.",
+        "wikipedia": "122 Leadenhall Street"
+      },
+      {
+        "title": "Heathrow Terminal 5",
+        "year": "2008",
+        "location": "London, UK",
+        "blurb": "Britain's biggest free-standing building at opening, a single-span waved roof over a 400-meter hall.",
+        "wikipedia": "Heathrow Terminal 5"
+      },
+      {
+        "title": "European Court of Human Rights",
+        "year": "1995",
+        "location": "Strasbourg, FR",
+        "blurb": "Twin drum chambers in steel and glass on the Ill — judicial architecture without a temple front.",
+        "wikipedia": "Human Rights Building"
+      },
+      {
+        "title": "3 World Trade Center",
+        "year": "2018",
+        "location": "New York, US",
+        "blurb": "An 80-story tower braced by external K-frames on the rebuilt Trade Center site.",
+        "wikipedia": "3 World Trade Center"
+      },
+      {
+        "title": "Bordeaux Law Courts",
+        "year": "1998",
+        "location": "Bordeaux, FR",
+        "blurb": "Seven cedar-clad courtroom pods like wine vats under a floating glass-and-steel canopy.",
+        "wikipedia": null
+      }
+    ]
+  },
+  {
+    "id": "alvaro-siza",
+    "name": "Álvaro Siza",
+    "born": 1933,
+    "died": null,
+    "country": "Portugal",
+    "link": null,
+    "linkLabel": null,
+    "firm": "Álvaro Siza Arquitecto",
+    "styles": [
+      "Modernism",
+      "Porto School"
+    ],
+    "wikipedia": "Álvaro Siza Vieira",
+    "bio": "Siza wanted to be a sculptor; architecture was the compromise his father would pay for, and the sculptor never quite left the work. He built his first projects in his twenties in Matosinhos, the fishing town where he was born — the Boa Nova tea house and the tidal pools at Leça, threaded into coastal rock so carefully that it is hard to say where design begins. After the 1974 revolution he built social housing with the SAAL brigades, residents at the table; with his teacher Fernando Távora he made the 'Porto School' shorthand for a modernism that carries the weight of place. The Pritzker came in 1992, the Serralves museum and the Expo 98 pavilion in the years after, and honors have not stopped since. Past ninety he still designs every project in soft pencil, and famously maintains no website — the drawings circulate anyway.",
+    "projects": [
+      {
+        "title": "Leça Swimming Pools",
+        "year": "1966",
+        "location": "Leça da Palmeira, PT",
+        "blurb": "Tidal pools set into the Atlantic rocks with low concrete walls; nature completed rather than replaced.",
+        "wikipedia": "Leça Swimming Pools"
+      },
+      {
+        "title": "Boa Nova Tea House",
+        "year": "1963",
+        "location": "Leça da Palmeira, PT",
+        "blurb": "A restaurant hugging the shore rocks under low timber ceilings; Siza at thirty, already unmistakable.",
+        "wikipedia": "Boa Nova Tea House"
+      },
+      {
+        "title": "Serralves Museum",
+        "year": "1999",
+        "location": "Porto, PT",
+        "blurb": "A white museum unfolding through an Art Deco estate's gardens, all controlled light and long approach.",
+        "wikipedia": "Serralves"
+      },
+      {
+        "title": "Pavilion of Portugal, Expo 98",
+        "year": "1998",
+        "location": "Lisbon, PT",
+        "blurb": "A 70-meter concrete canopy sagging like paper between two porticoes — impossibly thin, entirely calm.",
+        "wikipedia": "Pavilion of Portugal (Expo '98)"
+      },
+      {
+        "title": "Church of Santa Maria",
+        "year": "1996",
+        "location": "Marco de Canaveses, PT",
+        "blurb": "A white parish church of tilted walls and hidden light, proof that austere modernism can be devotional.",
+        "wikipedia": "Church of Santa Maria (Marco de Canaveses)"
+      },
+      {
+        "title": "Faculty of Architecture, University of Porto",
+        "year": "1993",
+        "location": "Porto, PT",
+        "blurb": "The architecture school as a small acropolis of white pavilions above the Douro; a curriculum in built form.",
+        "wikipedia": "Faculty of Architecture of the University of Porto"
+      },
+      {
+        "title": "Galician Centre of Contemporary Art",
+        "year": "1993",
+        "location": "Santiago de Compostela, ES",
+        "blurb": "Granite-clad galleries negotiating a Baroque convent's garden wall in a UNESCO old town.",
+        "wikipedia": "Galician Centre of Contemporary Art"
+      },
+      {
+        "title": "Bouça Housing",
+        "year": "1977",
+        "location": "Porto, PT",
+        "blurb": "SAAL social housing rows begun with residents after the revolution, completed only in 2006.",
+        "wikipedia": null
+      },
+      {
+        "title": "Bonjour Tristesse",
+        "year": "1984",
+        "location": "Berlin, DE",
+        "blurb": "A curved gray IBA corner block in Kreuzberg, nicknamed by graffiti the architect chose to keep.",
+        "wikipedia": null
+      },
+      {
+        "title": "Iberê Camargo Foundation",
+        "year": "2008",
+        "location": "Porto Alegre, BR",
+        "blurb": "A white museum with external ramps snaking over the facade, cantilevered toward the Guaíba; his first work in Brazil.",
+        "wikipedia": "Iberê Camargo Foundation"
+      }
+    ]
+  },
+  {
+    "id": "michael-graves",
+    "name": "Michael Graves",
+    "born": 1934,
+    "died": 2015,
+    "country": "United States",
+    "link": "https://www.michaelgraves.com",
+    "linkLabel": "MG A&D",
+    "firm": "Michael Graves Architecture & Design",
+    "styles": [
+      "Postmodernism"
+    ],
+    "wikipedia": "Michael Graves",
+    "bio": "Graves began as the most painterly of the New York Five, then broke ranks with white abstraction for color, ornament and classical memory. The Portland Building (1982) — garlands, keystones, a copper Portlandia over the door — became America's first major postmodern public building, loved and loathed in roughly equal measure and repeatedly threatened with demolition. Humana in Louisville and the Swan and Dolphin hotels for Disney scaled the manner up; then came the teakettle, whose whistling bird for Alessi (1985) and some two thousand products for Target put his design in more American kitchens than any architect since. Paralyzed from the chest down by an infection in 2003, he spent his last decade designing hospitals, wheelchairs and accessible houses from a wheelchair, calling healthcare design his most important work. He taught at Princeton for almost four decades and died in 2015.",
+    "projects": [
+      {
+        "title": "Portland Building",
+        "year": "1982",
+        "location": "Portland, US",
+        "blurb": "The first major postmodern public building in America — a decorated municipal box that launched a thousand arguments.",
+        "wikipedia": "Portland Building"
+      },
+      {
+        "title": "Humana Building",
+        "year": "1985",
+        "location": "Louisville, US",
+        "blurb": "A pink granite corporate tower with a loggia and rooftop belvedere; postmodernism gone respectable.",
+        "wikipedia": "Humana Building"
+      },
+      {
+        "title": "Denver Central Library",
+        "year": "1995",
+        "location": "Denver, US",
+        "blurb": "A castle of colored volumes and a great derrick-topped rotunda anchoring the civic center.",
+        "wikipedia": "Denver Public Library"
+      },
+      {
+        "title": "Walt Disney World Swan and Dolphin",
+        "year": "1990",
+        "location": "Lake Buena Vista, US",
+        "blurb": "Turquoise waves, five-story swans and 17-meter dolphins; 'entertainment architecture' coined on the spot.",
+        "wikipedia": "Walt Disney World Swan and Dolphin"
+      },
+      {
+        "title": "Team Disney Burbank",
+        "year": "1990",
+        "location": "Burbank, US",
+        "blurb": "Disney's corporate headquarters with the Seven Dwarfs as caryatids holding up the pediment.",
+        "wikipedia": "Team Disney"
+      },
+      {
+        "title": "San Juan Capistrano Library",
+        "year": "1983",
+        "location": "San Juan Capistrano, US",
+        "blurb": "A small mission-inflected library of courtyards and light monitors; early proof the manner could be gentle.",
+        "wikipedia": null
+      },
+      {
+        "title": "Snyderman House",
+        "year": "1972",
+        "location": "Fort Wayne, US",
+        "blurb": "The most elaborate of his early layered-grid houses; lost to fire in 2002.",
+        "wikipedia": null
+      },
+      {
+        "title": "Clos Pegase Winery",
+        "year": "1987",
+        "location": "Calistoga, US",
+        "blurb": "A Napa winery as ocher temple complex, won in a museum-sponsored competition.",
+        "wikipedia": "Clos Pegase"
+      },
+      {
+        "title": "Castalia, The Hague",
+        "year": "1998",
+        "location": "The Hague, NL",
+        "blurb": "A ministry doubled into two steep-gabled towers — Dutch rooflines blown up to skyline scale.",
+        "wikipedia": null
+      },
+      {
+        "title": "NCAA Headquarters and Hall of Champions",
+        "year": "2000",
+        "location": "Indianapolis, US",
+        "blurb": "A late civic commission in his hometown's White River State Park.",
+        "wikipedia": "NCAA Hall of Champions"
+      }
+    ]
+  },
+  {
+    "id": "richard-meier",
+    "name": "Richard Meier",
+    "born": 1934,
+    "died": null,
+    "country": "United States",
+    "link": "https://www.meierpartners.com",
+    "linkLabel": "Meier Partners",
+    "firm": "Richard Meier & Partners (now Meier Partners)",
+    "styles": [
+      "Modernism",
+      "Late Modernism"
+    ],
+    "wikipedia": "Richard Meier",
+    "bio": "Meier took Le Corbusier's white villas of the 1920s and spent a career refining them — porcelain-enameled panels, layered grids, ramps, and light treated as the real building material. The Smith House of 1967 made his name; membership in the New York Five confirmed the allegiance to whiteness; the Pritzker arrived in 1984, when he was 49 and its youngest laureate. The Getty Center (1997), thirteen years and a billion dollars in the making, spread his manner across a Brentwood hilltop in travertine, while Frankfurt, Barcelona and Rome collected his museums. He was that rarity, a signature architect whose signature never wavered — critics called it repetition, clients called it reliability. In 2018 five women accused him of sexual harassment; he withdrew from practice, and the firm he founded in 1963 continues without his name at the door, as Meier Partners.",
+    "projects": [
+      {
+        "title": "Getty Center",
+        "year": "1997",
+        "location": "Los Angeles, US",
+        "blurb": "A billion-dollar acropolis of travertine and white metal above the 405; museum, institute and garden as one campus.",
+        "wikipedia": "Getty Center"
+      },
+      {
+        "title": "High Museum of Art",
+        "year": "1983",
+        "location": "Atlanta, US",
+        "blurb": "A white quadrant atrium ringed by ramps — the building that helped win his Pritzker the following year.",
+        "wikipedia": "High Museum of Art"
+      },
+      {
+        "title": "Barcelona Museum of Contemporary Art",
+        "year": "1995",
+        "location": "Barcelona, ES",
+        "blurb": "A white light-box dropped into the medieval Raval, its plaza now as famous for skateboarding as for art.",
+        "wikipedia": "Barcelona Museum of Contemporary Art"
+      },
+      {
+        "title": "Smith House",
+        "year": "1967",
+        "location": "Darien, US",
+        "blurb": "A white wood-framed house on the Long Island Sound rocks; the career's founding document.",
+        "wikipedia": "Smith House (Darien, Connecticut)"
+      },
+      {
+        "title": "Douglas House",
+        "year": "1973",
+        "location": "Harbor Springs, US",
+        "blurb": "A white machine moored to a steep Lake Michigan bluff, entered across a bridge to the roof.",
+        "wikipedia": "Douglas House (Harbor Springs, Michigan)"
+      },
+      {
+        "title": "The Atheneum",
+        "year": "1979",
+        "location": "New Harmony, US",
+        "blurb": "A visitors' center for a utopian settlement — ramps and skewed grids as a promenade above the Wabash.",
+        "wikipedia": "Atheneum (New Harmony, Indiana)"
+      },
+      {
+        "title": "Jubilee Church",
+        "year": "2003",
+        "location": "Rome, IT",
+        "blurb": "Three concrete sails of self-cleaning white cement in a Roman suburb, built for the millennium.",
+        "wikipedia": "Jubilee Church"
+      },
+      {
+        "title": "Museum Angewandte Kunst",
+        "year": "1985",
+        "location": "Frankfurt, DE",
+        "blurb": "A decorative-arts museum gridded off a 19th-century villa on Frankfurt's museum embankment.",
+        "wikipedia": "Museum Angewandte Kunst"
+      },
+      {
+        "title": "173 and 176 Perry Street",
+        "year": "2002",
+        "location": "New York, US",
+        "blurb": "Glass apartment towers on the West Village waterfront that made the celebrity condominium a genre.",
+        "wikipedia": "173 and 176 Perry Street"
+      },
+      {
+        "title": "Ara Pacis Museum",
+        "year": "2006",
+        "location": "Rome, IT",
+        "blurb": "A glass and travertine pavilion for Augustus's altar of peace — the first modern building in Rome's center since the war, furiously contested.",
+        "wikipedia": "Ara Pacis"
+      }
+    ]
+  },
+  {
+    "id": "hans-hollein",
+    "name": "Hans Hollein",
+    "born": 1934,
+    "died": 2014,
+    "country": "Austria",
+    "link": "https://www.hollein.com",
+    "linkLabel": "Archive",
+    "firm": "Atelier Hollein",
+    "styles": [
+      "Postmodernism"
+    ],
+    "wikipedia": "Hans Hollein",
+    "bio": "Hollein built almost nothing for a decade and it hardly mattered: his montages of aircraft carriers beached in wheat fields and his 1968 manifesto 'Alles ist Architektur' — everything, media and lipstick included, is architecture — made him famous first as a provocateur. The nine-square-meter Retti candle shop of 1965, an aluminum jewel box on Vienna's Kohlmarkt, won an American prize whose purse exceeded the construction cost. When the big commissions came he delivered: the Abteiberg museum at Mönchengladbach (1982) buried galleries in a terraced hillside and helped invent the museum as landscape, and the Haas House opposite St. Stephen's Cathedral scandalized Vienna before Vienna adopted it. Trained in Vienna, at IIT and at Berkeley, he was equally a designer, artist and exhibition-maker, and in 1985 became the only Austrian Pritzker laureate to date. He died in 2014; his children Max and Lilli went on to run the Metropolitan Museum and the MAK.",
+    "projects": [
+      {
+        "title": "Abteiberg Museum",
+        "year": "1982",
+        "location": "Mönchengladbach, DE",
+        "blurb": "Galleries terraced into a hillside beneath a sculpture garden; the postmodern museum's founding building.",
+        "wikipedia": "Abteiberg Museum"
+      },
+      {
+        "title": "Haas House",
+        "year": "1990",
+        "location": "Vienna, AT",
+        "blurb": "A curved mirror-glass store facing the Gothic cathedral across Stephansplatz; Vienna's loudest architecture fight of the decade.",
+        "wikipedia": "Haas-Haus"
+      },
+      {
+        "title": "Retti Candle Shop",
+        "year": "1965",
+        "location": "Vienna, AT",
+        "blurb": "Nine square meters behind a slotted aluminum facade; the tiny shop that launched the career.",
+        "wikipedia": null
+      },
+      {
+        "title": "Museum für Moderne Kunst",
+        "year": "1991",
+        "location": "Frankfurt, DE",
+        "blurb": "A triangular museum wedged into a city block, nicknamed the 'slice of cake'.",
+        "wikipedia": "Museum für Moderne Kunst"
+      },
+      {
+        "title": "Vulcania",
+        "year": "2002",
+        "location": "Saint-Ours-les-Roches, FR",
+        "blurb": "A volcanism park sunk into the Auvergne's lava fields, marked by a gold-lined truncated cone.",
+        "wikipedia": "Vulcania"
+      },
+      {
+        "title": "Schullin Jewelry Shop",
+        "year": "1974",
+        "location": "Vienna, AT",
+        "blurb": "A granite facade split by a gilded fissure — geology as shopfront, on the Graben.",
+        "wikipedia": null
+      },
+      {
+        "title": "Albertina Extension",
+        "year": "2003",
+        "location": "Vienna, AT",
+        "blurb": "The museum's entrance remade under a 64-meter cantilevered titanium wing over the old bastion.",
+        "wikipedia": "Albertina"
+      },
+      {
+        "title": "Austrian Embassy",
+        "year": "2001",
+        "location": "Berlin, DE",
+        "blurb": "Curved copper-green volumes for Austria's return to diplomatic Berlin.",
+        "wikipedia": null
+      },
+      {
+        "title": "Media Tower",
+        "year": "2001",
+        "location": "Vienna, AT",
+        "blurb": "A glass office tower on the Danube Canal with a cantilevered 'head' — late Hollein at urban scale.",
+        "wikipedia": null
+      },
+      {
+        "title": "Interbank Headquarters",
+        "year": "2001",
+        "location": "Lima, PE",
+        "blurb": "A leaning tower with a curved, scaled skin for a Peruvian bank; his major South American work.",
+        "wikipedia": null
+      }
+    ]
+  },
+  {
+    "id": "kisho-kurokawa",
+    "name": "Kisho Kurokawa",
+    "born": 1934,
+    "died": 2007,
+    "country": "Japan",
+    "link": "https://www.kisho.co.jp",
+    "linkLabel": "KKAA",
+    "firm": "Kisho Kurokawa Architect & Associates",
+    "styles": [
+      "Metabolism"
+    ],
+    "wikipedia": "Kisho Kurokawa",
+    "bio": "Kurokawa was twenty-six when he co-founded Metabolism in 1960, the movement that imagined cities growing and shedding parts like organisms, and he stayed its most visible evangelist for life. The Nakagin Capsule Tower (1972) — 140 prefabricated pods bolted to twin cores, designed to be swapped out every 25 years and never once replaced — became the movement's built manifesto and, after its 2022 demolition, its relic. A student of Kenzō Tange with a taste for philosophy, he repackaged Metabolism as 'symbiosis', wrote dozens of books, and appeared on television often enough to be a genuine celebrity. His late career went big: an airport in the Malaysian rainforest, stadiums, and the National Art Center in Tokyo, which opened months before his death. In 2007 he ran quixotically for governor of Tokyo, lost badly, and died that October at 73.",
+    "projects": [
+      {
+        "title": "Nakagin Capsule Tower",
+        "year": "1972",
+        "location": "Tokyo, JP",
+        "blurb": "140 replaceable living capsules on two concrete cores; Metabolism's built manifesto, demolished in 2022.",
+        "wikipedia": "Nakagin Capsule Tower"
+      },
+      {
+        "title": "National Art Center, Tokyo",
+        "year": "2007",
+        "location": "Tokyo, JP",
+        "blurb": "Japan's largest exhibition space behind a billowing glass facade; opened months before his death.",
+        "wikipedia": "National Art Center, Tokyo"
+      },
+      {
+        "title": "Kuala Lumpur International Airport",
+        "year": "1998",
+        "location": "Sepang, MY",
+        "blurb": "An 'airport in the forest' with hyperbolic-shell roofs and a patch of rainforest inside the satellite terminal.",
+        "wikipedia": "Kuala Lumpur International Airport"
+      },
+      {
+        "title": "Hiroshima City Museum of Contemporary Art",
+        "year": "1989",
+        "location": "Hiroshima, JP",
+        "blurb": "Japan's first public contemporary-art museum, ringed on a hilltop with a plaza left open toward the hypocenter.",
+        "wikipedia": "Hiroshima City Museum of Contemporary Art"
+      },
+      {
+        "title": "Van Gogh Museum Exhibition Wing",
+        "year": "1999",
+        "location": "Amsterdam, NL",
+        "blurb": "An elliptical, partly sunken wing behind Rietveld's museum, gift-financed by a Japanese insurer.",
+        "wikipedia": "Van Gogh Museum"
+      },
+      {
+        "title": "National Museum of Ethnology",
+        "year": "1977",
+        "location": "Osaka, JP",
+        "blurb": "A gridded, extendable museum on the Expo 70 site — Metabolist growth logic in institutional form.",
+        "wikipedia": "National Museum of Ethnology (Japan)"
+      },
+      {
+        "title": "Nagoya City Art Museum",
+        "year": "1987",
+        "location": "Nagoya, JP",
+        "blurb": "A symbiosis-era museum in his hometown, layering Japanese motifs into a modernist frame.",
+        "wikipedia": "Nagoya City Art Museum"
+      },
+      {
+        "title": "Melbourne Central",
+        "year": "1991",
+        "location": "Melbourne, AU",
+        "blurb": "A retail and office complex whose 20-story glass cone preserves a Victorian shot tower inside.",
+        "wikipedia": "Melbourne Central"
+      },
+      {
+        "title": "Ōita Stadium",
+        "year": "2001",
+        "location": "Ōita, JP",
+        "blurb": "The 'Big Eye' — a 43,000-seat stadium under a sliding titanium eyelid, built for the 2002 World Cup.",
+        "wikipedia": "Ōita Stadium"
+      },
+      {
+        "title": "Sony Tower",
+        "year": "1976",
+        "location": "Osaka, JP",
+        "blurb": "A capsule-serviced showroom tower in Shinsaibashi; Metabolism's commercial outing, demolished in 2006.",
+        "wikipedia": null
+      }
+    ]
+  }
+]
